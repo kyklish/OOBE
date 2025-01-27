@@ -1,0 +1,3 @@
+Value meanings:
+    0xFF - Disable AutoPlay for all drives
+    0x91 - Default (AutoPlay disabled on unknown drives, network drives, etc.)

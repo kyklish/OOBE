@@ -1,0 +1,10 @@
+# This is a comment and below is line with Parameter Names for Import-Csv command
+"AppFullName","FileExtension"
+"%SOFT%\1by1\1by1.exe",".mp3"
+"%SOFT%\1by1\1by1.exe",".flac"
+"%SOFT%\qBittorrent\qBittorrent.exe",".torrent"
+"%SOFT%\JPEGView\JPEGView.exe",".bmp"
+"%SOFT%\JPEGView\JPEGView.exe",".jpg"
+"%SOFT%\JPEGView\JPEGView.exe",".jpeg"
+"%SOFT%\JPEGView\JPEGView.exe",".png"
+"%SOFT%\Visual_Studio_Code\Code.exe",".code-workspace"

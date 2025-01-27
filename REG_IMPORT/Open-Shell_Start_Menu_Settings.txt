@@ -1,0 +1,6 @@
+Disable Search in:
+	Files
+	Metro Apps
+	System Path
+Windows 7 Style
+Skin: Metallic

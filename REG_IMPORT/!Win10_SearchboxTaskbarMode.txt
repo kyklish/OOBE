@@ -1,0 +1,16 @@
+Win10
+
+Hide huge white search field in taskbar.
+
+; Hide search box for current user
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]
+"SearchboxTaskbarMode"=dword:00000000
+
+; Hide search box for default user profile (applies to new accounts)
+[HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Search]
+"SearchboxTaskbarMode"=dword:00000000
+
+SearchboxTaskbarMode values:
+	0 - Hidden
+	1 - Show search icon
+	2 - Show search box
