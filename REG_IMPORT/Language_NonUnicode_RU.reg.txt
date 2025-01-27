@@ -1,0 +1,4 @@
+Russian (Russia) for non-Unicode programs
+
+Or set it manual:
+    Win+R --> INTL.CPL --> Russian (Russia)

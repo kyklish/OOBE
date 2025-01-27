@@ -1,0 +1,17 @@
+Disable "Open With..." message: search an app in MS Store for [ms-gamebar] URL protocol.
+
+CMD alternative:
+reg add HKCR\ms-gamebar /f /ve /d URL:ms-gamebar 2>&1 >''
+reg add HKCR\ms-gamebar /f /v "URL Protocol" /d "" 2>&1 >''
+reg add HKCR\ms-gamebar /f /v "NoOpenWith" /d "" 2>&1 >''
+reg add HKCR\ms-gamebar\shell\open\command /f /ve /d """%SystemRoot%\System32\systray.exe""" 2>&1 >''
+
+reg add HKCR\ms-gamebarservices /f /ve /d URL:ms-gamebarservices 2>&1 >''
+reg add HKCR\ms-gamebarservices /f /v "URL Protocol" /d "" 2>&1 >''
+reg add HKCR\ms-gamebarservices /f /v "NoOpenWith" /d "" 2>&1 >''
+reg add HKCR\ms-gamebarservices\shell\open\command /f /ve /d """%SystemRoot%\System32\systray.exe""" 2>&1 >''
+
+By default:
+	"URL Protocol" is empty
+	"NoOpenWith" not exist
+	"shell\open\command" not exist
