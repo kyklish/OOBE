@@ -1,0 +1,20 @@
+OOBE (fresh Windows install): import "7-zip.reg" to set this settings
+
+    Compression (7z)
+        "Level"=dword:00000009          Compression level: 9 - Ultra
+        "BlockSize"=dword:00000000      Non-solid
+    Options (integration)
+        "MenuIcons"=dword:00000001      Icons in context menu
+        "ContextMenu"=dword:00000304    Context menu items: (only necessary)
+
+============================================================================
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\7-zip\Compression\Options\7z]
+"BlockSize"=dword:00000000
+"Level"=dword:00000009
+
+[HKEY_CURRENT_USER\Software\7-zip\Options]
+"ContextMenu"=dword:00000304
+"MenuIcons"=dword:00000001
