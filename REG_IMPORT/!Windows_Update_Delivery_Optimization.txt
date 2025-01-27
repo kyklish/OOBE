@@ -1,0 +1,3 @@
+DODownloadMode:
+  0: Completely disables peer-to-peer update sharing.
+1–3: Allow LAN or internet sharing.

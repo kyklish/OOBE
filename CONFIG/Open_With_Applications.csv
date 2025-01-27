@@ -1,0 +1,6 @@
+# This is a comment and below is line with Parameter Names for Import-Csv command
+"Path","Params"
+"""%SOFT%\1by1\1by1.exe""","""%1"""
+"""%SOFT%\qBittorrent\qBittorrent.exe""","""%1"""
+"""%SOFT%\JPEGView\JPEGView.exe""","""%1"""
+"""%SOFT%\Visual_Studio_Code\Code.exe""","""%1"""

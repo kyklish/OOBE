@@ -1,0 +1,24 @@
+[user]
+	name = kyklish
+	email = kyklish@gmail.com
+[pull]
+	rebase = false
+[fetch]
+	prune = false
+[rebase]
+	autoStash = false
+	autosquash = false
+	updateRefs = false
+[safe]
+	directory = F:/PORTABLE/_OOBE_
+	directory = F:/PORTABLE/_AutoHotkey_/Scripts
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = kdiff3.exe
+	cmd = \"kdiff3.exe\" \"$LOCAL\" \"$REMOTE\"
+[merge]
+	guitool = kdiff3
+[mergetool "kdiff3"]
+	path = kdiff3.exe
+	cmd = \"kdiff3.exe\" \"$BASE\" \"$LOCAL\" \"$REMOTE\" -o \"$MERGED\"

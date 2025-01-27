@@ -1,0 +1,74 @@
+# This is a comment and below is line with Parameter Names for Import-Csv command
+"Source","Destination"
+# TESTING
+# "R:\TEMP","R:\TEST"
+# "R:\TEMP","R:\TEST TEST"
+#
+# Browser
+# Edge
+"R:\TEMP","%LocalAppData%\Microsoft\Windows\INetCache\IE"
+"R:\TEMP","%LocalAppData%\Microsoft\Edge\User Data\GrShaderCache"
+"R:\TEMP","%LocalAppData%\Microsoft\Edge\User Data\Default\Cache"
+"R:\TEMP","%LocalAppData%\Microsoft\Edge\User Data\Default\Code Cache"
+"R:\TEMP","%LocalAppData%\Microsoft\Edge\User Data\Profile 1\Cache"
+"R:\TEMP","%LocalAppData%\Microsoft\Edge\User Data\Profile 1\Code Cache"
+"R:\TEMP","%ProgramFiles(x86)%\Microsoft\Edge\Temp"
+"R:\TEMP","%ProgramFiles(x86)%\Microsoft\EdgeUpdate\Download"
+"R:\TEMP","%ProgramData%\Microsoft\EdgeUpdate\Log"
+# Opera
+"R:\TEMP","%SOFT%\Opera\profile\data\Default\Cache"
+# Firefox
+"R:\TEMP","%SOFT%\Firefox\FIREFOX\PROFILE\cache2"
+#
+# TEMP Folder
+"R:\TEMP","%SystemRoot%\Temp"
+# "R:\TEMP","%SystemRoot%\SystemTemp"
+"R:\TEMP","%LocalAppData%\Temp"
+"R:\TEMP","%UserProfile%\AppData\LocalLow\Temp"
+"R:\TEMP","%ProgramFiles(x86)%\Microsoft\Temp"
+#
+# WER + Notifications + CrashDumps
+"R:\TEMP","%ProgramData%\Microsoft\Windows\WER"
+"R:\TEMP","%LocalAppData%\Microsoft\Windows\WER"
+"R:\TEMP","%LocalAppData%\Microsoft\Windows\Notifications"
+"R:\TEMP","%LocalAppData%\CrashDumps"
+#
+# Microsoft Store (UWP apps) + Start Menu Cache (Can't be deleted) [For Local User + System Wide]
+# "R:\TEMP","%LocalAppData%\Packages"
+# "R:\TEMP","%ProgramData%\Packages"
+#
+# MSI Installation Files (Breaks Uninstall) [For Local User + System Wide]
+# "R:\TEMP","%LocalAppData%\Package Cache"
+# "R:\TEMP","%ProgramData%\Package Cache"
+#
+# Soft
+"R:\TEMP","%AppData%\4kdownload.com\4K Video Downloader+"
+"R:\TEMP","%ProgramData%\Bitmeter2"
+"R:\TEMP","%SystemDrive%\Intel"
+"R:\TEMP","%ProgramData%\Codemasters"
+"R:\TEMP","%LocalAppData%\Local\Codemasters"
+"R:\TEMP","%ProgramData%\NVIDIA Corporation\DisplayDriverRAS\NvTelemetry"
+#
+# VirtualBox
+"F:\UNPROTECTED\GAMES\VirtualBox_VMs","%UserProfile%\VirtualBox VMs"
+#
+# PORTABLE SETTINGS
+"%SOFT%\Lossless_Scaling\____SETTINGS____","%LocalAppData%\Lossless Scaling"
+"%SOFT%\CompactGUI\____SETTINGS____","%LocalAppData%\IridiumIO\CompactGUI"
+"%SOFT%\FileZilla\____SETTINGS____","%AppData%\FileZilla"
+#
+# Android Studio
+# "R:\TEMP\.gradle\caches","C:\Users\Fixer\.gradle\caches"
+# "R:\TEMP\.AndroidStudio\system\index","C:\Users\Fixer\.AndroidStudio3.6\system\index"
+# "R:\TEMP\.AndroidStudio\system\caches","C:\Users\Fixer\.AndroidStudio3.6\system\cache"
+#
+# Steam
+# "R:\TEMP","%LocalAppData%\Steam\htmlcache\Cache"
+# "R:\TEMP","E:\GAMES\Steam\appcache"
+#
+# UNKNOWN LOGS
+# "R:\TEMP","%SystemRoot%\Logs"
+# "R:\TEMP","%SystemRoot%\SoftwareDistribution\DataStore\Logs"
+#
+# Drivers Installation may be affected
+# "R:\TEMP","C:\Windows\System32\DriverStore\Temp"

@@ -1,0 +1,33 @@
+Win + S ==> Execution Policy ==> PowerShell ==> Change execution policy...
+
+OR
+
+Win + R ==> ms-settings:developers ==> PowerShell ==> Change execution policy...
+
+OR
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+
+OR
+
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -Command "& {Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force}"
+
+Last one is fastest solution: execute PowerShell command from BAT script!
+
+RemoteSigned:
+Purpose: Requires that all scripts and configuration files downloaded from the internet be signed by a trusted publisher before they can be run.
+Security Level: Provides a medium level of security by preventing the execution of scripts from untrusted sources.
+Use Case: Suitable for environments where you want to allow local scripts to run but prevent unauthorized scripts downloaded from the internet.
+Behavior:
+    Local scripts (created on your machine) can run without a signature.
+    Scripts downloaded from the internet need to be digitally signed by a trusted publisher.
+    This helps prevent untrusted scripts from running and potentially harming your system.
+
+Bypass:
+Purpose: Allows all scripts to run without any prompting or restrictions.
+Security Level: Provides the lowest level of security as it completely bypasses execution policy checking.
+Use Case: Suitable for test environments or scenarios where you need to run any script without restrictions (use with caution).
+Behavior:
+    All scripts run without any checks or prompts.
+    No restrictions on script execution whether local or downloaded.
+    This can be a significant security risk if used on a production system.

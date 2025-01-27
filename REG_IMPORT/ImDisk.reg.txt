@@ -1,0 +1,21 @@
+DO NOT DELETE. Use ImDisk to save TEMP vars configuration to REG file for use with AIM Toolkit.
+
+The installer is able to recreate all the required services and all the ramdisks if the configuration is written to the registry.
+To get the required registry values, go to the General Settings panel and click on the "Save Parameters..." button.
+
+General Settings ==> Save Parameters... (with TEMP Environment Variables) ==> Save As (*.reg)
+
+Size: 10GB
+Allocation: Dynamic
+Letter: R
+Label: RamDisk
+FS: NTFS
+TEMP Folder: Yes
+TEMP RELOCATE Env Vars: Yes
+TEMP RELOCATE Junction: No (Some soft can't access TEMP folder)
+
+Known issues:
+    - CAN'T RELIABLE START ON WIN11 (SOMETIMES CREATES UN-ACCESSABLE DISK WITHOUT FORMATTING).
+    - Dynamic ramdisks do not work properly when they are mounted on a folder instead of a drive letter, and if you don't use the TRIM commands (TRIM commands are used by default with NTFS on Windows 7 and later).
+    - Some softwares are incompatible with ImDisk volumes. This comes from the driver that creates only simple volumes that are not handled by the disk manager. This will not be fixed.
+    - Some users experience issues with Windows Update. If you have volumes mounted on A: or B:, try to move them after C:. If a ramdisk contains the Temp folder, using a junction may also fix issues (see "Set TEMP Variables...").

@@ -1,0 +1,7 @@
+Standard output (success output) goes to stream 1.
+Error output goes to stream 2.
+
+Hide normal output but still show errors:
+	Get-Process | Out-Null
+	OR
+	Get-Process 1>$null

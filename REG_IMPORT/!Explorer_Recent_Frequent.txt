@@ -1,0 +1,6 @@
+Disable recent files in Quick Access:
+    "ShowRecent"=dword:00000000
+Disable frequent folders in Quick Access:
+    "ShowFrequent"=dword:00000000
+
+Restart Explorer.exe to apply changes.

@@ -1,0 +1,9 @@
+Disable "Open With..." message: search an app in MS Store for [ms-gamingoverlay] URL protocol.
+
+CMD alternative:
+reg add HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR /f /t REG_DWORD /v "AppCaptureEnabled" /d 0
+reg add HKEY_CURRENT_USER\System\GameConfigStore /f /t REG_DWORD /v "GameDVR_Enabled" /d 0
+
+By default:
+	"AppCaptureEnabled" not exist
+	"GameDVR_Enabled" == 1

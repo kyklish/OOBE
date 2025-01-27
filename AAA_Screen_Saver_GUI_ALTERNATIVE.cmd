@@ -1,0 +1,1 @@
+control desk.cpl,,@screensaver

@@ -1,0 +1,1 @@
+Move to the left side START menu. Open-Shell with pinned PORTABLE folder does not fit on the screen, when START menu in the center of the screen.

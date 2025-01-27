@@ -1,0 +1,4 @@
+Disable Search in:
+	Files
+	Metro Apps
+	System Path

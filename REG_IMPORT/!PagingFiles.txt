@@ -1,0 +1,18 @@
+Current value: "c:\pagefile.sys 2048 2048"
+
+Restart PC Required!
+
+Disable Automatic Management
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" -Name "PagingFiles" -Value "?"
+
+Disable Automatic Management (if enabled)
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" -Name "PagingFiles" -Value ""
+
+Set Custom Pagefile Size (specify the drive, initial size, and maximum size in MB)
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" -Name "PagingFiles" -Value "C:\pagefile.sys 4096 8192"
+
+Set Multiple Pagefiles on Different Drives (separate entries with spaces)
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" -Name "PagingFiles" -Value "C:\pagefile.sys 4096 8192 D:\pagefile.sys 2048 4096"
+
+Verify Settings
+Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" | Select-Object PagingFiles

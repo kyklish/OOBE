@@ -1,0 +1,2 @@
+@ECHO OFF
+"%SOFT%\MPC-EX\MPCVR\Install_MPCVR_32.cmd"

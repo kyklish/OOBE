@@ -1,0 +1,2 @@
+AIM Toolkit can't save it's settings to REG file like ImDisk does.
+This is copy-paste of the TEMP vars from ImDisk.reg file.
