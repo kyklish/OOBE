@@ -1,3 +1,5 @@
+################################################################################
+# Use only absolute path. This will skip double deref in other scripts: AHK, PS1
 ################################ PORTABLE APPS #################################
 
 $name_soft = "SOFT"

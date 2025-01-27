@@ -40,7 +40,7 @@ $ps1Command = "`"$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe`
 ############################### SYMBOLIC LINKS #################################
 
 "Create [AutoHotkey] symbolic links into [$env:ProgramW6432] folder..."
-if (-Not (Test-Path -Path $appPath)) {
+if (-Not (Test-Path -Path $appPath -PathType "Container")) {
     New-Item -ItemType "Directory" -Path $appPath
 }
 # -Force == overwrite
