@@ -1,0 +1,158 @@
+# Override [Pause] function
+
+function Pause {
+    Write-Host "[Pause skipped]" -ForegroundColor DarkGray
+}
+. "MyScript.ps1"
+
+# or
+
+function Pause {}
+. "MyScript.ps1"
+
+# (. ) is dot operator (also called dot-sourcing). It tells PowerShell: read this script and run it in the current scope.
+# Normal execution (& or just calling the script) would run the script in a child scope.
+# Dot-sourcing (.) runs it int the current scope, so any functions, variables, or aliasses defined in the script become available in your current session. It's like including the code. Vars/funcs are shared and [exit] command in the child will exit the parent too.
+
+
+
+# Pass argument to the script
+
+# At Pause points:
+if (-not $NoPause) {
+    Read-Host "Press Enter to continue"
+}
+
+"MyScript.ps1" -NoPause
+
+
+
+
+
+
+
+# Wait while script finished
+
+Start-Process -FilePath "cmd,exe,ps1" -Wait -NoNewWindows
+-NoNewWindows = run in same console window
+
+& "MyScript.ps1" # Simple call - PowerShell waits by default
+# or
+. "MyScript.ps1" # Dot-sourcing
+
+
+
+
+
+
+
+
+
+# Stop parent script if child script has problems (needs editing scripts)
+
+# In child.ps1
+if (-not $valid) {
+    Write-Error "Message" -ErrorAction Stop
+    # or
+    throw "Message"
+}
+
+# In parent.ps1
+try {
+    child.ps1
+	... continue normal execution
+} catch {
+    Write-Host "Child requested termination: $($_.Exception.Message)" -ForegroundColor Red
+	exit 1 # or re-throw it for higher callers
+}
+
+
+
+
+
+
+
+
+# Stop parent script if child script has problems (no need to editing scripts)
+
+Place this near the top of your script (or run it in your session):
+$ErrorActionPreference = 'Inquire'
+
+By default, PowerShell uses Continue (shows the error but keeps running).
+Inquire makes non-terminating errors pause execution and prompt the user interactively:
+[C] Continue — proceed with the next command.
+[I] Silent Continue — suppress this error and continue.
+[H] Halt — stop the script.
+[S] Suspend — suspend the script (useful in interactive sessions).
+[?] Help — show more info.
+This gives you the "stop on error + wait for user interaction" behavior globally for most cmdlets.
+Note: It mainly affects non-terminating errors. Terminating errors (or when you use -ErrorAction Stop) will still halt the script immediately.
+Other useful global settings
+Stop on all errors (strictest, no interaction):
+$ErrorActionPreference = 'Stop'
+Strict mode (catches more "soft" issues like undefined variables):
+Set-StrictMode -Version Latest
+If you want a simple "press any key to continue" after errors
+Inquire is the cleanest built-in way. For fully custom behavior, wrap risky sections or use a global trap (older style):
+trap {
+    Write-Error $_
+    Write-Host "`nPress any key to continue..." -ForegroundColor Yellow
+    $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
+    continue  # or 'break' to stop
+}
+Or a modern approach with try/catch:
+try {
+    # Your code
+} catch {
+    Write-Error $_
+    Read-Host "Press Enter to continue"
+}
+Quick pause function (anytime)
+function Pause {
+    param([string]$Message = "Press any key to continue...")
+    Write-Host $Message -ForegroundColor Cyan
+    $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
+}
+Recommendation: Start with $ErrorActionPreference = 'Inquire' — it's the global, built-in solution that matches your request most closely. You can always override per-command with -ErrorAction Continue or -ErrorAction Stop when needed.
+
+
+
+Yes, you usually need to dot-source if you want $ErrorActionPreference = 'Inquire' to affect the scripts you call.
+Why?
+$ErrorActionPreference is a variable, not a true global setting.
+When you run a script normally (.\script.ps1), it runs in its own scope (script scope).
+Changes made inside a script do not automatically affect the parent/calling script or other scripts you call.
+Best ways to apply it
+1. Dot-source the configuration script (Recommended)
+Create a small file, e.g. Set-StrictError.ps1:
+# Set-StrictError.ps1
+$ErrorActionPreference = 'Inquire'
+Set-StrictMode -Version Latest   # optional but recommended
+Write-Host "Error preference set to Inquire + StrictMode" -ForegroundColor Green
+Then dot-source it before calling other scripts:
+. .\Set-StrictError.ps1     # note the dot + space
+
+.\MyScript1.ps1
+.\MyScript2.ps1
+# etc.
+Dot-sourcing (.) runs the script in the current scope, so the variable change applies to your current session and all subsequent scripts.
+2. Set it at the very top of each script
+# At the beginning of every script
+$ErrorActionPreference = 'Inquire'
+Set-StrictMode -Version Latest
+Simple, but repetitive.
+3. Set it in your PowerShell profile (for interactive use)
+So it's always active in your console:
+# In $PROFILE
+$ErrorActionPreference = 'Inquire'
+This won't affect scripts you run unless you dot-source the profile or explicitly import it.
+Quick test
+Run this to see the difference:
+$ErrorActionPreference = 'Inquire'
+
+# Normal call (new scope)
+.\Test-Error.ps1
+
+# Dot-sourced call (same scope)
+. .\Test-Error.ps1
+Would you like me to show you a good template for a "global settings" file that you can dot-source at the start of your projects?

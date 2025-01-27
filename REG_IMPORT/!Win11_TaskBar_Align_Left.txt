@@ -1,0 +1,3 @@
+Win11
+
+Move to the left side [Start Menu]. [Open-Shell] with pinned [PORTABLE] folder does not fit on the screen, when [Start Menu] in the center of the screen.

@@ -1,0 +1,55 @@
+Get-WindowsOptionalFeature -Online |
+     Where-Object { $_.State -eq "Enabled" } |
+     Select-Object FeatureName, State
+Pause
+
+[Pause] executes before output of the previous command show up.
+
+The pipeline Get-WindowsOptionalFeature -Online | Where-Object { $_.State -eq "Enabled" } | Select-Object FeatureName, State is a PowerShell command.
+
+Pause, however, is not a PowerShell cmdlet — it’s a legacy cmd.exe command. When you type Pause in PowerShell, it invokes cmd.exe /c pause.
+
+Here’s the key detail:
+
+PowerShell sees Pause as a separate external command, not part of the pipeline.
+
+It executes immediately after parsing the pipeline, before the pipeline output is flushed to the console.
+
+Since Pause runs in cmd.exe, it takes control of the console and waits for a keypress, effectively blocking the display of the pipeline results until you continue.
+
+That’s why the results appear only after you press a key — the pipeline has already produced them, but the console is paused before showing them.
+
+Get-WindowsOptionalFeature -Online |
+    Where-Object { $_.State -eq "Enabled" } |
+    Select-Object FeatureName, State
+Read-Host "Press Enter to continue"
+
+Read-Host is the PowerShell-native way to pause execution.
+
+Unlike Pause, it doesn’t hijack the console via cmd.exe, so your results display immediately, and then it waits for input.
+
+
+
+[Read-Host] same results
+
+This is how PowerShell handles output buffering when you mix pipelines with interactive commands.
+
+When you run your pipeline (Get-WindowsOptionalFeature … | Select-Object …), PowerShell starts producing objects and formatting them for display.
+
+But the console output is buffered — it doesn’t flush line‑by‑line instantly.
+
+As soon as PowerShell sees the next statement (Pause or Read-Host), it executes that before the buffered output is fully written to the screen.
+
+That’s why it looks like the pause happens “before” the results — in reality, the results are already computed, but the console hasn’t finished rendering them yet.
+
+You can force PowerShell to flush the pipeline output first:
+
+Get-WindowsOptionalFeature -Online |
+    Where-Object { $_.State -eq "Enabled" } |
+    Select-Object FeatureName, State |
+    Out-Host
+Pause
+
+Out-Host explicitly sends the results to the console immediately, flushing the buffer.
+
+Now the results appear first, and only then does Pause wait for a keypress.

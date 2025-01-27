@@ -1,0 +1,2 @@
+Disable "Open With..." message: search an app in MS Store for [ms-contact-support] URL protocol.
+This message apears when OS is booted in [Safe Mode].

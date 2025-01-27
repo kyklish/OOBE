@@ -1,0 +1,6 @@
+Enable
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppPrivacy]
+"LetAppsAccessMicrophone"=dword:00000001
+"LetAppsAccessCamera"=dword:00000001
+
+Make it disable???

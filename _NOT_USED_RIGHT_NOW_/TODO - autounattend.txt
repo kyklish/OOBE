@@ -1,0 +1,9 @@
+autounattend создает один профиль Professional администратора (по умолчанию)
+Параметры:
+<TimeZone>UTC +3:00</TimeZone> - Временная зона https://technet.microsoft.com/en-us/library/cc749073(v=ws.10).aspx
+
+<EnableLUA>false</EnableLUA> контроль учетных записей, true - включить / false - не включать
+
+<ComputerName>User-PC</ComputerName> имя машины включая сетевое
+
+<CommandLine>cmd /C wmic useraccount where "name='Professional'" set PasswordExpires=false</CommandLine> Не ограничивать срок "жизни" пароля для пользователя 'Professional'
