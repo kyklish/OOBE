@@ -1,6 +1,6 @@
 # ReadMe
 
-Some sily personal stuff here.
+Some silly personal stuff here.
 
 ## Usage
 
