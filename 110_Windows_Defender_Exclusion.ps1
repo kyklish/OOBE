@@ -1,10 +1,15 @@
+############### Set working directory to the script's directory ################
+$scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
+Set-Location -Path $scriptDir
+################################################################################
+
 "Set environment variables before running this script!"
-"Run 100_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
+"Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
 Pause
 
 ################################################################################
 
-$file = ".\CONFIG\Windows_Defender_Exclusion_List.txt"
+$file = ".\CONFIG\Windows_Defender_Exclusion.txt"
 
 ################################################################################
 

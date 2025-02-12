@@ -11,12 +11,12 @@
 #     only available when running under a 64 bit OS
 
 "Set environment variables before running this script!"
-"Run 000_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
+"Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
 Pause
 
 ############################ AHK STARTUP SCRIPT ################################
 
-# Example: [SOFT_AHK] == [D:\PORTABLE\_AutoHotkey_]
+# Example: [SOFT_AHK] == [F:\PORTABLE\_AutoHotkey_]
 $ahkStartupScript = "$env:SOFT_AHK\Scripts\_AutoHotkey_.ahk"
 
 ############### EXE DESTINATION (C:\Program Files\AutoHotkey) ##################
@@ -40,7 +40,7 @@ $ps1Command = "`"$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe`
 ############################### SYMBOLIC LINKS #################################
 
 "Create [AutoHotkey] symbolic links into [$env:ProgramW6432] folder..."
-if (-Not (Test-Path -Path $appPath)) {
+if (-Not (Test-Path -Path $appPath -PathType "Container")) {
     New-Item -ItemType "Directory" -Path $appPath
 }
 # -Force == overwrite

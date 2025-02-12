@@ -1,13 +1,18 @@
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
-
-OR
-
 Win + S ==> Execution Policy ==> PowerShell ==> Change execution policy...
 
 OR
 
 Win + R ==> ms-settings:developers ==> PowerShell ==> Change execution policy...
 
+OR
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
+
+OR
+
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -Command "& {Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force}"
+
+Last one is fastest solution: execute PowerShell command from BAT script!
 
 RemoteSigned:
 Purpose: Requires that all scripts and configuration files downloaded from the internet be signed by a trusted publisher before they can be run.

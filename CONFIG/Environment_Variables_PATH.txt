@@ -1,1 +1,4 @@
+%ProgramW6432%\AutoHotkey
+%SOFT%\FFmpeg
 %SOFT%\Java\bin
+%SOFT%\mkvmerge

@@ -1,14 +1,11 @@
-$file = ".\CONFIG\Environment_Variables_PATH.txt"
-
+############### Set working directory to the script's directory ################
+$scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
+Set-Location -Path $scriptDir
 ################################################################################
 
-# Get the directory of the script
-$scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
-# Set the working directory to the script's directory
-Set-Location -Path $scriptDir
+$file = ".\CONFIG\Environment_Variables_PATH.txt"
 
 $newPath = ""
-# Read the file line by line
 foreach ($path in Get-Content $file) {
     $expandedPath = [System.Environment]::ExpandEnvironmentVariables($path.Trim())
     Write-Output "Adding folder to PATH: $expandedPath"

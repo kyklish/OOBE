@@ -1,7 +1,17 @@
+################################################################################
+# Use only absolute path. This will skip double deref in other scripts: AHK, PS1
 ################################ PORTABLE APPS #################################
 
 $name_soft = "SOFT"
-$value_soft = "F:\PORTABLE"
+# $value_soft = "F:\PORTABLE"
+
+# Get path to PORTABLE folder
+# $PSScriptRoot points out to script's dir regardless of working directory
+Set-Location -Path $PSScriptRoot
+# Current dir: "F:\PORTABLE\_OOBE_"
+Set-Location -Path ".."
+# Current dir: "F:\PORTABLE"
+$value_soft = Get-Location
 
 ######################### AutoHotkey in PORTABLE APPS ##########################
 

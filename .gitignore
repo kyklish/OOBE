@@ -1,3 +1,4 @@
-/CONFIG/Windows_Defender_Exclusion_List.txt
+/!INSTALL/*
+/CONFIG/Windows_Defender_Exclusion.txt
 /DRIVERS/*
 /REG_IMPORT/SsdReady_License.reg
