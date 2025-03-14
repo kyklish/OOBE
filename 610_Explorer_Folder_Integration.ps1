@@ -43,14 +43,14 @@ function Set-ExplorerFolderContextMenu {
 ##################### ADD APPS TO DIRECTORY'S CONTEXT MENU #####################
 
 Set-ExplorerFolderContextMenu `
-    -Exe "$env:SOFT\TotalCmd_IT_x64\TOTALCMD.EXE" `
+    -Exe "$env:SOFT\Total_Commander_IT_Edition\TOTALCMD.EXE" `
     -Message "Open TotalCMD here" `
     -RegName "TotalCMD"
 Pause
 
 ################################################################################
 
-# $cmd = "$env:SOFT\TotalCmd_IT_x64\TOTALCMD.EXE"
+# $cmd = "$env:SOFT\Total_Commander_IT_Edition\TOTALCMD.EXE"
 # $msg = "Open TotalCMD here"
 
 # $path = "Registry::HKEY_CLASSES_ROOT\Directory\Background\shell\TotalCMD"
@@ -78,17 +78,17 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\TotalCMD]
 @="Open TotalCMD here"
-"Icon"="F:\\PORTABLE\\TotalCmd_IT_x64\\TOTALCMD.EXE"
+"Icon"="F:\\PORTABLE\\Total_Commander_IT_Edition\\TOTALCMD.EXE"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\TotalCMD\command]
-@="F:\\PORTABLE\\TotalCmd_IT_x64\\TOTALCMD.EXE \"%V\""
+@="F:\\PORTABLE\\Total_Commander_IT_Edition\\TOTALCMD.EXE \"%V\""
 
 [HKEY_CLASSES_ROOT\Directory\shell\TotalCMD]
 @="Open TotalCMD here"
-"Icon"="F:\\PORTABLE\\TotalCmd_IT_x64\\TOTALCMD.EXE"
+"Icon"="F:\\PORTABLE\\Total_Commander_IT_Edition\\TOTALCMD.EXE"
 
 [HKEY_CLASSES_ROOT\Directory\shell\TotalCMD\command]
-@="F:\\PORTABLE\\TotalCmd_IT_x64\\TOTALCMD.EXE \"%1\""
+@="F:\\PORTABLE\\Total_Commander_IT_Edition\\TOTALCMD.EXE \"%1\""
 #>
 
 ################################################################################
