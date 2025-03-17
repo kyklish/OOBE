@@ -3,7 +3,7 @@ To get the required registry values, go to the General Settings panel and click 
 
 General Settings ==> Save Parameters... (with TEMP Environment Variables) ==> Save As (*.reg)
 
-Size: 8GB
+Size: 10GB
 Allocation: Dynamic
 Letter: R
 Label: RamDisk
