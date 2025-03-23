@@ -1,4 +1,5 @@
 @REM 40% is minimum: 16GB x 0.4 = 6.4GB
+@REM POWERCFG /AVAILABLESLEEPSTATES
 @REM The following sleep states are available on MY system:
 @REM     Standby (S3)
 @REM     Hibernate

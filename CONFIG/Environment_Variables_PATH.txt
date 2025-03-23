@@ -3,3 +3,4 @@
 %SOFT%\ImageMagick
 %SOFT%\Java\bin
 %SOFT%\mkvmerge
+%SOFT%\StaxRip
