@@ -9,7 +9,8 @@ Letter: R
 Label: RamDisk
 FS: NTFS
 TEMP Folder: Yes
-Env Vars: Yes
+TEMP RELOCATE Env Vars: Yes
+TEMP RELOCATE Junction: No (Some soft can't access TEMP folder)
 
 Known issues:
     - Dynamic ramdisks do not work properly when they are mounted on a folder instead of a drive letter, and if you don't use the TRIM commands (TRIM commands are used by default with NTFS on Windows 7 and later).
