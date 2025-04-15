@@ -10,9 +10,17 @@
 # %ProgramFiles(x86)% ==> "C:\Program Files (x86)"
 #     only available when running under a 64 bit OS
 
-"Set environment variables before running this script!"
-"Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
-Pause
+# Test-Path env:SOFT_AHK is correct call!
+#   Test-Path  env:VARIABLE_EXIST     ==> true / false
+#   Test-Path  env:VARIABLE_NOT_EXIST ==> false
+#   Test-Path $env:VARIABLE_EXIST     ==> true / false
+#   Test-Path $env:VARIABLE_NOT_EXIST ==> ERROR
+if (-Not (Test-Path env:SOFT_AHK)) {
+    "Set environment variables before running this script!"
+    "Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
+    Pause
+    Exit
+}
 
 ############################ AHK STARTUP SCRIPT ################################
 
@@ -151,16 +159,16 @@ $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries:$true `
     -DontStopIfGoingOnBatteries:$true
 
-# wrap long commands across multiple lines using the backtick character (`).
+# Wrap long commands across multiple lines using the backtick character (`).
 # This character acts as a line continuation character in PowerShell.
 # White space matters. The required format is [Space] [`] [Enter].
 Register-ScheduledTask `
     -Action $action `
     -Trigger $trigger `
     -Settings $settings `
-    -TaskName "AutoHotkey" `
+    -TaskName "@AutoHotkey" `
     -Description "AutoHotkey Startup Script" `
-    -RunLevel Highest `
+    -RunLevel "Highest" `
     -Force
 Pause
 

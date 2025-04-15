@@ -1,7 +1,7 @@
-@REM On Win11 [set _Args=%*] command works strange.
-@REM When script executes without params it returns [ECHO is OFF]: output of the first string of this script.
-@REM When script executes with params it works fine.
-@REM I got remove args code, because this script does not use params.
+:: On Win11 [set _Args=%*] command works strange.
+:: When script executes without params it returns [ECHO is OFF]: output of the first string of this script.
+:: When script executes with params it works fine.
+:: I got remove args code, because this script does not use params.
 
 @ECHO OFF
 SetLocal
@@ -26,7 +26,7 @@ REM ----------------------------------------------------------------------------
 
 :START
 :: set the current directory to the batch file location
-CD /D %~dp0
+CD /D "%~dp0"
 :: Place the code which requires Admin/elevation below
 ECHO We are now running as admin
 

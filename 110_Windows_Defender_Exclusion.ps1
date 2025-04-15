@@ -3,9 +3,17 @@ $scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
 Set-Location -Path $scriptDir
 ################################################################################
 
-"Set environment variables before running this script!"
-"Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
-Pause
+# Test-Path env:SOFT is correct call!
+#   Test-Path  env:VARIABLE_EXIST     ==> true / false
+#   Test-Path  env:VARIABLE_NOT_EXIST ==> false
+#   Test-Path $env:VARIABLE_EXIST     ==> true / false
+#   Test-Path $env:VARIABLE_NOT_EXIST ==> ERROR
+if (-Not (Test-Path env:SOFT)) {
+    "Set environment variables before running this script!"
+    "Run XXX_Environment_Variables_SOFT_AHK_BAT.ps1 before this script!"
+    Pause
+    Exit
+}
 
 ################################################################################
 
