@@ -1,4 +1,5 @@
 %ProgramW6432%\AutoHotkey
+%SOFT%\Bluetooth_Command_Line_Tools
 %SOFT%\FFmpeg
 %SOFT%\ImageMagick
 %SOFT%\Java\bin
