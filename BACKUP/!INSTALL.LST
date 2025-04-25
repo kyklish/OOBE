@@ -1,1177 +1,1249 @@
 F:\PORTABLE\_OOBE_\!INSTALL\
-Appx Codecs.lnk	
-Appx Runtime.lnk	
-CompactGUI (Add any folder to enable AutoRun [Start from AHK not work]).lnk	
-DefenderUI 1.30 Free.lnk	
-DirectX Setup (IF [Appx Runtime] version NOT WORK).lnk	
-DirectX Web Setup (VERY SLOW).lnk	
-DxDiag 2025-01-30 (DxWebSetup) Compare after fresh install of Appx DirectX.png	
-Hard Link Shell Extension 3.9.3.5 x64.lnk	
-ImDisk Silent Install (Check TEMP Variables after installation).bat	
-kards_installer.exe	
-MSI Afterburner 4.6.6 Beta3.lnk	
-RTSS Rivatuner Statistics Server 7.3.6 Final.lnk	
-Shadow Defender Install.lnk	
-Shadow Defender Install KEY	
-Windows Firewall Control 6.12.0.0.lnk	
-!.NET.lnk	
-!VisualCppRedist_AIO_x86_x64 !SILENT!INSTALL!.lnk	
-!VisualCppRedist_AIO_x86_x64 !VERYSILENT!INSTALL!.lnk	
-@Appx Codecs.lnk	
-@Appx Runtime.lnk	
-@DirectX Setup (IF [Appx Runtime] version NOT WORK) !SILENT!INSTALL!.lnk	
-@DirectX Web Setup (VERY SLOW).lnk	
-@DxDiag 2025-01-30 (DxWebSetup) Compare after fresh install of Appx DirectX.png	
-@ImDisk !SILENT!INSTALL! (Check TEMP Variables after installation).bat	
-DefenderUI Free.lnk	
-Git !SILENT!INSTALL!.lnk	
-Git !VERYSILENT!INSTALL!.lnk	
-Hard Link Shell Extension !SILENT!INSTALL!.lnk	
-InSpectre.lnk	
-MSI Afterburner 4.6.6 Beta3 !SILENT!INSTALL!.lnk	
-RaiDrive 2023.9.256 x64.lnk	
-SumatraPDF !SiLENT!INSTALL!.lnk	
-svp4-online.lnk	
-Virtual.Display.Driver-v24.12.24-setup-x64 (Does StaxRip encode without this).lnk	
-Windows Firewall Control !SILENT!INSTALL!.lnk	
-DirectX\	
-ReadMe.txt	
-DirectX\directx_Jun2010_redist\	
-DSETUP.dll	
-dsetup32.dll	
-DXSETUP.exe	
-DirectX\directx_Jun2010_redist\Apr2005_d3dx9_25_x64.cab\	
-d3dx9_25_x64.cat	
-d3dx9_25.dll	
-infinst.exe	
-apr2005_d3dx9_25_x64.inf	
-d3dx9_25_x64.inf	
-DirectX\directx_Jun2010_redist\Apr2005_d3dx9_25_x86.cab\	
-d3dx9_25_x86.cat	
-d3dx9_25.dll	
-apr2005_d3dx9_25_x86.inf	
-d3dx9_25_w9x.inf	
-d3dx9_25_x86.inf	
-DirectX\directx_Jun2010_redist\Apr2006_d3dx9_30_x64.cab\	
-d3dx9_30_x64.cat	
-d3dx9_30.dll	
-infinst.exe	
-apr2006_d3dx9_30_x64.inf	
-d3dx9_30_x64.inf	
-DirectX\directx_Jun2010_redist\Apr2006_d3dx9_30_x86.cab\	
-d3dx9_30_x86.cat	
-d3dx9_30.dll	
-apr2006_d3dx9_30_x86.inf	
-d3dx9_30_w9x.inf	
-d3dx9_30_x86.inf	
-DirectX\directx_Jun2010_redist\Apr2006_MDX1_x86.cab\	
-microsoft.directx.audiovideoplayback.dll	
-microsoft.directx.diagnostics.dll	
-microsoft.directx.direct3d.dll	
-microsoft.directx.direct3dx.dll	
-microsoft.directx.directdraw.dll	
-microsoft.directx.directinput.dll	
-microsoft.directx.directplay.dll	
-microsoft.directx.directsound.dll	
-microsoft.directx.dll	
-apr2006_mdx1_x86.inf	
-microsoft.directx.audiovideoplayback.xml	
-microsoft.directx.diagnostics.xml	
-microsoft.directx.direct3d.xml	
-microsoft.directx.direct3dx.xml	
-microsoft.directx.directdraw.xml	
-microsoft.directx.directinput.xml	
-microsoft.directx.directplay.xml	
-microsoft.directx.directsound.xml	
-microsoft.directx.xml	
-DirectX\directx_Jun2010_redist\Apr2006_MDX1_x86_Archive.cab\	
-mdx_1.0.2902.0_x86.cab	
-mdx_1.0.2903.0_x86.cab	
-mdx_1.0.2904.0_x86.cab	
-mdx_1.0.2905.0_x86.cab	
-mdx_1.0.2906.0_x86.cab	
-mdx_1.0.2907.0_x86.cab	
-mdx_1.0.2908.0_x86.cab	
-mdx_1.0.2909.0_x86.cab	
-mdx_1.0.2910.0_x86.cab	
-apr2006_mdx1_x86_archive.inf	
-DirectX\directx_Jun2010_redist\Apr2006_XACT_x64.cab\	
-xact2_1_x64.cat	
-x3daudio1_0.dll	
-xactengine2_1.dll	
-infinst.exe	
-apr2006_xact_x64.inf	
-xact2_1_x64.inf	
-DirectX\directx_Jun2010_redist\Apr2006_XACT_x86.cab\	
-xact2_1_x86.cat	
-x3daudio1_0.dll	
-xactengine2_1.dll	
-apr2006_xact_x86.inf	
-xact2_1_x86.inf	
-DirectX\directx_Jun2010_redist\Apr2006_xinput_x64.cab\	
-xinput1_1_x64.cat	
-xinput1_1.dll	
-infinst.exe	
-apr2006_xinput_x64.inf	
-xinput1_1_x64.inf	
-DirectX\directx_Jun2010_redist\Apr2006_xinput_x86.cab\	
-xinput1_1_x86.cat	
-xinput1_1.dll	
-apr2006_xinput_x86.inf	
-xinput1_1_x86.inf	
-DirectX\directx_Jun2010_redist\APR2007_d3dx10_33_x64.cab\	
-d3dx10_33_x64.cat	
-d3dcompiler_33.dll	
-d3dx10_33.dll	
-infinst.exe	
-apr2007_d3dx10_33_x64.inf	
-d3dx10_33_x64.inf	
-d3dx10_33_x64_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_d3dx10_33_x86.cab\	
-d3dx10_33_x86.cat	
-d3dcompiler_33.dll	
-d3dx10_33.dll	
-apr2007_d3dx10_33_x86.inf	
-d3dx10_33_x86.inf	
-d3dx10_33_x86_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_d3dx9_33_x64.cab\	
-d3dx9_33_x64.cat	
-d3dx9_33.dll	
-infinst.exe	
-apr2007_d3dx9_33_x64.inf	
-d3dx9_33_x64.inf	
-d3dx9_33_x64_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_d3dx9_33_x86.cab\	
-d3dx9_33_x86.cat	
-d3dx9_33.dll	
-apr2007_d3dx9_33_x86.inf	
-d3dx9_33_x86.inf	
-d3dx9_33_x86_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_XACT_x64.cab\	
-xact2_7_x64.cat	
-x3daudio1_1.dll	
-xactengine2_7.dll	
-infinst.exe	
-apr2007_xact_x64.inf	
-xact2_7_x64.inf	
-xact2_7_x64_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_XACT_x86.cab\	
-xact2_7_x86.cat	
-x3daudio1_1.dll	
-xactengine2_7.dll	
-apr2007_xact_x86.inf	
-xact2_7_x86.inf	
-xact2_7_x86_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_xinput_x64.cab\	
-xinput1_3_x64.cat	
-xinput1_3.dll	
-infinst.exe	
-apr2007_xinput_x64.inf	
-xinput1_3_x64.inf	
-xinput1_3_x64_xp.inf	
-DirectX\directx_Jun2010_redist\APR2007_xinput_x86.cab\	
-xinput1_3_x86.cat	
-xinput1_3.dll	
-apr2007_xinput_x86.inf	
-xinput1_3_x86.inf	
-xinput1_3_x86_xp.inf	
-DirectX\directx_Jun2010_redist\Aug2005_d3dx9_27_x64.cab\	
-d3dx9_27_x64.cat	
-d3dx9_27.dll	
-infinst.exe	
-aug2005_d3dx9_27_x64.inf	
-d3dx9_27_x64.inf	
-DirectX\directx_Jun2010_redist\Aug2005_d3dx9_27_x86.cab\	
-d3dx9_27_x86.cat	
-d3dx9_27.dll	
-aug2005_d3dx9_27_x86.inf	
-d3dx9_27_w9x.inf	
-d3dx9_27_x86.inf	
-DirectX\directx_Jun2010_redist\AUG2006_XACT_x64.cab\	
-xact2_3_x64.cat	
-x3daudio1_0.dll	
-xactengine2_3.dll	
-infinst.exe	
-aug2006_xact_x64.inf	
-xact2_3_x64.inf	
-DirectX\directx_Jun2010_redist\AUG2006_XACT_x86.cab\	
-xact2_3_x86.cat	
-x3daudio1_0.dll	
-xactengine2_3.dll	
-aug2006_xact_x86.inf	
-xact2_3_x86.inf	
-DirectX\directx_Jun2010_redist\AUG2006_xinput_x64.cab\	
-xinput1_2_x64.cat	
-xinput1_2.dll	
-infinst.exe	
-aug2006_xinput_x64.inf	
-xinput1_2_x64.inf	
-DirectX\directx_Jun2010_redist\AUG2006_xinput_x86.cab\	
-xinput1_2_x86.cat	
-xinput1_2.dll	
-aug2006_xinput_x86.inf	
-xinput1_2_x86.inf	
-DirectX\directx_Jun2010_redist\AUG2007_d3dx10_35_x64.cab\	
-d3dx10_35_x64.cat	
-d3dcompiler_35.dll	
-d3dx10_35.dll	
-infinst.exe	
-aug2007_d3dx10_35_x64.inf	
-d3dx10_35_x64.inf	
-d3dx10_35_x64_xp.inf	
-DirectX\directx_Jun2010_redist\AUG2007_d3dx10_35_x86.cab\	
-d3dx10_35_x86.cat	
-d3dcompiler_35.dll	
-d3dx10_35.dll	
-aug2007_d3dx10_35_x86.inf	
-d3dx10_35_x86.inf	
-d3dx10_35_x86_xp.inf	
-DirectX\directx_Jun2010_redist\AUG2007_d3dx9_35_x64.cab\	
-d3dx9_35_x64.cat	
-d3dx9_35.dll	
-infinst.exe	
-aug2007_d3dx9_35_x64.inf	
-d3dx9_35_x64.inf	
-d3dx9_35_x64_xp.inf	
-DirectX\directx_Jun2010_redist\AUG2007_d3dx9_35_x86.cab\	
-d3dx9_35_x86.cat	
-d3dx9_35.dll	
-aug2007_d3dx9_35_x86.inf	
-d3dx9_35_x86.inf	
-d3dx9_35_x86_xp.inf	
-DirectX\directx_Jun2010_redist\AUG2007_XACT_x64.cab\	
-xact2_9_x64.cat	
-x3daudio1_2.dll	
-xactengine2_9.dll	
-infinst.exe	
-aug2007_xact_x64.inf	
-xact2_9_x64.inf	
-xact2_9_x64_xp.inf	
-DirectX\directx_Jun2010_redist\AUG2007_XACT_x86.cab\	
-xact2_9_x86.cat	
-x3daudio1_2.dll	
-xactengine2_9.dll	
-aug2007_xact_x86.inf	
-xact2_9_x86.inf	
-xact2_9_x86_xp.inf	
-DirectX\directx_Jun2010_redist\Aug2008_d3dx10_39_x64.cab\	
-d3dx10_39.dll	
-D3DCompiler_39.dll	
-d3dx10_39_x64.cat	
-d3dx10_39_x64.inf	
-d3dx10_39_x64_xp.inf	
-Aug2008_d3dx10_39_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2008_d3dx10_39_x86.cab\	
-d3dx10_39.dll	
-D3DCompiler_39.dll	
-d3dx10_39_x86.cat	
-d3dx10_39_x86.inf	
-d3dx10_39_x86_xp.inf	
-Aug2008_d3dx10_39_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2008_d3dx9_39_x64.cab\	
-d3dx9_39.dll	
-d3dx9_39_x64.cat	
-d3dx9_39_x64.inf	
-d3dx9_39_x64_xp.inf	
-Aug2008_d3dx9_39_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2008_d3dx9_39_x86.cab\	
-d3dx9_39.dll	
-d3dx9_39_x86.cat	
-d3dx9_39_x86.inf	
-d3dx9_39_x86_xp.inf	
-Aug2008_d3dx9_39_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2008_XACT_x64.cab\	
-xactengine3_2.dll	
-XACT3_2_x64.inf	
-XACT3_2_x64.cat	
-XACT3_2_x64_xp.inf	
-Aug2008_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2008_XACT_x86.cab\	
-xactengine3_2.dll	
-XACT3_2_x86.inf	
-XACT3_2_x86.cat	
-XACT3_2_x86_xp.inf	
-Aug2008_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2008_XAudio_x64.cab\	
-XAudio2_2.dll	
-XAPOFX1_1.dll	
-XAudio2_2_x64.inf	
-XAudio2_2_x64.cat	
-XAudio2_2_x64_xp.inf	
-Aug2008_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2008_XAudio_x86.cab\	
-XAudio2_2.dll	
-XAPOFX1_1.dll	
-XAudio2_2_x86.inf	
-XAudio2_2_x86.cat	
-XAudio2_2_x86_xp.inf	
-Aug2008_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_D3DCompiler_42_x64.cab\	
-D3DCompiler_42.dll	
-D3DCompiler_42_x64.cat	
-D3DCompiler_42_x64.inf	
-D3DCompiler_42_x64_xp.inf	
-AUG2009_D3DCompiler_42_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_D3DCompiler_42_x86.cab\	
-D3DCompiler_42.dll	
-D3DCompiler_42_x86.cat	
-D3DCompiler_42_x86.inf	
-D3DCompiler_42_x86_xp.inf	
-AUG2009_D3DCompiler_42_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_d3dcsx_42_x64.cab\	
-d3dcsx_42.dll	
-d3dcsx_42_x64.cat	
-d3dcsx_42_x64.inf	
-d3dcsx_42_x64_xp.inf	
-AUG2009_d3dcsx_42_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_d3dcsx_42_x86.cab\	
-d3dcsx_42.dll	
-d3dcsx_42_x86.cat	
-d3dcsx_42_x86.inf	
-d3dcsx_42_x86_xp.inf	
-AUG2009_d3dcsx_42_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx10_42_x64.cab\	
-d3dx10_42.dll	
-d3dx10_42_x64.cat	
-d3dx10_42_x64.inf	
-d3dx10_42_x64_xp.inf	
-AUG2009_d3dx10_42_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx10_42_x86.cab\	
-d3dx10_42.dll	
-d3dx10_42_x86.cat	
-d3dx10_42_x86.inf	
-d3dx10_42_x86_xp.inf	
-AUG2009_d3dx10_42_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx11_42_x64.cab\	
-d3dx11_42.dll	
-d3dx11_42_x64.cat	
-d3dx11_42_x64.inf	
-d3dx11_42_x64_xp.inf	
-AUG2009_d3dx11_42_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx11_42_x86.cab\	
-d3dx11_42.dll	
-d3dx11_42_x86.cat	
-d3dx11_42_x86.inf	
-d3dx11_42_x86_xp.inf	
-AUG2009_d3dx11_42_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx9_42_x64.cab\	
-d3dx9_42.dll	
-d3dx9_42_x64.cat	
-d3dx9_42_x64.inf	
-d3dx9_42_x64_xp.inf	
-AUG2009_d3dx9_42_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_d3dx9_42_x86.cab\	
-d3dx9_42.dll	
-d3dx9_42_x86.cat	
-d3dx9_42_x86.inf	
-d3dx9_42_x86_xp.inf	
-AUG2009_d3dx9_42_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_XACT_x64.cab\	
-xactengine3_5.dll	
-XACT3_5_x64.inf	
-XACT3_5_x64.cat	
-XACT3_5_x64_xp.inf	
-AUG2009_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_XACT_x86.cab\	
-xactengine3_5.dll	
-XACT3_5_x86.inf	
-XACT3_5_x86.cat	
-XACT3_5_x86_xp.inf	
-AUG2009_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Aug2009_XAudio_x64.cab\	
-XAudio2_5.dll	
-XAPOFX1_3.dll	
-XAudio2_5_x64.inf	
-XAudio2_5_x64.cat	
-XAudio2_5_x64_xp.inf	
-AUG2009_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Aug2009_XAudio_x86.cab\	
-XAudio2_5.dll	
-XAPOFX1_3.dll	
-XAudio2_5_x86.inf	
-XAudio2_5_x86.cat	
-XAudio2_5_x86_xp.inf	
-AUG2009_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Dec2005_d3dx9_28_x64.cab\	
-d3dx9_28_x64.cat	
-d3dx9_28.dll	
-infinst.exe	
-d3dx9_28_x64.inf	
-dec2005_d3dx9_28_x64.inf	
-DirectX\directx_Jun2010_redist\Dec2005_d3dx9_28_x86.cab\	
-d3dx9_28_x86.cat	
-d3dx9_28.dll	
-d3dx9_28_w9x.inf	
-d3dx9_28_x86.inf	
-dec2005_d3dx9_28_x86.inf	
-DirectX\directx_Jun2010_redist\DEC2006_d3dx10_00_x64.cab\	
-d3dx10_00_x64.cat	
-d3dx10.dll	
-infinst.exe	
-d3dx10_00_x64.inf	
-dec2006_d3dx10_00_x64.inf	
-DirectX\directx_Jun2010_redist\DEC2006_d3dx10_00_x86.cab\	
-d3dx10_00_x86.cat	
-d3dx10.dll	
-d3dx10_00_x86.inf	
-dec2006_d3dx10_00_x86.inf	
-DirectX\directx_Jun2010_redist\DEC2006_d3dx9_32_x64.cab\	
-d3dx9_32_x64.cat	
-d3dx9_32.dll	
-infinst.exe	
-d3dx9_32_x64.inf	
-dec2006_d3dx9_32_x64.inf	
-DirectX\directx_Jun2010_redist\DEC2006_d3dx9_32_x86.cab\	
-d3dx9_32_x86.cat	
-d3dx9_32.dll	
-d3dx9_32_x86.inf	
-dec2006_d3dx9_32_x86.inf	
-DirectX\directx_Jun2010_redist\DEC2006_XACT_x64.cab\	
-xact2_5_x64.cat	
-x3daudio1_1.dll	
-xactengine2_5.dll	
-infinst.exe	
-dec2006_xact_x64.inf	
-xact2_5_x64.inf	
-DirectX\directx_Jun2010_redist\DEC2006_XACT_x86.cab\	
-xact2_5_x86.cat	
-x3daudio1_1.dll	
-xactengine2_5.dll	
-dec2006_xact_x86.inf	
-xact2_5_x86.inf	
-DirectX\directx_Jun2010_redist\dxdllreg_x86.cab\	
-dxdllreg.exe	
-dxdllreg_x86.inf	
-DirectX\directx_Jun2010_redist\dxupdate.cab\	
-dxupdate.dll	
-dxupdate.inf	
-dxupdate.cif	
-DirectX\directx_Jun2010_redist\Feb2005_d3dx9_24_x64.cab\	
-d3dx9_24_x64.cat	
-d3dx9_24.dll	
-infinst.exe	
-d3dx9_24_x64.inf	
-DirectX\directx_Jun2010_redist\Feb2005_d3dx9_24_x86.cab\	
-d3dx9_24_x86.cat	
-d3dx9_24.dll	
-d3dx9_24_w9x.inf	
-d3dx9_24_x86.inf	
-DirectX\directx_Jun2010_redist\Feb2006_d3dx9_29_x64.cab\	
-d3dx9_29_x64.cat	
-d3dx9_29.dll	
-infinst.exe	
-d3dx9_29_x64.inf	
-feb2006_d3dx9_29_x64.inf	
-DirectX\directx_Jun2010_redist\Feb2006_d3dx9_29_x86.cab\	
-d3dx9_29_x86.cat	
-d3dx9_29.dll	
-d3dx9_29_w9x.inf	
-d3dx9_29_x86.inf	
-feb2006_d3dx9_29_x86.inf	
-DirectX\directx_Jun2010_redist\Feb2006_XACT_x64.cab\	
-xact_x64.cat	
-x3daudio1_0.dll	
-xactengine2_0.dll	
-infinst.exe	
-feb2006_xact_x64.inf	
-xact_x64.inf	
-DirectX\directx_Jun2010_redist\Feb2006_XACT_x86.cab\	
-xact_x86.cat	
-x3daudio1_0.dll	
-xactengine2_0.dll	
-feb2006_xact_x86.inf	
-xact_x86.inf	
-DirectX\directx_Jun2010_redist\FEB2007_XACT_x64.cab\	
-xact2_6_x64.cat	
-x3daudio1_1.dll	
-xactengine2_6.dll	
-infinst.exe	
-feb2007_xact_x64.inf	
-xact2_6_x64.inf	
-DirectX\directx_Jun2010_redist\FEB2007_XACT_x86.cab\	
-xact2_6_x86.cat	
-x3daudio1_1.dll	
-xactengine2_6.dll	
-feb2007_xact_x86.inf	
-xact2_6_x86.inf	
-DirectX\directx_Jun2010_redist\Feb2010_X3DAudio_x64.cab\	
-X3DAudio1_7.dll	
-X3DAudio1_7_x64.inf	
-X3DAudio1_7_x64.cat	
-X3DAudio1_7_x64_xp.inf	
-FEB2010_X3DAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Feb2010_X3DAudio_x86.cab\	
-X3DAudio1_7.dll	
-X3DAudio1_7_x86.inf	
-X3DAudio1_7_x86.cat	
-X3DAudio1_7_x86_xp.inf	
-FEB2010_X3DAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Feb2010_XACT_x64.cab\	
-xactengine3_6.dll	
-XACT3_6_x64.inf	
-XACT3_6_x64.cat	
-XACT3_6_x64_xp.inf	
-FEB2010_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Feb2010_XACT_x86.cab\	
-xactengine3_6.dll	
-XACT3_6_x86.inf	
-XACT3_6_x86.cat	
-XACT3_6_x86_xp.inf	
-FEB2010_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Feb2010_XAudio_x64.cab\	
-XAudio2_6.dll	
-XAPOFX1_4.dll	
-XAudio2_6_x64.inf	
-XAudio2_6_x64.cat	
-XAudio2_6_x64_xp.inf	
-FEB2010_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Feb2010_XAudio_x86.cab\	
-XAudio2_6.dll	
-XAPOFX1_4.dll	
-XAudio2_6_x86.inf	
-XAudio2_6_x86.cat	
-XAudio2_6_x86_xp.inf	
-FEB2010_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2005_d3dx9_26_x64.cab\	
-d3dx9_26_x64.cat	
-d3dx9_26.dll	
-infinst.exe	
-d3dx9_26_x64.inf	
-jun2005_d3dx9_26_x64.inf	
-DirectX\directx_Jun2010_redist\Jun2005_d3dx9_26_x86.cab\	
-d3dx9_26_x86.cat	
-d3dx9_26.dll	
-d3dx9_26_w9x.inf	
-d3dx9_26_x86.inf	
-jun2005_d3dx9_26_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2006_XACT_x64.cab\	
-xact2_2_x64.cat	
-x3daudio1_0.dll	
-xactengine2_2.dll	
-infinst.exe	
-jun2006_xact_x64.inf	
-xact2_2_x64.inf	
-DirectX\directx_Jun2010_redist\JUN2006_XACT_x86.cab\	
-xact2_2_x86.cat	
-x3daudio1_0.dll	
-xactengine2_2.dll	
-jun2006_xact_x86.inf	
-xact2_2_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2007_d3dx10_34_x64.cab\	
-d3dx10_34_x64.cat	
-d3dcompiler_34.dll	
-d3dx10_34.dll	
-infinst.exe	
-d3dx10_34_x64.inf	
-d3dx10_34_x64_xp.inf	
-jun2007_d3dx10_34_x64.inf	
-DirectX\directx_Jun2010_redist\JUN2007_d3dx10_34_x86.cab\	
-d3dx10_34_x86.cat	
-d3dcompiler_34.dll	
-d3dx10_34.dll	
-d3dx10_34_x86.inf	
-d3dx10_34_x86_xp.inf	
-jun2007_d3dx10_34_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2007_d3dx9_34_x64.cab\	
-d3dx9_34_x64.cat	
-d3dx9_34.dll	
-infinst.exe	
-d3dx9_34_x64.inf	
-d3dx9_34_x64_xp.inf	
-jun2007_d3dx9_34_x64.inf	
-DirectX\directx_Jun2010_redist\JUN2007_d3dx9_34_x86.cab\	
-d3dx9_34_x86.cat	
-d3dx9_34.dll	
-d3dx9_34_x86.inf	
-d3dx9_34_x86_xp.inf	
-jun2007_d3dx9_34_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2007_XACT_x64.cab\	
-xact2_8_x64.cat	
-x3daudio1_2.dll	
-xactengine2_8.dll	
-infinst.exe	
-jun2007_xact_x64.inf	
-xact2_8_x64.inf	
-xact2_8_x64_xp.inf	
-DirectX\directx_Jun2010_redist\JUN2007_XACT_x86.cab\	
-xact2_8_x86.cat	
-x3daudio1_2.dll	
-xactengine2_8.dll	
-jun2007_xact_x86.inf	
-xact2_8_x86.inf	
-xact2_8_x86_xp.inf	
-DirectX\directx_Jun2010_redist\JUN2008_d3dx10_38_x64.cab\	
-d3dx10_38.dll	
-D3DCompiler_38.dll	
-d3dx10_38_x64.cat	
-d3dx10_38_x64.inf	
-d3dx10_38_x64_xp.inf	
-Jun2008_d3dx10_38_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\JUN2008_d3dx10_38_x86.cab\	
-d3dx10_38.dll	
-D3DCompiler_38.dll	
-d3dx10_38_x86.cat	
-d3dx10_38_x86.inf	
-d3dx10_38_x86_xp.inf	
-Jun2008_d3dx10_38_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2008_d3dx9_38_x64.cab\	
-d3dx9_38.dll	
-d3dx9_38_x64.cat	
-d3dx9_38_x64.inf	
-d3dx9_38_x64_xp.inf	
-Jun2008_d3dx9_38_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\JUN2008_d3dx9_38_x86.cab\	
-d3dx9_38.dll	
-d3dx9_38_x86.cat	
-d3dx9_38_x86.inf	
-d3dx9_38_x86_xp.inf	
-Jun2008_d3dx9_38_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2008_X3DAudio_x64.cab\	
-X3DAudio1_4.dll	
-X3DAudio1_4_x64.inf	
-X3DAudio1_4_x64.cat	
-X3DAudio1_4_x64_xp.inf	
-Jun2008_X3DAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\JUN2008_X3DAudio_x86.cab\	
-X3DAudio1_4.dll	
-X3DAudio1_4_x86.inf	
-X3DAudio1_4_x86.cat	
-X3DAudio1_4_x86_xp.inf	
-Jun2008_X3DAudio_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2008_XACT_x64.cab\	
-xactengine3_1.dll	
-XACT3_1_x64.inf	
-XACT3_1_x64.cat	
-XACT3_1_x64_xp.inf	
-Jun2008_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\JUN2008_XACT_x86.cab\	
-xactengine3_1.dll	
-XACT3_1_x86.inf	
-XACT3_1_x86.cat	
-XACT3_1_x86_xp.inf	
-Jun2008_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\JUN2008_XAudio_x64.cab\	
-XAudio2_1.dll	
-XAPOFX1_0.dll	
-XAudio2_1_x64.inf	
-XAudio2_1_x64.cat	
-XAudio2_1_x64_xp.inf	
-Jun2008_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\JUN2008_XAudio_x86.cab\	
-XAudio2_1.dll	
-XAPOFX1_0.dll	
-XAudio2_1_x86.inf	
-XAudio2_1_x86.cat	
-XAudio2_1_x86_xp.inf	
-Jun2008_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_D3DCompiler_43_x64.cab\	
-D3DCompiler_43.dll	
-D3DCompiler_43_x64.cat	
-D3DCompiler_43_x64.inf	
-D3DCompiler_43_x64_xp.inf	
-JUN2010_D3DCompiler_43_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_D3DCompiler_43_x86.cab\	
-D3DCompiler_43.dll	
-D3DCompiler_43_x86.cat	
-D3DCompiler_43_x86.inf	
-D3DCompiler_43_x86_xp.inf	
-JUN2010_D3DCompiler_43_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_d3dcsx_43_x64.cab\	
-d3dcsx_43.dll	
-d3dcsx_43_x64.cat	
-d3dcsx_43_x64.inf	
-d3dcsx_43_x64_xp.inf	
-JUN2010_d3dcsx_43_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_d3dcsx_43_x86.cab\	
-d3dcsx_43.dll	
-d3dcsx_43_x86.cat	
-d3dcsx_43_x86.inf	
-d3dcsx_43_x86_xp.inf	
-JUN2010_d3dcsx_43_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx10_43_x64.cab\	
-d3dx10_43.dll	
-d3dx10_43_x64.cat	
-d3dx10_43_x64.inf	
-d3dx10_43_x64_xp.inf	
-JUN2010_d3dx10_43_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx10_43_x86.cab\	
-d3dx10_43.dll	
-d3dx10_43_x86.cat	
-d3dx10_43_x86.inf	
-d3dx10_43_x86_xp.inf	
-JUN2010_d3dx10_43_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx11_43_x64.cab\	
-d3dx11_43.dll	
-d3dx11_43_x64.cat	
-d3dx11_43_x64.inf	
-d3dx11_43_x64_xp.inf	
-JUN2010_d3dx11_43_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx11_43_x86.cab\	
-d3dx11_43.dll	
-d3dx11_43_x86.cat	
-d3dx11_43_x86.inf	
-d3dx11_43_x86_xp.inf	
-JUN2010_d3dx11_43_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx9_43_x64.cab\	
-d3dx9_43.dll	
-d3dx9_43_x64.cat	
-d3dx9_43_x64.inf	
-d3dx9_43_x64_xp.inf	
-JUN2010_d3dx9_43_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_d3dx9_43_x86.cab\	
-d3dx9_43.dll	
-d3dx9_43_x86.cat	
-d3dx9_43_x86.inf	
-d3dx9_43_x86_xp.inf	
-JUN2010_d3dx9_43_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_XACT_x64.cab\	
-xactengine3_7.dll	
-XACT3_7_x64.inf	
-XACT3_7_x64.cat	
-XACT3_7_x64_xp.inf	
-JUN2010_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_XACT_x86.cab\	
-xactengine3_7.dll	
-XACT3_7_x86.inf	
-XACT3_7_x86.cat	
-XACT3_7_x86_xp.inf	
-JUN2010_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Jun2010_XAudio_x64.cab\	
-XAudio2_7.dll	
-XAPOFX1_5.dll	
-XAudio2_7_x64.inf	
-XAudio2_7_x64.cat	
-XAudio2_7_x64_xp.inf	
-JUN2010_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Jun2010_XAudio_x86.cab\	
-XAudio2_7.dll	
-XAPOFX1_5.dll	
-XAudio2_7_x86.inf	
-XAudio2_7_x86.cat	
-XAudio2_7_x86_xp.inf	
-JUN2010_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2008_d3dx10_37_x64.cab\	
-d3dx10_37.dll	
-D3DCompiler_37.dll	
-d3dx10_37_x64.cat	
-d3dx10_37_x64.inf	
-d3dx10_37_x64_xp.inf	
-Mar2008_d3dx10_37_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2008_d3dx10_37_x86.cab\	
-d3dx10_37.dll	
-D3DCompiler_37.dll	
-d3dx10_37_x86.cat	
-d3dx10_37_x86.inf	
-d3dx10_37_x86_xp.inf	
-Mar2008_d3dx10_37_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2008_d3dx9_37_x64.cab\	
-d3dx9_37.dll	
-d3dx9_37_x64.cat	
-d3dx9_37_x64.inf	
-d3dx9_37_x64_xp.inf	
-Mar2008_d3dx9_37_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2008_d3dx9_37_x86.cab\	
-d3dx9_37.dll	
-d3dx9_37_x86.cat	
-d3dx9_37_x86.inf	
-d3dx9_37_x86_xp.inf	
-Mar2008_d3dx9_37_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2008_X3DAudio_x64.cab\	
-X3DAudio1_3.dll	
-X3DAudio1_3_x64.inf	
-X3DAudio1_3_x64.cat	
-X3DAudio1_3_x64_xp.inf	
-Mar2008_X3DAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2008_X3DAudio_x86.cab\	
-X3DAudio1_3.dll	
-X3DAudio1_3_x86.inf	
-X3DAudio1_3_x86.cat	
-X3DAudio1_3_x86_xp.inf	
-Mar2008_X3DAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2008_XACT_x64.cab\	
-xactengine3_0.dll	
-XACT3_0_x64.inf	
-XACT3_0_x64.cat	
-XACT3_0_x64_xp.inf	
-Mar2008_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2008_XACT_x86.cab\	
-xactengine3_0.dll	
-XACT3_0_x86.inf	
-XACT3_0_x86.cat	
-XACT3_0_x86_xp.inf	
-Mar2008_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2008_XAudio_x64.cab\	
-XAudio2_0.dll	
-XAudio2_0_x64.inf	
-XAudio2_0_x64.cat	
-XAudio2_0_x64_xp.inf	
-Mar2008_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2008_XAudio_x86.cab\	
-XAudio2_0.dll	
-XAudio2_0_x86.inf	
-XAudio2_0_x86.cat	
-XAudio2_0_x86_xp.inf	
-Mar2008_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2009_d3dx10_41_x64.cab\	
-d3dx10_41.dll	
-D3DCompiler_41.dll	
-d3dx10_41_x64.cat	
-d3dx10_41_x64.inf	
-d3dx10_41_x64_xp.inf	
-Mar2009_d3dx10_41_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2009_d3dx10_41_x86.cab\	
-d3dx10_41.dll	
-D3DCompiler_41.dll	
-d3dx10_41_x86.cat	
-d3dx10_41_x86.inf	
-d3dx10_41_x86_xp.inf	
-Mar2009_d3dx10_41_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2009_d3dx9_41_x64.cab\	
-d3dx9_41.dll	
-d3dx9_41_x64.cat	
-d3dx9_41_x64.inf	
-d3dx9_41_x64_xp.inf	
-Mar2009_d3dx9_41_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2009_d3dx9_41_x86.cab\	
-d3dx9_41.dll	
-d3dx9_41_x86.cat	
-d3dx9_41_x86.inf	
-d3dx9_41_x86_xp.inf	
-Mar2009_d3dx9_41_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2009_X3DAudio_x64.cab\	
-X3DAudio1_6.dll	
-X3DAudio1_6_x64.inf	
-X3DAudio1_6_x64.cat	
-X3DAudio1_6_x64_xp.inf	
-Mar2009_X3DAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2009_X3DAudio_x86.cab\	
-X3DAudio1_6.dll	
-X3DAudio1_6_x86.inf	
-X3DAudio1_6_x86.cat	
-X3DAudio1_6_x86_xp.inf	
-Mar2009_X3DAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2009_XACT_x64.cab\	
-xactengine3_4.dll	
-XACT3_4_x64.inf	
-XACT3_4_x64.cat	
-XACT3_4_x64_xp.inf	
-Mar2009_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2009_XACT_x86.cab\	
-xactengine3_4.dll	
-XACT3_4_x86.inf	
-XACT3_4_x86.cat	
-XACT3_4_x86_xp.inf	
-Mar2009_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Mar2009_XAudio_x64.cab\	
-XAudio2_4.dll	
-XAPOFX1_3.dll	
-XAudio2_4_x64.inf	
-XAudio2_4_x64.cat	
-XAudio2_4_x64_xp.inf	
-Mar2009_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Mar2009_XAudio_x86.cab\	
-XAudio2_4.dll	
-XAPOFX1_3.dll	
-XAudio2_4_x86.inf	
-XAudio2_4_x86.cat	
-XAudio2_4_x86_xp.inf	
-Mar2009_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2007_d3dx10_36_x64.cab\	
-d3dx10_36_x64.cat	
-d3dcompiler_36.dll	
-d3dx10_36.dll	
-infinst.exe	
-d3dx10_36_x64.inf	
-d3dx10_36_x64_xp.inf	
-nov2007_d3dx10_36_x64.inf	
-DirectX\directx_Jun2010_redist\Nov2007_d3dx10_36_x86.cab\	
-d3dx10_36_x86.cat	
-d3dcompiler_36.dll	
-d3dx10_36.dll	
-d3dx10_36_x86.inf	
-d3dx10_36_x86_xp.inf	
-nov2007_d3dx10_36_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2007_d3dx9_36_x64.cab\	
-d3dx9_36_x64.cat	
-d3dx9_36.dll	
-infinst.exe	
-d3dx9_36_x64.inf	
-d3dx9_36_x64_xp.inf	
-nov2007_d3dx9_36_x64.inf	
-DirectX\directx_Jun2010_redist\Nov2007_d3dx9_36_x86.cab\	
-d3dx9_36_x86.cat	
-d3dx9_36.dll	
-d3dx9_36_x86.inf	
-d3dx9_36_x86_xp.inf	
-nov2007_d3dx9_36_x86.inf	
-DirectX\directx_Jun2010_redist\NOV2007_X3DAudio_x64.cab\	
-x3daudio1_2_x64.cat	
-x3daudio1_2.dll	
-infinst.exe	
-nov2007_x3daudio_x64.inf	
-x3daudio1_2_x64.inf	
-x3daudio1_2_x64_xp.inf	
-DirectX\directx_Jun2010_redist\NOV2007_X3DAudio_x86.cab\	
-x3daudio1_2_x86.cat	
-x3daudio1_2.dll	
-nov2007_x3daudio_x86.inf	
-x3daudio1_2_x86.inf	
-x3daudio1_2_x86_xp.inf	
-DirectX\directx_Jun2010_redist\NOV2007_XACT_x64.cab\	
-xact2_10_x64.cat	
-xactengine2_10.dll	
-infinst.exe	
-nov2007_xact_x64.inf	
-xact2_10_x64.inf	
-xact2_10_x64_xp.inf	
-DirectX\directx_Jun2010_redist\NOV2007_XACT_x86.cab\	
-xact2_10_x86.cat	
-xactengine2_10.dll	
-nov2007_xact_x86.inf	
-xact2_10_x86.inf	
-xact2_10_x86_xp.inf	
-DirectX\directx_Jun2010_redist\Nov2008_d3dx10_40_x64.cab\	
-d3dx10_40.dll	
-D3DCompiler_40.dll	
-d3dx10_40_x64.cat	
-d3dx10_40_x64.inf	
-d3dx10_40_x64_xp.inf	
-Nov2008_d3dx10_40_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Nov2008_d3dx10_40_x86.cab\	
-d3dx10_40.dll	
-D3DCompiler_40.dll	
-d3dx10_40_x86.cat	
-d3dx10_40_x86.inf	
-d3dx10_40_x86_xp.inf	
-Nov2008_d3dx10_40_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2008_d3dx9_40_x64.cab\	
-d3dx9_40.dll	
-d3dx9_40_x64.cat	
-d3dx9_40_x64.inf	
-d3dx9_40_x64_xp.inf	
-Nov2008_d3dx9_40_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Nov2008_d3dx9_40_x86.cab\	
-d3dx9_40.dll	
-d3dx9_40_x86.cat	
-d3dx9_40_x86.inf	
-d3dx9_40_x86_xp.inf	
-Nov2008_d3dx9_40_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2008_X3DAudio_x64.cab\	
-X3DAudio1_5.dll	
-X3DAudio1_5_x64.inf	
-X3DAudio1_5_x64.cat	
-X3DAudio1_5_x64_xp.inf	
-Nov2008_X3DAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Nov2008_X3DAudio_x86.cab\	
-X3DAudio1_5.dll	
-X3DAudio1_5_x86.inf	
-X3DAudio1_5_x86.cat	
-X3DAudio1_5_x86_xp.inf	
-Nov2008_X3DAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2008_XACT_x64.cab\	
-xactengine3_3.dll	
-XACT3_3_x64.inf	
-XACT3_3_x64.cat	
-XACT3_3_x64_xp.inf	
-Nov2008_XACT_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Nov2008_XACT_x86.cab\	
-xactengine3_3.dll	
-XACT3_3_x86.inf	
-XACT3_3_x86.cat	
-XACT3_3_x86_xp.inf	
-Nov2008_XACT_x86.inf	
-DirectX\directx_Jun2010_redist\Nov2008_XAudio_x64.cab\	
-XAudio2_3.dll	
-XAPOFX1_2.dll	
-XAudio2_3_x64.inf	
-XAudio2_3_x64.cat	
-XAudio2_3_x64_xp.inf	
-Nov2008_XAudio_x64.inf	
-infinst.exe	
-DirectX\directx_Jun2010_redist\Nov2008_XAudio_x86.cab\	
-XAudio2_3.dll	
-XAPOFX1_2.dll	
-XAudio2_3_x86.inf	
-XAudio2_3_x86.cat	
-XAudio2_3_x86_xp.inf	
-Nov2008_XAudio_x86.inf	
-DirectX\directx_Jun2010_redist\Oct2005_xinput_x64.cab\	
-xinput9_1_0_x64.cat	
-xinput9_1_0.dll	
-infinst.exe	
-oct2005_xinput_x64.inf	
-xinput9_1_0_x64.inf	
-DirectX\directx_Jun2010_redist\Oct2005_xinput_x86.cab\	
-xinput9_1_0_x86.cat	
-xinput9_1_0.dll	
-oct2005_xinput_x86.inf	
-xinput9_1_0_x86.inf	
-DirectX\directx_Jun2010_redist\OCT2006_d3dx9_31_x64.cab\	
-d3dx9_31_x64.cat	
-d3dx9_31.dll	
-infinst.exe	
-d3dx9_31_x64.inf	
-oct2006_d3dx9_31_x64.inf	
-DirectX\directx_Jun2010_redist\OCT2006_d3dx9_31_x86.cab\	
-d3dx9_31_x86.cat	
-d3dx9_31.dll	
-d3dx9_31_w9x.inf	
-d3dx9_31_x86.inf	
-oct2006_d3dx9_31_x86.inf	
-DirectX\directx_Jun2010_redist\OCT2006_XACT_x64.cab\	
-xact2_4_x64.cat	
-x3daudio1_1.dll	
-xactengine2_4.dll	
-infinst.exe	
-oct2006_xact_x64.inf	
-xact2_4_x64.inf	
-DirectX\directx_Jun2010_redist\OCT2006_XACT_x86.cab\	
-xact2_4_x86.cat	
-x3daudio1_1.dll	
-xactengine2_4.dll	
-oct2006_xact_x86.inf	
-xact2_4_x86.inf	
-DirectX\dxwebsetup\	
-dsetup.dll	
-dsetup32.dll	
-dxupdate.cif	
-dxupdate.dll	
-dxupdate.inf	
-dxwsetup.cif	
-dxwsetup.exe	
-dxwsetup.inf	
-ImDisk\	
-descript.ion	
-install.bat	
-ImDisk\files.cab\	
-config.exe	
-ImDisk Virtual Disk Driver.lnk	
-MountImg.exe	
-ImDisk-Dlg.exe	
-ImDiskTk-svc.exe	
-RamDiskUI.exe	
-RamDyn.exe	
-ImDisk\files.cab\DiscUtils\	
-DevioNet.dll	
-DiscUtils.Core.dll	
-DiscUtils.Dmg.dll	
-DiscUtils.Streams.dll	
-DiscUtils.Vdi.dll	
-DiscUtils.Vhd.dll	
-DiscUtils.Vhdx.dll	
-DiscUtils.Vmdk.dll	
-DiscUtils.Xva.dll	
-DiscUtilsDevio.exe	
-DiscUtilsDevio.exe.config	
-ImDiskNet.dll	
-LTRData.Extensions.dll	
-lzfse-net.dll	
-lzfse.dll	
-Microsoft.Bcl.HashCode.dll	
-System.Buffers.dll	
-System.Memory.dll	
-System.Numerics.Vectors.dll	
-System.Runtime.CompilerServices.Unsafe.dll	
-System.Threading.Tasks.Extensions.dll	
-System.ValueTuple.dll	
-ImDisk\files.cab\lang\	
-brazilian-portuguese.txt	
-english.txt	
-finnish.txt	
-french.txt	
-german.txt	
-hungarian.txt	
-italian.txt	
-korean.txt	
-russian.txt	
-schinese.txt	
-spanish.txt	
-swedish.txt	
-tchinese.txt	
-turkish.txt	
-ImDisk\files.cab\driver\	
-gpl.txt	
-imdisk.inf	
-install.cmd	
-msgboxw.exe	
-readme.txt	
-runwaitw.exe	
-uninstall_imdisk.cmd	
-ImDisk\files.cab\driver\awealloc\	
-ImDisk\files.cab\driver\awealloc\amd64\	
-awealloc.sys	
-ImDisk\files.cab\driver\cli\	
-ImDisk\files.cab\driver\cli\amd64\	
-imdisk.exe	
-ImDisk\files.cab\driver\cli\i386\	
-imdisk.exe	
-ImDisk\files.cab\driver\cpl\	
-ImDisk\files.cab\driver\cpl\amd64\	
-imdisk.cpl	
-ImDisk\files.cab\driver\cpl\i386\	
-imdisk.cpl	
-ImDisk\files.cab\driver\deviodrv\	
-ImDisk\files.cab\driver\deviodrv\amd64\	
-deviodrv.sys	
-ImDisk\files.cab\driver\svc\	
-ImDisk\files.cab\driver\svc\amd64\	
-imdsksvc.exe	
-ImDisk\files.cab\driver\sys\	
-ImDisk\files.cab\driver\sys\amd64\	
-imdisk.sys	
-Shadow_Defender\	
-CmdTool.exe	
-CmdTool.txt	
-Commit.exe	
-Daemon.exe	
-Defender.exe	
-diskpt.sys	
-diskpt.win10.sys	
-eula.rtf	
-Help.chm	
-Install.exe	
-res.ini	
-Service.exe	
-ShellExt.dll	
-Uninstall.exe	
-____Key____	
+!.NET.lnk	1447	2025.2.19	16:57.38
+!VisualCppRedist_AIO_x86_x64 !SILENT!INSTALL!.lnk	2328	2025.2.19	19:6.22
+!VisualCppRedist_AIO_x86_x64 !VERYSILENT!INSTALL!.lnk	2364	2025.2.19	19:6.26
+@Appx Codecs.lnk	1744	2025.1.31	14:59.20
+@Appx Runtime.lnk	1216	2025.1.31	15:0.32
+@DirectX Setup (IF [Appx Runtime] version NOT WORK) !SILENT!INSTALL!.lnk	2529	2025.2.19	19:2.10
+@DirectX Web Setup (VERY SLOW).lnk	2396	2025.2.19	19:2.26
+@DxDiag 2025-01-30 (DxWebSetup) Compare after fresh install of Appx DirectX.png	36419	2025.1.30	15:43.30
+@ImDisk !SILENT!INSTALL! (Check TEMP Variables after installation).bat	75	2025.4.7	13:37.20
+CompactGUI (Add any folder to enable AutoRun [Start from AHK not work]).lnk	1974	2025.2.6	15:47.46
+DefenderUI Free !VERYSILENT!INSTALL!.lnk	1515	2025.3.24	20:31.4
+Git !SILENT!INSTALL!.lnk	2010	2025.2.19	18:51.48
+Git !VERYSILENT!INSTALL!.lnk	2046	2025.2.19	18:52.26
+Hard Link Shell Extension !SILENT!INSTALL!.lnk	2130	2025.2.22	13:43.54
+InSpectre.lnk	2048	2025.3.15	19:47.24
+kards_installer.exe	536920	2025.1.14	23:14.20
+Lossless Scaling - Registry Fix.lnk	1193	2025.4.4	15:50.30
+RaiDrive 2023.9.256 x64.lnk	1784	2025.2.11	16:9.10
+RTSS Rivatuner Statistics Server.lnk	1638	2025.3.21	12:4.14
+Shadow Defender Install.lnk	1812	2025.2.6	15:47.6
+Shadow Defender Install KEY	29	2022.8.27	21:7.8
+SumatraPDF !SILENT!INSTALL!.lnk	1841	2025.2.19	18:47.24
+svp4-online.lnk	2174	2025.3.3	19:17.34
+Windows Firewall Control !SILENT!INSTALL!.lnk	2038	2025.2.22	14:6.16
+ZZZ (INSTALLED IN PORTABLE) MSI Afterburner !SILENT!INSTALL!.lnk	1335	2025.3.21	11:59.46
+ZZZ GamingRepairTool.exe	734760	2025.3.21	16:27.20
+ZZZ PowerToys.url	80	2025.4.7	12:18.26
+ZZZ PowerToys - MS Store.url	74	2025.4.7	12:35.58
+ZZZ WebView2.url	87	2025.4.7	13:29.40
+ZZZ WinToys - MS Store.url	72	2025.4.7	12:33.36
+DirectX\	0	2025.2.6	15:33.40
+ReadMe.txt	172	2025.2.6	15:39.4
+DirectX\directx_Jun2010_redist\	0	2025.2.6	15:44.58
+DSETUP.dll	95576	2015.9.1	20:28.6
+dsetup32.dll	1566040	2015.9.1	20:28.6
+DXSETUP.exe	517976	2015.9.1	20:28.2
+DirectX\directx_Jun2010_redist\Apr2005_d3dx9_25_x64.cab\	1347354	2015.9.1	20:27.58
+d3dx9_25_x64.cat	7479	2005.3.18	17:31.14
+d3dx9_25.dll	3823312	2005.3.18	17:19.56
+infinst.exe	58064	2005.3.18	17:18.48
+apr2005_d3dx9_25_x64.inf	806	2005.3.18	17:25.28
+d3dx9_25_x64.inf	667	2005.3.18	17:25.26
+DirectX\directx_Jun2010_redist\Apr2005_d3dx9_25_x86.cab\	1078962	2015.9.1	20:28.0
+d3dx9_25_x86.cat	7479	2005.3.18	17:31.14
+d3dx9_25.dll	2337488	2005.3.18	17:19.58
+apr2005_d3dx9_25_x86.inf	1971	2005.3.18	17:25.24
+d3dx9_25_w9x.inf	433	2005.3.18	17:25.24
+d3dx9_25_x86.inf	779	2005.3.18	17:25.24
+DirectX\directx_Jun2010_redist\Apr2006_d3dx9_30_x64.cab\	1397830	2015.9.1	20:28.0
+d3dx9_30_x64.cat	7927	2006.3.31	12:49.40
+d3dx9_30.dll	3927248	2006.3.31	12:41.2
+infinst.exe	67280	2006.3.31	12:39.26
+apr2006_d3dx9_30_x64.inf	806	2006.3.31	12:46.36
+d3dx9_30_x64.inf	667	2006.3.31	12:46.36
+DirectX\directx_Jun2010_redist\Apr2006_d3dx9_30_x86.cab\	1115221	2015.9.1	20:28.0
+d3dx9_30_x86.cat	7927	2006.3.31	12:49.40
+d3dx9_30.dll	2388176	2006.3.31	12:40.58
+apr2006_d3dx9_30_x86.inf	1971	2006.3.31	12:46.36
+d3dx9_30_w9x.inf	433	2006.3.31	12:46.36
+d3dx9_30_x86.inf	779	2006.3.31	12:46.36
+DirectX\directx_Jun2010_redist\Apr2006_MDX1_x86.cab\	916430	2015.9.1	20:27.58
+microsoft.directx.audiovideoplayback.dll	53248	2005.3.18	16:23.10
+microsoft.directx.diagnostics.dll	12800	2005.3.18	16:23.10
+microsoft.directx.direct3d.dll	473600	2005.3.18	16:23.14
+microsoft.directx.direct3dx.dll	578560	2006.3.31	11:27.50
+microsoft.directx.directdraw.dll	145920	2005.3.18	16:23.10
+microsoft.directx.directinput.dll	159232	2005.3.18	16:23.10
+microsoft.directx.directplay.dll	364544	2005.3.18	16:23.14
+microsoft.directx.directsound.dll	178176	2005.3.18	16:23.12
+microsoft.directx.dll	223232	2005.3.18	16:23.14
+apr2006_mdx1_x86.inf	2367	2006.3.31	12:46.36
+microsoft.directx.audiovideoplayback.xml	33914	2006.3.7	22:46.28
+microsoft.directx.diagnostics.xml	10439	2006.3.7	22:46.30
+microsoft.directx.direct3d.xml	849122	2006.3.7	22:46.30
+microsoft.directx.direct3dx.xml	1437695	2006.3.7	22:46.30
+microsoft.directx.directdraw.xml	755962	2006.3.7	22:46.30
+microsoft.directx.directinput.xml	345509	2006.3.7	22:46.32
+microsoft.directx.directplay.xml	1252798	2006.3.7	22:46.32
+microsoft.directx.directsound.xml	348085	2006.3.7	22:46.32
+microsoft.directx.xml	265390	2006.3.7	22:46.32
+DirectX\directx_Jun2010_redist\Apr2006_MDX1_x86_Archive.cab\	4162630	2015.9.1	20:28.2
+mdx_1.0.2902.0_x86.cab	1196964	2006.3.31	12:51.38
+mdx_1.0.2903.0_x86.cab	1263976	2006.3.31	12:51.46
+mdx_1.0.2904.0_x86.cab	239102	2006.3.31	12:51.50
+mdx_1.0.2905.0_x86.cab	240867	2006.3.31	12:51.50
+mdx_1.0.2906.0_x86.cab	244821	2006.3.31	12:51.52
+mdx_1.0.2907.0_x86.cab	245262	2006.3.31	12:51.54
+mdx_1.0.2908.0_x86.cab	245577	2006.3.31	12:51.54
+mdx_1.0.2909.0_x86.cab	245558	2006.3.31	12:51.56
+mdx_1.0.2910.0_x86.cab	245752	2006.3.31	12:51.58
+apr2006_mdx1_x86_archive.inf	1956	2006.3.31	12:51.58
+DirectX\directx_Jun2010_redist\Apr2006_XACT_x64.cab\	179133	2015.9.1	20:28.2
+xact2_1_x64.cat	8225	2006.3.31	12:49.44
+x3daudio1_0.dll	16592	2006.2.3	8:41.18
+xactengine2_1.dll	352464	2006.3.31	12:40.6
+infinst.exe	67280	2006.3.31	12:39.26
+apr2006_xact_x64.inf	908	2006.3.31	12:46.38
+xact2_1_x64.inf	771	2006.3.31	12:46.38
+DirectX\directx_Jun2010_redist\Apr2006_XACT_x86.cab\	133103	2015.9.1	20:28.2
+xact2_1_x86.cat	8225	2006.3.31	12:49.46
+x3daudio1_0.dll	14032	2006.2.3	8:41.26
+xactengine2_1.dll	229584	2006.3.31	12:39.48
+apr2006_xact_x86.inf	1623	2006.3.31	12:46.38
+xact2_1_x86.inf	905	2006.3.31	12:46.36
+DirectX\directx_Jun2010_redist\Apr2006_xinput_x64.cab\	87101	2015.9.1	20:28.2
+xinput1_1_x64.cat	7927	2006.3.31	12:49.40
+xinput1_1.dll	83664	2006.3.31	12:39.48
+infinst.exe	67280	2006.3.31	12:39.26
+apr2006_xinput_x64.inf	854	2006.3.31	12:46.42
+xinput1_1_x64.inf	669	2006.3.31	12:46.42
+DirectX\directx_Jun2010_redist\Apr2006_xinput_x86.cab\	46010	2015.9.1	20:27.56
+xinput1_1_x86.cat	7927	2006.3.31	12:49.44
+xinput1_1.dll	62672	2006.3.31	12:39.24
+apr2006_xinput_x86.inf	1419	2006.3.31	12:46.42
+xinput1_1_x86.inf	783	2006.3.31	12:46.42
+DirectX\directx_Jun2010_redist\APR2007_d3dx10_33_x64.cab\	698612	2015.9.1	20:28.0
+d3dx10_33_x64.cat	10690	2007.4.4	19:4.0
+d3dcompiler_33.dll	1400176	2007.3.12	16:42.30
+d3dx10_33.dll	506728	2007.3.15	16:57.58
+infinst.exe	69992	2007.4.4	18:53.14
+apr2007_d3dx10_33_x64.inf	844	2007.4.4	18:58.12
+d3dx10_33_x64.inf	708	2007.4.4	18:58.12
+d3dx10_33_x64_xp.inf	484	2007.4.4	18:58.12
+DirectX\directx_Jun2010_redist\APR2007_d3dx10_33_x86.cab\	695865	2015.9.1	20:27.58
+d3dx10_33_x86.cat	10690	2007.4.4	19:3.54
+d3dcompiler_33.dll	1123696	2007.3.12	16:42.30
+d3dx10_33.dll	443752	2007.3.15	16:57.58
+apr2007_d3dx10_33_x86.inf	1693	2007.4.4	18:58.10
+d3dx10_33_x86.inf	841	2007.4.4	18:58.10
+d3dx10_33_x86_xp.inf	617	2007.4.4	18:58.10
+DirectX\directx_Jun2010_redist\APR2007_d3dx9_33_x64.cab\	1607358	2015.9.1	20:28.4
+d3dx9_33_x64.cat	10392	2007.4.4	19:3.54
+d3dx9_33.dll	4494184	2007.3.12	16:42.30
+infinst.exe	69992	2007.4.4	18:53.14
+apr2007_d3dx9_33_x64.inf	812	2007.4.4	18:58.6
+d3dx9_33_x64.inf	667	2007.4.4	18:58.4
+d3dx9_33_x64_xp.inf	444	2007.4.4	18:58.4
+DirectX\directx_Jun2010_redist\APR2007_d3dx9_33_x86.cab\	1606039	2015.9.1	20:28.2
+d3dx9_33_x86.cat	10392	2007.4.4	19:3.54
+d3dx9_33.dll	3495784	2007.3.12	16:42.30
+apr2007_d3dx9_33_x86.inf	1628	2007.4.4	18:58.4
+d3dx9_33_x86.inf	779	2007.4.4	18:58.4
+d3dx9_33_x86_xp.inf	556	2007.4.4	18:58.4
+DirectX\directx_Jun2010_redist\APR2007_XACT_x64.cab\	195766	2015.9.1	20:28.4
+xact2_7_x64.cat	10690	2007.4.4	19:4.0
+x3daudio1_1.dll	17688	2007.3.5	12:42.14
+xactengine2_7.dll	403304	2007.4.4	18:55.14
+infinst.exe	69992	2007.4.4	18:53.14
+apr2007_xact_x64.inf	920	2007.4.4	18:58.8
+xact2_7_x64.inf	771	2007.4.4	18:58.8
+xact2_7_x64_xp.inf	549	2007.4.4	18:58.8
+DirectX\directx_Jun2010_redist\APR2007_XACT_x86.cab\	151225	2015.9.1	20:28.0
+xact2_7_x86.cat	10690	2007.4.4	19:4.0
+x3daudio1_1.dll	15128	2007.3.5	12:42.18
+xactengine2_7.dll	261480	2007.4.4	18:55.0
+apr2007_xact_x86.inf	1647	2007.4.4	18:58.8
+xact2_7_x86.inf	905	2007.4.4	18:58.8
+xact2_7_x86_xp.inf	683	2007.4.4	18:58.8
+DirectX\directx_Jun2010_redist\APR2007_xinput_x64.cab\	96817	2015.9.1	20:27.56
+xinput1_3_x64.cat	10392	2007.4.4	19:1.22
+xinput1_3.dll	107368	2007.4.4	18:54.22
+infinst.exe	69992	2007.4.4	18:53.14
+apr2007_xinput_x64.inf	860	2007.4.4	18:58.16
+xinput1_3_x64.inf	669	2007.4.4	18:58.14
+xinput1_3_x64_xp.inf	445	2007.4.4	18:58.16
+DirectX\directx_Jun2010_redist\APR2007_xinput_x86.cab\	53302	2015.9.1	20:27.58
+xinput1_3_x86.cat	10392	2007.4.4	19:3.54
+xinput1_3.dll	81768	2007.4.4	18:53.42
+apr2007_xinput_x86.inf	1431	2007.4.4	18:58.14
+xinput1_3_x86.inf	783	2007.4.4	18:58.14
+xinput1_3_x86_xp.inf	559	2007.4.4	18:58.14
+DirectX\directx_Jun2010_redist\Aug2005_d3dx9_27_x64.cab\	1350542	2015.9.1	20:28.4
+d3dx9_27_x64.cat	7740	2005.7.22	20:8.6
+d3dx9_27.dll	3807440	2005.7.22	19:59.8
+infinst.exe	63184	2005.7.22	19:57.50
+aug2005_d3dx9_27_x64.inf	806	2005.7.22	20:5.18
+d3dx9_27_x64.inf	667	2005.7.22	20:5.18
+DirectX\directx_Jun2010_redist\Aug2005_d3dx9_27_x86.cab\	1077644	2015.9.1	20:28.4
+d3dx9_27_x86.cat	7740	2005.7.22	20:8.6
+d3dx9_27.dll	2319568	2005.7.22	19:59.4
+aug2005_d3dx9_27_x86.inf	1971	2005.7.22	20:5.16
+d3dx9_27_w9x.inf	433	2005.7.22	20:5.16
+d3dx9_27_x86.inf	779	2005.7.22	20:5.16
+DirectX\directx_Jun2010_redist\AUG2006_XACT_x64.cab\	182903	2015.9.1	20:28.4
+xact2_3_x64.cat	8225	2006.7.28	10:23.8
+x3daudio1_0.dll	16592	2006.2.3	8:41.18
+xactengine2_3.dll	363288	2006.7.28	9:30.48
+infinst.exe	67352	2006.7.28	9:30.20
+aug2006_xact_x64.inf	908	2006.7.28	10:19.54
+xact2_3_x64.inf	771	2006.7.28	10:19.54
+DirectX\directx_Jun2010_redist\AUG2006_XACT_x86.cab\	137235	2015.9.1	20:28.4
+xact2_3_x86.cat	8225	2006.7.28	10:23.10
+x3daudio1_0.dll	14032	2006.2.3	8:41.26
+xactengine2_3.dll	236824	2006.7.28	9:30.32
+aug2006_xact_x86.inf	1623	2006.7.28	10:19.54
+xact2_3_x86.inf	905	2006.7.28	10:19.54
+DirectX\directx_Jun2010_redist\AUG2006_xinput_x64.cab\	87142	2015.9.1	20:28.4
+xinput1_2_x64.cat	7927	2006.7.28	10:23.2
+xinput1_2.dll	83736	2006.7.28	9:31.8
+infinst.exe	67352	2006.7.28	9:30.20
+aug2006_xinput_x64.inf	854	2006.7.28	10:19.58
+xinput1_2_x64.inf	669	2006.7.28	10:19.58
+DirectX\directx_Jun2010_redist\AUG2006_xinput_x86.cab\	46058	2015.9.1	20:28.0
+xinput1_2_x86.cat	7927	2006.7.28	10:23.6
+xinput1_2.dll	62744	2006.7.28	9:30.14
+aug2006_xinput_x86.inf	1419	2006.7.28	10:19.58
+xinput1_2_x86.inf	783	2006.7.28	10:19.58
+DirectX\directx_Jun2010_redist\AUG2007_d3dx10_35_x64.cab\	852286	2015.9.1	20:28.2
+d3dx10_35_x64.cat	10690	2007.7.20	1:10.40
+d3dcompiler_35.dll	1985904	2007.7.19	18:14.42
+d3dx10_35.dll	508264	2007.7.19	18:14.42
+infinst.exe	69992	2007.7.20	0:55.2
+aug2007_d3dx10_35_x64.inf	815	2007.7.20	1:2.14
+d3dx10_35_x64.inf	708	2007.7.20	1:2.14
+d3dx10_35_x64_xp.inf	484	2007.7.20	1:2.14
+DirectX\directx_Jun2010_redist\AUG2007_d3dx10_35_x86.cab\	796867	2015.9.1	20:28.2
+d3dx10_35_x86.cat	10690	2007.7.20	1:10.32
+d3dcompiler_35.dll	1358192	2007.7.19	18:14.42
+d3dx10_35.dll	444776	2007.7.19	18:14.42
+aug2007_d3dx10_35_x86.inf	1635	2007.7.20	1:2.12
+d3dx10_35_x86.inf	841	2007.7.20	1:2.12
+d3dx10_35_x86_xp.inf	617	2007.7.20	1:2.12
+DirectX\directx_Jun2010_redist\AUG2007_d3dx9_35_x64.cab\	1800160	2015.9.1	20:28.2
+d3dx9_35_x64.cat	10392	2007.7.20	1:10.32
+d3dx9_35.dll	5073256	2007.7.19	18:14.42
+infinst.exe	69992	2007.7.20	0:55.2
+aug2007_d3dx9_35_x64.inf	812	2007.7.20	1:2.6
+d3dx9_35_x64.inf	667	2007.7.20	1:2.6
+d3dx9_35_x64_xp.inf	444	2007.7.20	1:2.6
+DirectX\directx_Jun2010_redist\AUG2007_d3dx9_35_x86.cab\	1708152	2015.9.1	20:28.4
+d3dx9_35_x86.cat	10392	2007.7.20	1:10.32
+d3dx9_35.dll	3727720	2007.7.19	18:14.42
+aug2007_d3dx9_35_x86.inf	1628	2007.7.20	1:2.4
+d3dx9_35_x86.inf	779	2007.7.20	1:2.4
+d3dx9_35_x86_xp.inf	556	2007.7.20	1:2.4
+DirectX\directx_Jun2010_redist\AUG2007_XACT_x64.cab\	198096	2015.9.1	20:28.4
+xact2_9_x64.cat	10690	2007.7.20	1:10.40
+x3daudio1_2.dll	21352	2007.7.20	0:54.28
+xactengine2_9.dll	411496	2007.7.20	0:57.44
+infinst.exe	69992	2007.7.20	0:55.2
+aug2007_xact_x64.inf	920	2007.7.20	1:2.10
+xact2_9_x64.inf	771	2007.7.20	1:2.10
+xact2_9_x64_xp.inf	549	2007.7.20	1:2.10
+DirectX\directx_Jun2010_redist\AUG2007_XACT_x86.cab\	153012	2015.9.1	20:28.4
+xact2_9_x86.cat	10690	2007.7.20	1:10.38
+x3daudio1_2.dll	18280	2007.7.20	0:54.28
+xactengine2_9.dll	267112	2007.7.20	0:57.12
+aug2007_xact_x86.inf	1647	2007.7.20	1:2.8
+xact2_9_x86.inf	905	2007.7.20	1:2.8
+xact2_9_x86_xp.inf	683	2007.7.20	1:2.8
+DirectX\directx_Jun2010_redist\Aug2008_d3dx10_39_x64.cab\	867612	2015.9.1	20:28.0
+d3dx10_39.dll	540688	2008.7.10	11:0.52
+D3DCompiler_39.dll	1942552	2008.7.10	11:0.50
+d3dx10_39_x64.cat	10342	2008.7.30	6:23.38
+d3dx10_39_x64.inf	708	2008.7.30	6:22.34
+d3dx10_39_x64_xp.inf	484	2008.7.30	6:22.34
+Aug2008_d3dx10_39_x64.inf	815	2008.7.30	6:22.34
+infinst.exe	75776	2008.7.30	6:6.6
+DirectX\directx_Jun2010_redist\Aug2008_d3dx10_39_x86.cab\	849167	2015.9.1	20:28.6
+d3dx10_39.dll	467984	2008.7.10	11:1.0
+D3DCompiler_39.dll	1493528	2008.7.10	11:0.58
+d3dx10_39_x86.cat	10342	2008.7.30	6:23.38
+d3dx10_39_x86.inf	841	2008.7.30	6:22.34
+d3dx10_39_x86_xp.inf	617	2008.7.30	6:22.34
+Aug2008_d3dx10_39_x86.inf	1635	2008.7.30	6:22.34
+DirectX\directx_Jun2010_redist\Aug2008_d3dx9_39_x64.cab\	1794084	2015.9.1	20:28.20
+d3dx9_39.dll	4992520	2008.7.10	11:0.50
+d3dx9_39_x64.cat	10044	2008.7.30	6:23.38
+d3dx9_39_x64.inf	667	2008.7.30	6:22.34
+d3dx9_39_x64_xp.inf	444	2008.7.30	6:22.34
+Aug2008_d3dx9_39_x64.inf	812	2008.7.30	6:22.34
+infinst.exe	75776	2008.7.30	6:6.6
+DirectX\directx_Jun2010_redist\Aug2008_d3dx9_39_x86.cab\	1464672	2015.9.1	20:28.20
+d3dx9_39.dll	3851784	2008.7.10	11:0.58
+d3dx9_39_x86.cat	10044	2008.7.30	6:23.36
+d3dx9_39_x86.inf	779	2008.7.30	6:22.34
+d3dx9_39_x86_xp.inf	556	2008.7.30	6:22.34
+Aug2008_d3dx9_39_x86.inf	1628	2008.7.30	6:22.34
+DirectX\directx_Jun2010_redist\Aug2008_XACT_x64.cab\	121772	2015.9.1	20:28.4
+xactengine3_2.dll	177672	2008.7.31	10:41.54
+XACT3_2_x64.inf	732	2008.7.31	10:35.48
+XACT3_2_x64.cat	10044	2008.7.31	10:44.12
+XACT3_2_x64_xp.inf	510	2008.7.31	10:35.48
+Aug2008_XACT_x64.inf	920	2008.7.31	10:35.48
+infinst.exe	75776	2008.7.31	6:9.30
+DirectX\directx_Jun2010_redist\Aug2008_XACT_x86.cab\	92996	2015.9.1	20:28.4
+xactengine3_2.dll	238088	2008.7.31	10:41.54
+XACT3_2_x86.inf	849	2008.7.31	10:35.48
+XACT3_2_x86.cat	10044	2008.7.31	10:44.14
+XACT3_2_x86_xp.inf	627	2008.7.31	10:35.48
+Aug2008_XACT_x86.inf	1647	2008.7.31	10:35.48
+DirectX\directx_Jun2010_redist\Aug2008_XAudio_x64.cab\	271412	2015.9.1	20:28.6
+XAudio2_2.dll	513544	2008.7.31	10:40.32
+XAPOFX1_1.dll	72200	2008.7.31	10:41.52
+XAudio2_2_x64.inf	755	2008.7.31	10:35.50
+XAudio2_2_x64.cat	10342	2008.7.31	10:44.14
+XAudio2_2_x64_xp.inf	531	2008.7.31	10:35.50
+Aug2008_XAudio_x64.inf	923	2008.7.31	10:35.50
+infinst.exe	75776	2008.7.31	6:9.30
+DirectX\directx_Jun2010_redist\Aug2008_XAudio_x86.cab\	271038	2015.9.1	20:28.6
+XAudio2_2.dll	509448	2008.7.31	10:40.32
+XAPOFX1_1.dll	68616	2008.7.31	10:41.52
+XAudio2_2_x86.inf	882	2008.7.31	10:35.50
+XAudio2_2_x86.cat	10342	2008.7.31	10:44.14
+XAudio2_2_x86_xp.inf	659	2008.7.31	10:35.50
+Aug2008_XAudio_x86.inf	1615	2008.7.31	10:35.50
+DirectX\directx_Jun2010_redist\Aug2009_D3DCompiler_42_x64.cab\	919044	2015.9.1	20:28.2
+D3DCompiler_42.dll	2582888	2009.9.4	17:29.22
+D3DCompiler_42_x64.cat	6783	2009.9.4	17:46.28
+D3DCompiler_42_x64.inf	683	2009.9.4	17:46.44
+D3DCompiler_42_x64_xp.inf	454	2009.9.4	17:46.44
+AUG2009_D3DCompiler_42_x64.inf	830	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_D3DCompiler_42_x86.cab\	900598	2015.9.1	20:28.12
+D3DCompiler_42.dll	1974616	2009.9.4	17:29.32
+D3DCompiler_42_x86.cat	6783	2009.9.4	17:46.28
+D3DCompiler_42_x86.inf	801	2009.9.4	17:46.44
+D3DCompiler_42_x86_xp.inf	572	2009.9.4	17:46.44
+AUG2009_D3DCompiler_42_x86.inf	1670	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_d3dcsx_42_x64.cab\	3112111	2015.9.1	20:28.6
+d3dcsx_42.dll	5554512	2009.9.4	17:29.24
+d3dcsx_42_x64.cat	6783	2009.9.4	17:46.28
+d3dcsx_42_x64.inf	663	2009.9.4	17:46.44
+d3dcsx_42_x64_xp.inf	439	2009.9.4	17:46.44
+AUG2009_d3dcsx_42_x64.inf	815	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_d3dcsx_42_x86.cab\	3319740	2015.9.1	20:28.8
+d3dcsx_42.dll	5501792	2009.9.4	17:29.32
+d3dcsx_42_x86.cat	6783	2009.9.4	17:46.28
+d3dcsx_42_x86.inf	776	2009.9.4	17:46.44
+d3dcsx_42_x86_xp.inf	552	2009.9.4	17:46.44
+AUG2009_d3dcsx_42_x86.inf	1635	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_d3dx10_42_x64.cab\	232635	2015.9.1	20:28.4
+d3dx10_42.dll	523088	2009.9.4	17:29.24
+d3dx10_42_x64.cat	6796	2009.9.4	17:46.28
+d3dx10_42_x64.inf	663	2009.9.4	17:46.44
+d3dx10_42_x64_xp.inf	439	2009.9.4	17:46.44
+AUG2009_d3dx10_42_x64.inf	815	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_d3dx10_42_x86.cab\	192131	2015.9.1	20:28.2
+d3dx10_42.dll	453456	2009.9.4	17:29.34
+d3dx10_42_x86.cat	6783	2009.9.4	17:46.28
+d3dx10_42_x86.inf	776	2009.9.4	17:46.44
+d3dx10_42_x86_xp.inf	552	2009.9.4	17:46.44
+AUG2009_d3dx10_42_x86.inf	1635	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_d3dx11_42_x64.cab\	136301	2015.9.1	20:28.6
+d3dx11_42.dll	285024	2009.9.4	17:29.24
+d3dx11_42_x64.cat	6783	2009.9.4	17:46.28
+d3dx11_42_x64.inf	663	2009.9.4	17:46.44
+d3dx11_42_x64_xp.inf	439	2009.9.4	17:46.44
+AUG2009_d3dx11_42_x64.inf	815	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_d3dx11_42_x86.cab\	105044	2015.9.1	20:28.6
+d3dx11_42.dll	235344	2009.9.4	17:29.34
+d3dx11_42_x86.cat	6796	2009.9.4	17:46.28
+d3dx11_42_x86.inf	776	2009.9.4	17:46.44
+d3dx11_42_x86_xp.inf	552	2009.9.4	17:46.44
+AUG2009_d3dx11_42_x86.inf	1635	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_d3dx9_42_x64.cab\	930116	2015.9.1	20:28.2
+d3dx9_42.dll	2475352	2009.9.4	17:29.20
+d3dx9_42_x64.cat	6783	2009.9.4	17:46.28
+d3dx9_42_x64.inf	667	2009.9.4	17:46.44
+d3dx9_42_x64_xp.inf	444	2009.9.4	17:46.44
+AUG2009_d3dx9_42_x64.inf	812	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_d3dx9_42_x86.cab\	728456	2015.9.1	20:28.12
+d3dx9_42.dll	1892184	2009.9.4	17:29.30
+d3dx9_42_x86.cat	6796	2009.9.4	17:46.28
+d3dx9_42_x86.inf	779	2009.9.4	17:46.44
+d3dx9_42_x86_xp.inf	556	2009.9.4	17:46.44
+AUG2009_d3dx9_42_x86.inf	1628	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_XACT_x64.cab\	122408	2015.9.1	20:28.6
+xactengine3_5.dll	176968	2009.9.4	17:44.40
+XACT3_5_x64.inf	732	2009.9.4	17:46.44
+XACT3_5_x64.cat	6796	2009.9.4	17:46.28
+XACT3_5_x64_xp.inf	510	2009.9.4	17:46.44
+AUG2009_XACT_x64.inf	920	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_XACT_x86.cab\	93106	2015.9.1	20:28.4
+xactengine3_5.dll	238936	2009.9.4	17:44.40
+XACT3_5_x86.inf	849	2009.9.4	17:46.44
+XACT3_5_x86.cat	6796	2009.9.4	17:46.28
+XACT3_5_x86_xp.inf	627	2009.9.4	17:46.44
+AUG2009_XACT_x86.inf	1647	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Aug2009_XAudio_x64.cab\	273264	2015.9.1	20:28.6
+XAudio2_5.dll	517960	2009.9.4	17:44.40
+XAPOFX1_3.dll	73544	2009.9.4	17:44.42
+XAudio2_5_x64.inf	755	2009.9.4	17:46.44
+XAudio2_5_x64.cat	7081	2009.9.4	17:46.26
+XAudio2_5_x64_xp.inf	531	2009.9.4	17:46.44
+AUG2009_XAudio_x64.inf	923	2009.9.4	17:46.44
+infinst.exe	75776	2009.9.4	16:13.16
+DirectX\directx_Jun2010_redist\Aug2009_XAudio_x86.cab\	272642	2015.9.1	20:28.4
+XAudio2_5.dll	515416	2009.9.4	17:44.40
+XAPOFX1_3.dll	69464	2009.9.4	17:44.40
+XAudio2_5_x86.inf	882	2009.9.4	17:46.44
+XAudio2_5_x86.cat	7094	2009.9.4	17:46.28
+XAudio2_5_x86_xp.inf	659	2009.9.4	17:46.44
+AUG2009_XAudio_x86.inf	1615	2009.9.4	17:46.44
+DirectX\directx_Jun2010_redist\Dec2005_d3dx9_28_x64.cab\	1357976	2015.9.1	20:28.12
+d3dx9_28_x64.cat	7927	2005.12.5	18:27.14
+d3dx9_28.dll	3815120	2005.12.5	18:9.42
+infinst.exe	67280	2005.12.5	18:7.32
+d3dx9_28_x64.inf	667	2005.12.5	18:17.50
+dec2005_d3dx9_28_x64.inf	806	2005.12.5	18:17.50
+DirectX\directx_Jun2010_redist\Dec2005_d3dx9_28_x86.cab\	1079456	2015.9.1	20:28.12
+d3dx9_28_x86.cat	7927	2005.12.5	18:27.14
+d3dx9_28.dll	2323664	2005.12.5	18:9.18
+d3dx9_28_w9x.inf	433	2005.12.5	18:17.48
+d3dx9_28_x86.inf	779	2005.12.5	18:17.48
+dec2005_d3dx9_28_x86.inf	1971	2005.12.5	18:17.48
+DirectX\directx_Jun2010_redist\DEC2006_d3dx10_00_x64.cab\	212807	2015.9.1	20:28.2
+d3dx10_00_x64.cat	7927	2006.12.8	12:9.6
+d3dx10.dll	469264	2006.11.29	13:6.18
+infinst.exe	67352	2006.12.8	11:58.40
+d3dx10_00_x64.inf	657	2006.12.8	12:5.34
+dec2006_d3dx10_00_x64.inf	426	2006.12.8	12:5.34
+DirectX\directx_Jun2010_redist\DEC2006_d3dx10_00_x86.cab\	191720	2015.9.1	20:28.2
+d3dx10_00_x86.cat	7927	2006.12.8	12:8.52
+d3dx10.dll	440080	2006.11.29	13:6.18
+d3dx10_00_x86.inf	767	2006.12.8	12:5.32
+dec2006_d3dx10_00_x86.inf	673	2006.12.8	12:5.34
+DirectX\directx_Jun2010_redist\DEC2006_d3dx9_32_x64.cab\	1571154	2015.9.1	20:28.12
+d3dx9_32_x64.cat	7927	2006.12.8	12:8.50
+d3dx9_32.dll	4398360	2006.11.29	13:6.18
+infinst.exe	67352	2006.12.8	11:58.40
+d3dx9_32_x64.inf	667	2006.12.8	12:5.30
+dec2006_d3dx9_32_x64.inf	806	2006.12.8	12:5.30
+DirectX\directx_Jun2010_redist\DEC2006_d3dx9_32_x86.cab\	1574376	2015.9.1	20:28.8
+d3dx9_32_x86.cat	7927	2006.12.8	12:8.50
+d3dx9_32.dll	3426072	2006.11.29	13:6.18
+d3dx9_32_x86.inf	779	2006.12.8	12:5.30
+dec2006_d3dx9_32_x86.inf	1613	2006.12.8	12:5.30
+DirectX\directx_Jun2010_redist\DEC2006_XACT_x64.cab\	192475	2015.9.1	20:28.2
+xact2_5_x64.cat	8225	2006.12.8	12:8.54
+x3daudio1_1.dll	17688	2006.11.15	11:38.22
+xactengine2_5.dll	390424	2006.12.8	12:0.30
+infinst.exe	67352	2006.12.8	11:58.40
+dec2006_xact_x64.inf	908	2006.12.8	12:5.32
+xact2_5_x64.inf	771	2006.12.8	12:5.32
+DirectX\directx_Jun2010_redist\DEC2006_XACT_x86.cab\	145599	2015.9.1	20:28.2
+xact2_5_x86.cat	8225	2006.12.8	12:8.54
+x3daudio1_1.dll	15128	2006.11.15	11:38.22
+xactengine2_5.dll	251672	2006.12.8	12:2.0
+dec2006_xact_x86.inf	1623	2006.12.8	12:5.30
+xact2_5_x86.inf	905	2006.12.8	12:5.30
+DirectX\directx_Jun2010_redist\dxdllreg_x86.cab\	44624	2015.9.1	20:28.12
+dxdllreg.exe	82432	2011.3.30	4:40.2
+dxdllreg_x86.inf	724	2011.3.30	11:25.8
+DirectX\directx_Jun2010_redist\dxupdate.cab\	97152	2015.9.1	20:28.6
+dxupdate.dll	177152	2011.3.30	4:40.0
+dxupdate.inf	12848	2010.11.8	20:55.0
+dxupdate.cif	66865	2011.3.30	4:40.2
+DirectX\directx_Jun2010_redist\Feb2005_d3dx9_24_x64.cab\	1247499	2015.9.1	20:28.6
+d3dx9_24_x64.cat	7479	2005.2.5	19:56.38
+d3dx9_24.dll	3544272	2005.2.5	19:45.56
+infinst.exe	58064	2005.2.5	19:43.16
+d3dx9_24_x64.inf	679	2005.1.25	23:8.30
+DirectX\directx_Jun2010_redist\Feb2005_d3dx9_24_x86.cab\	1013225	2015.9.1	20:28.8
+d3dx9_24_x86.cat	7479	2005.2.5	19:56.38
+d3dx9_24.dll	2222800	2005.2.5	19:45.26
+d3dx9_24_w9x.inf	439	2005.1.25	23:8.30
+d3dx9_24_x86.inf	791	2005.1.25	23:8.30
+DirectX\directx_Jun2010_redist\Feb2006_d3dx9_29_x64.cab\	1362796	2015.9.1	20:28.8
+d3dx9_29_x64.cat	7927	2006.2.3	8:54.16
+d3dx9_29.dll	3830992	2006.2.3	8:43.28
+infinst.exe	67280	2006.2.3	8:41.42
+d3dx9_29_x64.inf	667	2006.2.3	8:51.18
+feb2006_d3dx9_29_x64.inf	806	2006.2.3	8:51.18
+DirectX\directx_Jun2010_redist\Feb2006_d3dx9_29_x86.cab\	1084720	2015.9.1	20:28.8
+d3dx9_29_x86.cat	7927	2006.2.3	8:54.20
+d3dx9_29.dll	2332368	2006.2.3	8:43.16
+d3dx9_29_w9x.inf	433	2006.2.3	8:51.16
+d3dx9_29_x86.inf	779	2006.2.3	8:51.16
+feb2006_d3dx9_29_x86.inf	1971	2006.2.3	8:51.18
+DirectX\directx_Jun2010_redist\Feb2006_XACT_x64.cab\	178359	2015.9.1	20:28.12
+xact_x64.cat	8225	2006.2.3	8:54.20
+x3daudio1_0.dll	16592	2006.2.3	8:41.18
+xactengine2_0.dll	355536	2006.2.3	8:42.30
+infinst.exe	67280	2006.2.3	8:41.42
+feb2006_xact_x64.inf	890	2006.2.3	8:51.20
+xact_x64.inf	765	2006.2.3	8:51.20
+DirectX\directx_Jun2010_redist\Feb2006_XACT_x86.cab\	132409	2015.9.1	20:28.2
+xact_x86.cat	8225	2006.2.3	8:54.18
+x3daudio1_0.dll	14032	2006.2.3	8:41.26
+xactengine2_0.dll	230096	2006.2.3	8:42.6
+feb2006_xact_x86.inf	1587	2006.2.3	8:51.18
+xact_x86.inf	899	2006.2.3	8:51.18
+DirectX\directx_Jun2010_redist\FEB2007_XACT_x64.cab\	194675	2015.9.1	20:28.2
+xact2_6_x64.cat	10662	2007.1.24	15:35.44
+x3daudio1_1.dll	17688	2007.1.8	15:30.40
+xactengine2_6.dll	393576	2007.1.24	15:27.46
+infinst.exe	69992	2007.1.24	15:25.50
+feb2007_xact_x64.inf	908	2007.1.24	15:30.28
+xact2_6_x64.inf	771	2007.1.24	15:30.28
+DirectX\directx_Jun2010_redist\FEB2007_XACT_x86.cab\	147983	2015.9.1	20:28.6
+xact2_6_x86.cat	10662	2007.1.24	15:35.42
+x3daudio1_1.dll	15128	2007.1.8	15:30.42
+xactengine2_6.dll	255848	2007.1.24	15:27.30
+feb2007_xact_x86.inf	1623	2007.1.24	15:30.28
+xact2_6_x86.inf	905	2007.1.24	15:30.28
+DirectX\directx_Jun2010_redist\Feb2010_X3DAudio_x64.cab\	54678	2015.9.1	20:28.2
+X3DAudio1_7.dll	24920	2010.2.4	10:1.14
+X3DAudio1_7_x64.inf	689	2010.2.4	10:3.48
+X3DAudio1_7_x64.cat	6796	2010.2.4	10:3.32
+X3DAudio1_7_x64_xp.inf	463	2010.2.4	10:3.48
+FEB2010_X3DAudio_x64.inf	815	2010.2.4	10:3.48
+infinst.exe	75776	2010.2.4	9:41.20
+DirectX\directx_Jun2010_redist\Feb2010_X3DAudio_x86.cab\	20713	2015.9.1	20:28.2
+X3DAudio1_7.dll	22360	2010.2.4	10:1.14
+X3DAudio1_7_x86.inf	803	2010.2.4	10:3.48
+X3DAudio1_7_x86.cat	6796	2010.2.4	10:3.32
+X3DAudio1_7_x86_xp.inf	578	2010.2.4	10:3.48
+FEB2010_X3DAudio_x86.inf	1437	2010.2.4	10:3.48
+DirectX\directx_Jun2010_redist\Feb2010_XACT_x64.cab\	122446	2015.9.1	20:28.2
+xactengine3_6.dll	176984	2010.2.4	10:1.14
+XACT3_6_x64.inf	732	2010.2.4	10:3.46
+XACT3_6_x64.cat	6796	2010.2.4	10:3.32
+XACT3_6_x64_xp.inf	510	2010.2.4	10:3.46
+FEB2010_XACT_x64.inf	920	2010.2.4	10:3.46
+infinst.exe	75776	2010.2.4	9:41.20
+DirectX\directx_Jun2010_redist\Feb2010_XACT_x86.cab\	93180	2015.9.1	20:28.12
+xactengine3_6.dll	238936	2010.2.4	10:1.14
+XACT3_6_x86.inf	849	2010.2.4	10:3.46
+XACT3_6_x86.cat	6796	2010.2.4	10:3.32
+XACT3_6_x86_xp.inf	627	2010.2.4	10:3.46
+FEB2010_XACT_x86.inf	1647	2010.2.4	10:3.46
+DirectX\directx_Jun2010_redist\Feb2010_XAudio_x64.cab\	276960	2015.9.1	20:28.6
+XAudio2_6.dll	530776	2010.2.4	10:1.14
+XAPOFX1_4.dll	78680	2010.2.4	10:1.14
+XAudio2_6_x64.inf	755	2010.2.4	10:3.48
+XAudio2_6_x64.cat	7094	2010.2.4	10:3.30
+XAudio2_6_x64_xp.inf	531	2010.2.4	10:3.48
+FEB2010_XAudio_x64.inf	923	2010.2.4	10:3.48
+infinst.exe	75776	2010.2.4	9:41.20
+DirectX\directx_Jun2010_redist\Feb2010_XAudio_x86.cab\	277191	2015.9.1	20:28.12
+XAudio2_6.dll	528216	2010.2.4	10:1.14
+XAPOFX1_4.dll	74072	2010.2.4	10:1.14
+XAudio2_6_x86.inf	882	2010.2.4	10:3.48
+XAudio2_6_x86.cat	7094	2010.2.4	10:3.30
+XAudio2_6_x86_xp.inf	659	2010.2.4	10:3.48
+FEB2010_XAudio_x86.inf	1615	2010.2.4	10:3.48
+DirectX\directx_Jun2010_redist\Jun2005_d3dx9_26_x64.cab\	1336002	2015.9.1	20:28.12
+d3dx9_26_x64.cat	7479	2005.5.26	15:43.4
+d3dx9_26.dll	3767504	2005.5.26	15:34.58
+infinst.exe	60624	2005.5.26	15:33.32
+d3dx9_26_x64.inf	667	2005.5.26	15:40.8
+jun2005_d3dx9_26_x64.inf	806	2005.5.26	15:40.8
+DirectX\directx_Jun2010_redist\Jun2005_d3dx9_26_x86.cab\	1064925	2015.9.1	20:28.12
+d3dx9_26_x86.cat	7479	2005.5.26	15:43.4
+d3dx9_26.dll	2297552	2005.5.26	15:34.52
+d3dx9_26_w9x.inf	433	2005.5.26	15:40.6
+d3dx9_26_x86.inf	779	2005.5.26	15:40.6
+jun2005_d3dx9_26_x86.inf	1971	2005.5.26	15:40.6
+DirectX\directx_Jun2010_redist\JUN2006_XACT_x64.cab\	180785	2015.9.1	20:28.6
+xact2_2_x64.cat	8225	2006.5.31	7:33.58
+x3daudio1_0.dll	16592	2006.2.3	8:41.18
+xactengine2_2.dll	354072	2006.5.31	7:22.52
+infinst.exe	67352	2006.5.31	7:22.44
+jun2006_xact_x64.inf	908	2006.5.31	7:31.2
+xact2_2_x64.inf	771	2006.5.31	7:31.2
+DirectX\directx_Jun2010_redist\JUN2006_XACT_x86.cab\	133671	2015.9.1	20:28.6
+xact2_2_x86.cat	8225	2006.5.31	7:33.58
+x3daudio1_0.dll	14032	2006.2.3	8:41.26
+xactengine2_2.dll	230168	2006.5.31	7:24.16
+jun2006_xact_x86.inf	1623	2006.5.31	7:31.0
+xact2_2_x86.inf	905	2006.5.31	7:31.0
+DirectX\directx_Jun2010_redist\JUN2007_d3dx10_34_x64.cab\	699044	2015.9.1	20:28.6
+d3dx10_34_x64.cat	10690	2007.6.20	21:0.16
+d3dcompiler_34.dll	1401200	2007.5.16	16:45.16
+d3dx10_34.dll	506728	2007.5.16	16:45.16
+infinst.exe	69992	2007.6.20	20:45.54
+d3dx10_34_x64.inf	708	2007.6.20	20:52.54
+d3dx10_34_x64_xp.inf	484	2007.6.20	20:52.54
+jun2007_d3dx10_34_x64.inf	815	2007.6.20	20:52.54
+DirectX\directx_Jun2010_redist\JUN2007_d3dx10_34_x86.cab\	698472	2015.9.1	20:28.12
+d3dx10_34_x86.cat	10690	2007.6.20	21:0.12
+d3dcompiler_34.dll	1124720	2007.5.16	16:45.16
+d3dx10_34.dll	443752	2007.5.16	16:45.16
+d3dx10_34_x86.inf	841	2007.6.20	20:52.52
+d3dx10_34_x86_xp.inf	617	2007.6.20	20:52.52
+jun2007_d3dx10_34_x86.inf	1635	2007.6.20	20:52.52
+DirectX\directx_Jun2010_redist\JUN2007_d3dx9_34_x64.cab\	1607774	2015.9.1	20:28.6
+d3dx9_34_x64.cat	10392	2007.6.20	21:0.12
+d3dx9_34.dll	4496232	2007.5.16	16:45.16
+infinst.exe	69992	2007.6.20	20:45.54
+d3dx9_34_x64.inf	667	2007.6.20	20:52.46
+d3dx9_34_x64_xp.inf	444	2007.6.20	20:52.46
+jun2007_d3dx9_34_x64.inf	812	2007.6.20	20:52.46
+DirectX\directx_Jun2010_redist\JUN2007_d3dx9_34_x86.cab\	1607286	2015.9.1	20:28.2
+d3dx9_34_x86.cat	10392	2007.6.20	21:0.12
+d3dx9_34.dll	3497832	2007.5.16	16:45.16
+d3dx9_34_x86.inf	779	2007.6.20	20:52.46
+d3dx9_34_x86_xp.inf	556	2007.6.20	20:52.46
+jun2007_d3dx9_34_x86.inf	1628	2007.6.20	20:52.46
+DirectX\directx_Jun2010_redist\JUN2007_XACT_x64.cab\	197122	2015.9.1	20:28.6
+xact2_8_x64.cat	10690	2007.6.20	21:0.18
+x3daudio1_2.dll	21352	2007.6.20	20:45.20
+xactengine2_8.dll	409960	2007.6.20	20:49.4
+infinst.exe	69992	2007.6.20	20:45.54
+jun2007_xact_x64.inf	920	2007.6.20	20:52.50
+xact2_8_x64.inf	771	2007.6.20	20:52.50
+xact2_8_x64_xp.inf	549	2007.6.20	20:52.50
+DirectX\directx_Jun2010_redist\JUN2007_XACT_x86.cab\	152909	2015.9.1	20:28.8
+xact2_8_x86.cat	10690	2007.6.20	21:0.16
+x3daudio1_2.dll	18280	2007.6.20	20:45.20
+xactengine2_8.dll	266088	2007.6.20	20:46.4
+jun2007_xact_x86.inf	1647	2007.6.20	20:52.50
+xact2_8_x86.inf	905	2007.6.20	20:52.50
+xact2_8_x86_xp.inf	683	2007.6.20	20:52.50
+DirectX\directx_Jun2010_redist\JUN2008_d3dx10_38_x64.cab\	867828	2015.9.1	20:28.8
+d3dx10_38.dll	540688	2008.5.30	14:11.46
+D3DCompiler_38.dll	1941528	2008.5.30	14:11.46
+d3dx10_38_x64.cat	10342	2008.5.30	14:23.44
+d3dx10_38_x64.inf	708	2008.5.30	14:22.30
+d3dx10_38_x64_xp.inf	484	2008.5.30	14:22.30
+Jun2008_d3dx10_38_x64.inf	815	2008.5.30	14:22.30
+infinst.exe	75776	2008.5.30	13:56.28
+DirectX\directx_Jun2010_redist\JUN2008_d3dx10_38_x86.cab\	849919	2015.9.1	20:28.2
+d3dx10_38.dll	467984	2008.5.30	14:11.46
+D3DCompiler_38.dll	1491992	2008.5.30	14:11.46
+d3dx10_38_x86.cat	10342	2008.5.30	14:23.44
+d3dx10_38_x86.inf	841	2008.5.30	14:22.30
+d3dx10_38_x86_xp.inf	617	2008.5.30	14:22.30
+Jun2008_d3dx10_38_x86.inf	1635	2008.5.30	14:22.30
+DirectX\directx_Jun2010_redist\JUN2008_d3dx9_38_x64.cab\	1792608	2015.9.1	20:28.12
+d3dx9_38.dll	4991496	2008.5.30	14:11.46
+d3dx9_38_x64.cat	10044	2008.5.30	14:23.42
+d3dx9_38_x64.inf	667	2008.5.30	14:22.28
+d3dx9_38_x64_xp.inf	444	2008.5.30	14:22.28
+Jun2008_d3dx9_38_x64.inf	812	2008.5.30	14:22.28
+infinst.exe	75776	2008.5.30	13:56.28
+DirectX\directx_Jun2010_redist\JUN2008_d3dx9_38_x86.cab\	1463878	2015.9.1	20:28.8
+d3dx9_38.dll	3850760	2008.5.30	14:11.46
+d3dx9_38_x86.cat	10044	2008.5.30	14:23.40
+d3dx9_38_x86.inf	779	2008.5.30	14:22.28
+d3dx9_38_x86_xp.inf	556	2008.5.30	14:22.28
+Jun2008_d3dx9_38_x86.inf	1628	2008.5.30	14:22.28
+DirectX\directx_Jun2010_redist\JUN2008_X3DAudio_x64.cab\	55154	2015.9.1	20:28.6
+X3DAudio1_4.dll	28168	2008.5.30	14:16.52
+X3DAudio1_4_x64.inf	689	2008.5.30	14:22.30
+X3DAudio1_4_x64.cat	10044	2008.5.30	14:23.16
+X3DAudio1_4_x64_xp.inf	463	2008.5.30	14:22.30
+Jun2008_X3DAudio_x64.inf	815	2008.5.30	14:22.30
+infinst.exe	75776	2008.5.30	13:56.28
+DirectX\directx_Jun2010_redist\JUN2008_X3DAudio_x86.cab\	21905	2015.9.1	20:28.8
+X3DAudio1_4.dll	25608	2008.5.30	14:17.0
+X3DAudio1_4_x86.inf	803	2008.5.30	14:22.30
+X3DAudio1_4_x86.cat	10044	2008.5.30	14:23.42
+X3DAudio1_4_x86_xp.inf	578	2008.5.30	14:22.30
+Jun2008_X3DAudio_x86.inf	1437	2008.5.30	14:22.30
+DirectX\directx_Jun2010_redist\JUN2008_XACT_x64.cab\	121054	2015.9.1	20:28.12
+xactengine3_1.dll	177672	2008.5.30	14:18.2
+XACT3_1_x64.inf	732	2008.5.30	14:22.30
+XACT3_1_x64.cat	10044	2008.5.30	14:23.42
+XACT3_1_x64_xp.inf	510	2008.5.30	14:22.30
+Jun2008_XACT_x64.inf	920	2008.5.30	14:22.30
+infinst.exe	75776	2008.5.30	13:56.28
+DirectX\directx_Jun2010_redist\JUN2008_XACT_x86.cab\	93128	2015.9.1	20:28.8
+xactengine3_1.dll	238088	2008.5.30	14:18.52
+XACT3_1_x86.inf	849	2008.5.30	14:22.28
+XACT3_1_x86.cat	10044	2008.5.30	14:23.42
+XACT3_1_x86_xp.inf	627	2008.5.30	14:22.28
+Jun2008_XACT_x86.inf	1647	2008.5.30	14:22.28
+DirectX\directx_Jun2010_redist\JUN2008_XAudio_x64.cab\	269628	2015.9.1	20:28.8
+XAudio2_1.dll	511496	2008.5.30	14:19.24
+XAPOFX1_0.dll	68104	2008.5.30	14:17.28
+XAudio2_1_x64.inf	755	2008.5.30	14:22.30
+XAudio2_1_x64.cat	10342	2008.5.30	14:23.44
+XAudio2_1_x64_xp.inf	531	2008.5.30	14:22.30
+Jun2008_XAudio_x64.inf	923	2008.5.30	14:22.30
+infinst.exe	75776	2008.5.30	13:56.28
+DirectX\directx_Jun2010_redist\JUN2008_XAudio_x86.cab\	269024	2015.9.1	20:28.2
+XAudio2_1.dll	507400	2008.5.30	14:19.18
+XAPOFX1_0.dll	65032	2008.5.30	14:17.30
+XAudio2_1_x86.inf	882	2008.5.30	14:22.30
+XAudio2_1_x86.cat	10342	2008.5.30	14:23.44
+XAudio2_1_x86_xp.inf	659	2008.5.30	14:22.30
+Jun2008_XAudio_x86.inf	1615	2008.5.30	14:22.30
+DirectX\directx_Jun2010_redist\Jun2010_D3DCompiler_43_x64.cab\	944460	2015.9.1	20:28.4
+D3DCompiler_43.dll	2526056	2010.5.26	11:41.2
+D3DCompiler_43_x64.cat	6796	2010.6.2	4:58.4
+D3DCompiler_43_x64.inf	683	2010.6.2	4:54.24
+D3DCompiler_43_x64_xp.inf	454	2010.6.2	4:54.24
+JUN2010_D3DCompiler_43_x64.inf	830	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_D3DCompiler_43_x86.cab\	931471	2015.9.1	20:28.12
+D3DCompiler_43.dll	2106216	2010.5.26	11:41.2
+D3DCompiler_43_x86.cat	6796	2010.6.2	4:58.4
+D3DCompiler_43_x86.inf	801	2010.6.2	4:54.24
+D3DCompiler_43_x86_xp.inf	572	2010.6.2	4:54.24
+JUN2010_D3DCompiler_43_x86.inf	1670	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_d3dcsx_43_x64.cab\	752783	2015.9.1	20:28.12
+d3dcsx_43.dll	1907552	2010.5.26	11:41.2
+d3dcsx_43_x64.cat	6796	2010.6.2	4:58.4
+d3dcsx_43_x64.inf	663	2010.6.2	4:54.24
+d3dcsx_43_x64_xp.inf	439	2010.6.2	4:54.24
+JUN2010_d3dcsx_43_x64.inf	815	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_d3dcsx_43_x86.cab\	762188	2015.9.1	20:28.8
+d3dcsx_43.dll	1868128	2010.5.26	11:41.2
+d3dcsx_43_x86.cat	6796	2010.6.2	4:58.4
+d3dcsx_43_x86.inf	776	2010.6.2	4:54.24
+d3dcsx_43_x86_xp.inf	552	2010.6.2	4:54.24
+JUN2010_d3dcsx_43_x86.inf	1635	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_d3dx10_43_x64.cab\	235955	2015.9.1	20:28.12
+d3dx10_43.dll	511328	2010.5.26	11:41.2
+d3dx10_43_x64.cat	6796	2010.6.2	4:58.2
+d3dx10_43_x64.inf	663	2010.6.2	4:54.24
+d3dx10_43_x64_xp.inf	439	2010.6.2	4:54.24
+JUN2010_d3dx10_43_x64.inf	815	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_d3dx10_43_x86.cab\	197283	2015.9.1	20:28.14
+d3dx10_43.dll	470880	2010.5.26	11:41.2
+d3dx10_43_x86.cat	6796	2010.6.2	4:58.4
+d3dx10_43_x86.inf	776	2010.6.2	4:54.24
+d3dx10_43_x86_xp.inf	552	2010.6.2	4:54.24
+JUN2010_d3dx10_43_x86.inf	1635	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_d3dx11_43_x64.cab\	138205	2015.9.1	20:28.2
+d3dx11_43.dll	276832	2010.5.26	11:41.2
+d3dx11_43_x64.cat	6796	2010.6.2	4:58.4
+d3dx11_43_x64.inf	663	2010.6.2	4:54.24
+d3dx11_43_x64_xp.inf	439	2010.6.2	4:54.24
+JUN2010_d3dx11_43_x64.inf	815	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_d3dx11_43_x86.cab\	109445	2015.9.1	20:28.2
+d3dx11_43.dll	248672	2010.5.26	11:41.2
+d3dx11_43_x86.cat	6796	2010.6.2	4:58.4
+d3dx11_43_x86.inf	776	2010.6.2	4:54.24
+d3dx11_43_x86_xp.inf	552	2010.6.2	4:54.24
+JUN2010_d3dx11_43_x86.inf	1635	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_d3dx9_43_x64.cab\	937246	2015.9.1	20:28.10
+d3dx9_43.dll	2401112	2010.5.26	11:41.0
+d3dx9_43_x64.cat	6796	2010.6.2	4:58.4
+d3dx9_43_x64.inf	667	2010.6.2	4:54.24
+d3dx9_43_x64_xp.inf	444	2010.6.2	4:54.24
+JUN2010_d3dx9_43_x64.inf	812	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_d3dx9_43_x86.cab\	768036	2015.9.1	20:28.8
+d3dx9_43.dll	1998168	2010.5.26	11:41.2
+d3dx9_43_x86.cat	6796	2010.6.2	4:58.6
+d3dx9_43_x86.inf	779	2010.6.2	4:54.24
+d3dx9_43_x86_xp.inf	556	2010.6.2	4:54.24
+JUN2010_d3dx9_43_x86.inf	1628	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_XACT_x64.cab\	124596	2015.9.1	20:28.8
+xactengine3_7.dll	176984	2010.6.2	4:55.30
+XACT3_7_x64.inf	732	2010.6.2	4:54.24
+XACT3_7_x64.cat	6796	2010.6.2	4:58.4
+XACT3_7_x64_xp.inf	510	2010.6.2	4:54.24
+JUN2010_XACT_x64.inf	920	2010.6.2	4:54.24
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_XACT_x86.cab\	93686	2015.9.1	20:28.10
+xactengine3_7.dll	239960	2010.6.2	4:55.30
+XACT3_7_x86.inf	849	2010.6.2	4:54.24
+XACT3_7_x86.cat	6796	2010.6.2	4:58.4
+XACT3_7_x86_xp.inf	627	2010.6.2	4:54.24
+JUN2010_XACT_x86.inf	1647	2010.6.2	4:54.24
+DirectX\directx_Jun2010_redist\Jun2010_XAudio_x64.cab\	277338	2015.9.1	20:28.8
+XAudio2_7.dll	518488	2010.6.2	4:55.30
+XAPOFX1_5.dll	77656	2010.6.2	4:55.30
+XAudio2_7_x64.inf	755	2010.6.2	4:54.26
+XAudio2_7_x64.cat	7094	2010.6.2	4:58.4
+XAudio2_7_x64_xp.inf	531	2010.6.2	4:54.26
+JUN2010_XAudio_x64.inf	923	2010.6.2	4:54.26
+infinst.exe	82944	2010.6.2	4:43.2
+DirectX\directx_Jun2010_redist\Jun2010_XAudio_x86.cab\	278060	2015.9.1	20:28.8
+XAudio2_7.dll	527192	2010.6.2	4:55.30
+XAPOFX1_5.dll	74072	2010.6.2	4:55.30
+XAudio2_7_x86.inf	882	2010.6.2	4:54.26
+XAudio2_7_x86.cat	7094	2010.6.2	4:58.4
+XAudio2_7_x86_xp.inf	659	2010.6.2	4:54.26
+JUN2010_XAudio_x86.inf	1615	2010.6.2	4:54.26
+DirectX\directx_Jun2010_redist\Mar2008_d3dx10_37_x64.cab\	844884	2015.9.1	20:28.8
+d3dx10_37.dll	529424	2008.2.5	23:7.32
+D3DCompiler_37.dll	1860120	2008.3.5	15:56.58
+d3dx10_37_x64.cat	10342	2008.3.5	16:10.22
+d3dx10_37_x64.inf	708	2008.3.5	16:7.50
+d3dx10_37_x64_xp.inf	484	2008.3.5	16:7.50
+Mar2008_d3dx10_37_x64.inf	815	2008.3.5	16:7.50
+infinst.exe	75264	2008.3.5	15:43.28
+DirectX\directx_Jun2010_redist\Mar2008_d3dx10_37_x86.cab\	818260	2015.9.1	20:28.8
+d3dx10_37.dll	462864	2008.2.5	23:7.36
+D3DCompiler_37.dll	1420824	2008.3.5	15:56.58
+d3dx10_37_x86.cat	10342	2008.3.5	16:10.22
+d3dx10_37_x86.inf	841	2008.3.5	16:7.50
+d3dx10_37_x86_xp.inf	617	2008.3.5	16:7.50
+Mar2008_d3dx10_37_x86.inf	1635	2008.3.5	16:7.50
+DirectX\directx_Jun2010_redist\Mar2008_d3dx9_37_x64.cab\	1769862	2015.9.1	20:28.10
+d3dx9_37.dll	4910088	2008.3.5	15:56.58
+d3dx9_37_x64.cat	10044	2008.3.5	16:10.14
+d3dx9_37_x64.inf	667	2008.3.5	16:7.44
+d3dx9_37_x64_xp.inf	444	2008.3.5	16:7.44
+Mar2008_d3dx9_37_x64.inf	812	2008.3.5	16:7.44
+infinst.exe	75264	2008.3.5	15:43.28
+DirectX\directx_Jun2010_redist\Mar2008_d3dx9_37_x86.cab\	1443282	2015.9.1	20:28.6
+d3dx9_37.dll	3786760	2008.3.5	15:56.58
+d3dx9_37_x86.cat	10044	2008.3.5	16:10.18
+d3dx9_37_x86.inf	779	2008.3.5	16:7.44
+d3dx9_37_x86_xp.inf	556	2008.3.5	16:7.44
+Mar2008_d3dx9_37_x86.inf	1628	2008.3.5	16:7.44
+DirectX\directx_Jun2010_redist\Mar2008_X3DAudio_x64.cab\	55058	2015.9.1	20:28.8
+X3DAudio1_3.dll	28168	2008.3.5	16:0.6
+X3DAudio1_3_x64.inf	689	2008.3.5	16:7.52
+X3DAudio1_3_x64.cat	10044	2008.3.5	16:8.54
+X3DAudio1_3_x64_xp.inf	463	2008.3.5	16:7.52
+Mar2008_X3DAudio_x64.inf	815	2008.3.5	16:7.52
+infinst.exe	75264	2008.3.5	15:43.28
+DirectX\directx_Jun2010_redist\Mar2008_X3DAudio_x86.cab\	21867	2015.9.1	20:28.8
+X3DAudio1_3.dll	25608	2008.3.5	16:0.6
+X3DAudio1_3_x86.inf	803	2008.3.5	16:7.52
+X3DAudio1_3_x86.cat	10044	2008.3.5	16:10.18
+X3DAudio1_3_x86_xp.inf	578	2008.3.5	16:7.52
+Mar2008_X3DAudio_x86.inf	1437	2008.3.5	16:7.52
+DirectX\directx_Jun2010_redist\Mar2008_XACT_x64.cab\	122336	2015.9.1	20:28.8
+xactengine3_0.dll	177672	2008.3.5	16:3.4
+XACT3_0_x64.inf	732	2008.3.5	16:7.50
+XACT3_0_x64.cat	10044	2008.3.5	16:10.14
+XACT3_0_x64_xp.inf	510	2008.3.5	16:7.50
+Mar2008_XACT_x64.inf	920	2008.3.5	16:7.50
+infinst.exe	75264	2008.3.5	15:43.28
+DirectX\directx_Jun2010_redist\Mar2008_XACT_x86.cab\	93734	2015.9.1	20:28.10
+xactengine3_0.dll	238088	2008.3.5	16:3.20
+XACT3_0_x86.inf	849	2008.3.5	16:7.46
+XACT3_0_x86.cat	10044	2008.3.5	16:10.20
+XACT3_0_x86_xp.inf	627	2008.3.5	16:7.46
+Mar2008_XACT_x86.inf	1647	2008.3.5	16:7.46
+DirectX\directx_Jun2010_redist\Mar2008_XAudio_x64.cab\	251194	2015.9.1	20:28.12
+XAudio2_0.dll	489480	2008.3.5	16:4.0
+XAudio2_0_x64.inf	720	2008.3.5	16:7.52
+XAudio2_0_x64.cat	10044	2008.3.5	16:10.14
+XAudio2_0_x64_xp.inf	496	2008.3.5	16:7.52
+Mar2008_XAudio_x64.inf	923	2008.3.5	16:7.52
+infinst.exe	75264	2008.3.5	15:43.28
+DirectX\directx_Jun2010_redist\Mar2008_XAudio_x86.cab\	226250	2015.9.1	20:28.4
+XAudio2_0.dll	479752	2008.3.5	16:3.54
+XAudio2_0_x86.inf	832	2008.3.5	16:7.52
+XAudio2_0_x86.cat	10044	2008.3.5	16:10.20
+XAudio2_0_x86_xp.inf	609	2008.3.5	16:7.52
+Mar2008_XAudio_x86.inf	1615	2008.3.5	16:7.52
+DirectX\directx_Jun2010_redist\Mar2009_d3dx10_41_x64.cab\	1067160	2015.9.1	20:28.12
+d3dx10_41.dll	520544	2009.3.9	15:27.22
+D3DCompiler_41.dll	2430312	2009.3.9	15:27.22
+d3dx10_41_x64.cat	7081	2009.3.16	14:21.14
+d3dx10_41_x64.inf	708	2009.3.16	14:21.4
+d3dx10_41_x64_xp.inf	484	2009.3.16	14:21.4
+Mar2009_d3dx10_41_x64.inf	815	2009.3.16	14:21.4
+infinst.exe	75776	2009.3.16	14:0.8
+DirectX\directx_Jun2010_redist\Mar2009_d3dx10_41_x86.cab\	1040745	2015.9.1	20:28.10
+d3dx10_41.dll	453456	2009.3.9	15:27.22
+D3DCompiler_41.dll	1846632	2009.3.9	15:27.22
+d3dx10_41_x86.cat	7081	2009.3.16	14:21.14
+d3dx10_41_x86.inf	841	2009.3.16	14:21.4
+d3dx10_41_x86_xp.inf	617	2009.3.16	14:21.4
+Mar2009_d3dx10_41_x86.inf	1635	2009.3.16	14:21.4
+DirectX\directx_Jun2010_redist\Mar2009_d3dx9_41_x64.cab\	1973702	2015.9.1	20:28.10
+d3dx9_41.dll	5425496	2009.3.9	15:27.22
+d3dx9_41_x64.cat	6783	2009.3.16	14:21.14
+d3dx9_41_x64.inf	667	2009.3.16	14:21.4
+d3dx9_41_x64_xp.inf	444	2009.3.16	14:21.4
+Mar2009_d3dx9_41_x64.inf	812	2009.3.16	14:21.4
+infinst.exe	75776	2009.3.16	14:0.8
+DirectX\directx_Jun2010_redist\Mar2009_d3dx9_41_x86.cab\	1612446	2015.9.1	20:28.14
+d3dx9_41.dll	4178264	2009.3.9	15:27.22
+d3dx9_41_x86.cat	6783	2009.3.16	14:21.12
+d3dx9_41_x86.inf	779	2009.3.16	14:21.4
+d3dx9_41_x86_xp.inf	556	2009.3.16	14:21.4
+Mar2009_d3dx9_41_x86.inf	1628	2009.3.16	14:21.4
+DirectX\directx_Jun2010_redist\Mar2009_X3DAudio_x64.cab\	54600	2015.9.1	20:28.4
+X3DAudio1_6.dll	24920	2009.3.16	14:18.32
+X3DAudio1_6_x64.inf	689	2009.3.16	14:21.4
+X3DAudio1_6_x64.cat	6783	2009.3.16	14:21.14
+X3DAudio1_6_x64_xp.inf	463	2009.3.16	14:21.4
+Mar2009_X3DAudio_x64.inf	815	2009.3.16	14:21.4
+infinst.exe	75776	2009.3.16	14:0.8
+DirectX\directx_Jun2010_redist\Mar2009_X3DAudio_x86.cab\	21298	2015.9.1	20:28.8
+X3DAudio1_6.dll	22360	2009.3.16	14:18.32
+X3DAudio1_6_x86.inf	803	2009.3.16	14:21.4
+X3DAudio1_6_x86.cat	6783	2009.3.16	14:21.14
+X3DAudio1_6_x86_xp.inf	578	2009.3.16	14:21.4
+Mar2009_X3DAudio_x86.inf	1437	2009.3.16	14:21.4
+DirectX\directx_Jun2010_redist\Mar2009_XACT_x64.cab\	121506	2015.9.1	20:28.10
+xactengine3_4.dll	174936	2009.3.16	14:18.32
+XACT3_4_x64.inf	732	2009.3.16	14:21.4
+XACT3_4_x64.cat	6783	2009.3.16	14:21.14
+XACT3_4_x64_xp.inf	510	2009.3.16	14:21.4
+Mar2009_XACT_x64.inf	920	2009.3.16	14:21.4
+infinst.exe	75776	2009.3.16	14:0.8
+DirectX\directx_Jun2010_redist\Mar2009_XACT_x86.cab\	92740	2015.9.1	20:28.14
+xactengine3_4.dll	235352	2009.3.16	14:18.32
+XACT3_4_x86.inf	849	2009.3.16	14:21.4
+XACT3_4_x86.cat	6783	2009.3.16	14:21.14
+XACT3_4_x86_xp.inf	627	2009.3.16	14:21.4
+Mar2009_XACT_x86.inf	1647	2009.3.16	14:21.4
+DirectX\directx_Jun2010_redist\Mar2009_XAudio_x64.cab\	275044	2015.9.1	20:28.10
+XAudio2_4.dll	521560	2009.3.16	14:18.32
+XAPOFX1_3.dll	73544	2009.3.16	14:18.32
+XAudio2_4_x64.inf	755	2009.3.16	14:21.4
+XAudio2_4_x64.cat	7081	2009.3.16	14:21.14
+XAudio2_4_x64_xp.inf	531	2009.3.16	14:21.4
+Mar2009_XAudio_x64.inf	923	2009.3.16	14:21.4
+infinst.exe	75776	2009.3.16	14:0.8
+DirectX\directx_Jun2010_redist\Mar2009_XAudio_x86.cab\	273018	2015.9.1	20:28.10
+XAudio2_4.dll	517448	2009.3.16	14:18.32
+XAPOFX1_3.dll	69448	2009.3.16	14:18.32
+XAudio2_4_x86.inf	882	2009.3.16	14:21.4
+XAudio2_4_x86.cat	7081	2009.3.16	14:21.14
+XAudio2_4_x86_xp.inf	659	2009.3.16	14:21.4
+Mar2009_XAudio_x86.inf	1615	2009.3.16	14:21.4
+DirectX\directx_Jun2010_redist\Nov2007_d3dx10_36_x64.cab\	864600	2015.9.1	20:28.4
+d3dx10_36_x64.cat	10344	2007.10.22	3:48.32
+d3dcompiler_36.dll	2006552	2007.10.12	15:14.0
+d3dx10_36.dll	508264	2007.10.2	9:56.30
+infinst.exe	69640	2007.10.22	3:37.50
+d3dx10_36_x64.inf	708	2007.10.22	3:42.34
+d3dx10_36_x64_xp.inf	484	2007.10.22	3:42.34
+nov2007_d3dx10_36_x64.inf	815	2007.10.22	3:42.34
+DirectX\directx_Jun2010_redist\Nov2007_d3dx10_36_x86.cab\	803884	2015.9.1	20:28.14
+d3dx10_36_x86.cat	10344	2007.10.22	3:48.30
+d3dcompiler_36.dll	1374232	2007.10.12	15:14.0
+d3dx10_36.dll	444776	2007.10.2	9:56.34
+d3dx10_36_x86.inf	841	2007.10.22	3:42.32
+d3dx10_36_x86_xp.inf	617	2007.10.22	3:42.32
+nov2007_d3dx10_36_x86.inf	1635	2007.10.22	3:42.32
+DirectX\directx_Jun2010_redist\Nov2007_d3dx9_36_x64.cab\	1802058	2015.9.1	20:28.12
+d3dx9_36_x64.cat	10046	2007.10.22	3:48.14
+d3dx9_36.dll	5081608	2007.10.12	15:14.0
+infinst.exe	69640	2007.10.22	3:37.50
+d3dx9_36_x64.inf	667	2007.10.22	3:42.30
+d3dx9_36_x64_xp.inf	444	2007.10.22	3:42.30
+nov2007_d3dx9_36_x64.inf	812	2007.10.22	3:42.30
+DirectX\directx_Jun2010_redist\Nov2007_d3dx9_36_x86.cab\	1709360	2015.9.1	20:28.10
+d3dx9_36_x86.cat	10046	2007.10.22	3:48.22
+d3dx9_36.dll	3734536	2007.10.12	15:14.0
+d3dx9_36_x86.inf	779	2007.10.22	3:42.30
+d3dx9_36_x86_xp.inf	556	2007.10.22	3:42.30
+nov2007_d3dx9_36_x86.inf	1628	2007.10.22	3:42.30
+DirectX\directx_Jun2010_redist\NOV2007_X3DAudio_x64.cab\	46144	2015.9.1	20:28.10
+x3daudio1_2_x64.cat	10046	2007.10.22	3:48.14
+x3daudio1_2.dll	21000	2007.10.22	3:37.14
+infinst.exe	69640	2007.10.22	3:37.50
+nov2007_x3daudio_x64.inf	815	2007.10.22	3:42.36
+x3daudio1_2_x64.inf	689	2007.10.22	3:42.36
+x3daudio1_2_x64_xp.inf	463	2007.10.22	3:42.36
+DirectX\directx_Jun2010_redist\NOV2007_X3DAudio_x86.cab\	18496	2015.9.1	20:28.12
+x3daudio1_2_x86.cat	10046	2007.10.22	3:48.22
+x3daudio1_2.dll	17928	2007.10.22	3:37.16
+nov2007_x3daudio_x86.inf	1437	2007.10.22	3:42.36
+x3daudio1_2_x86.inf	804	2007.10.22	3:42.36
+x3daudio1_2_x86_xp.inf	578	2007.10.22	3:42.36
+DirectX\directx_Jun2010_redist\NOV2007_XACT_x64.cab\	196762	2015.9.1	20:28.10
+xact2_10_x64.cat	10046	2007.10.22	3:48.12
+xactengine2_10.dll	411656	2007.10.22	3:40.16
+infinst.exe	69640	2007.10.22	3:37.50
+nov2007_xact_x64.inf	926	2007.10.22	3:42.32
+xact2_10_x64.inf	737	2007.10.22	3:42.32
+xact2_10_x64_xp.inf	514	2007.10.22	3:42.32
+DirectX\directx_Jun2010_redist\NOV2007_XACT_x86.cab\	148264	2015.9.1	20:28.10
+xact2_10_x86.cat	10046	2007.10.22	3:48.22
+xactengine2_10.dll	267272	2007.10.22	3:39.54
+nov2007_xact_x86.inf	1659	2007.10.22	3:42.32
+xact2_10_x86.inf	855	2007.10.22	3:42.30
+xact2_10_x86_xp.inf	632	2007.10.22	3:42.32
+DirectX\directx_Jun2010_redist\Nov2008_d3dx10_40_x64.cab\	994154	2015.9.1	20:28.10
+d3dx10_40.dll	519000	2008.10.15	6:22.52
+D3DCompiler_40.dll	2605920	2008.10.15	6:22.52
+d3dx10_40_x64.cat	8111	2008.10.15	7:19.32
+d3dx10_40_x64.inf	708	2008.10.15	7:3.16
+d3dx10_40_x64_xp.inf	484	2008.10.15	7:3.16
+Nov2008_d3dx10_40_x64.inf	815	2008.10.15	7:3.16
+infinst.exe	75776	2008.10.15	4:23.42
+DirectX\directx_Jun2010_redist\Nov2008_d3dx10_40_x86.cab\	965421	2015.9.1	20:28.12
+d3dx10_40.dll	452440	2008.10.15	6:22.52
+D3DCompiler_40.dll	2036576	2008.10.15	6:22.52
+d3dx10_40_x86.cat	8111	2008.10.15	7:19.32
+d3dx10_40_x86.inf	841	2008.10.15	7:3.16
+d3dx10_40_x86_xp.inf	617	2008.10.15	7:3.16
+Nov2008_d3dx10_40_x86.inf	1635	2008.10.15	7:3.16
+DirectX\directx_Jun2010_redist\Nov2008_d3dx9_40_x64.cab\	1906878	2015.9.1	20:28.12
+d3dx9_40.dll	5631312	2008.10.15	6:22.52
+d3dx9_40_x64.cat	7813	2008.10.15	7:19.28
+d3dx9_40_x64.inf	667	2008.10.15	7:3.16
+d3dx9_40_x64_xp.inf	444	2008.10.15	7:3.16
+Nov2008_d3dx9_40_x64.inf	812	2008.10.15	7:3.16
+infinst.exe	75776	2008.10.15	4:23.42
+DirectX\directx_Jun2010_redist\Nov2008_d3dx9_40_x86.cab\	1550796	2015.9.1	20:28.12
+d3dx9_40.dll	4379984	2008.10.15	6:22.52
+d3dx9_40_x86.cat	7813	2008.10.15	7:19.28
+d3dx9_40_x86.inf	779	2008.10.15	7:3.16
+d3dx9_40_x86_xp.inf	556	2008.10.15	7:3.16
+Nov2008_d3dx9_40_x86.inf	1628	2008.10.15	7:3.16
+DirectX\directx_Jun2010_redist\Nov2008_X3DAudio_x64.cab\	54522	2015.9.1	20:28.10
+X3DAudio1_5.dll	25936	2008.10.27	10:4.16
+X3DAudio1_5_x64.inf	689	2008.10.27	10:25.30
+X3DAudio1_5_x64.cat	7813	2008.10.27	10:27.4
+X3DAudio1_5_x64_xp.inf	463	2008.10.27	10:25.30
+Nov2008_X3DAudio_x64.inf	815	2008.10.27	10:25.30
+infinst.exe	75776	2008.10.27	9:44.56
+DirectX\directx_Jun2010_redist\Nov2008_X3DAudio_x86.cab\	21851	2015.9.1	20:28.12
+X3DAudio1_5.dll	23376	2008.10.27	10:4.16
+X3DAudio1_5_x86.inf	803	2008.10.27	10:25.30
+X3DAudio1_5_x86.cat	7813	2008.10.27	10:27.10
+X3DAudio1_5_x86_xp.inf	578	2008.10.27	10:25.30
+Nov2008_X3DAudio_x86.inf	1437	2008.10.27	10:25.30
+DirectX\directx_Jun2010_redist\Nov2008_XACT_x64.cab\	121794	2015.9.1	20:28.4
+xactengine3_3.dll	175440	2008.10.27	10:4.16
+XACT3_3_x64.inf	732	2008.10.27	10:25.28
+XACT3_3_x64.cat	7813	2008.10.27	10:27.8
+XACT3_3_x64_xp.inf	510	2008.10.27	10:25.28
+Nov2008_XACT_x64.inf	920	2008.10.27	10:25.28
+infinst.exe	75776	2008.10.27	9:44.56
+DirectX\directx_Jun2010_redist\Nov2008_XACT_x86.cab\	92684	2015.9.1	20:28.10
+xactengine3_3.dll	235856	2008.10.27	10:4.16
+XACT3_3_x86.inf	849	2008.10.27	10:25.28
+XACT3_3_x86.cat	7813	2008.10.27	10:27.8
+XACT3_3_x86_xp.inf	627	2008.10.27	10:25.28
+Nov2008_XACT_x86.inf	1647	2008.10.27	10:25.28
+DirectX\directx_Jun2010_redist\Nov2008_XAudio_x64.cab\	273960	2015.9.1	20:28.4
+XAudio2_3.dll	518480	2008.10.27	10:4.18
+XAPOFX1_2.dll	74576	2008.10.27	10:4.16
+XAudio2_3_x64.inf	755	2008.10.27	10:25.30
+XAudio2_3_x64.cat	8111	2008.10.27	10:27.12
+XAudio2_3_x64_xp.inf	531	2008.10.27	10:25.30
+Nov2008_XAudio_x64.inf	923	2008.10.27	10:25.30
+infinst.exe	75776	2008.10.27	9:44.56
+DirectX\directx_Jun2010_redist\Nov2008_XAudio_x86.cab\	272611	2015.9.1	20:28.12
+XAudio2_3.dll	514384	2008.10.27	10:4.18
+XAPOFX1_2.dll	70992	2008.10.27	10:4.14
+XAudio2_3_x86.inf	882	2008.10.27	10:25.30
+XAudio2_3_x86.cat	8111	2008.10.27	10:27.12
+XAudio2_3_x86_xp.inf	659	2008.10.27	10:25.30
+Nov2008_XAudio_x86.inf	1615	2008.10.27	10:25.30
+DirectX\directx_Jun2010_redist\Oct2005_xinput_x64.cab\	86037	2015.9.1	20:28.4
+xinput9_1_0_x64.cat	7927	2005.12.5	18:27.12
+xinput9_1_0.dll	81616	2005.12.5	18:7.52
+infinst.exe	67280	2005.12.5	18:7.32
+oct2005_xinput_x64.inf	618	2005.12.5	18:17.50
+xinput9_1_0_x64.inf	675	2005.12.5	18:17.50
+DirectX\directx_Jun2010_redist\Oct2005_xinput_x86.cab\	45359	2015.9.1	20:28.12
+xinput9_1_0_x86.cat	7927	2005.12.5	18:27.14
+xinput9_1_0.dll	61136	2005.12.5	18:7.30
+oct2005_xinput_x86.inf	782	2005.12.5	18:17.50
+xinput9_1_0_x86.inf	791	2005.12.5	18:17.50
+DirectX\directx_Jun2010_redist\OCT2006_d3dx9_31_x64.cab\	1412902	2015.9.1	20:28.12
+d3dx9_31_x64.cat	7927	2006.9.28	16:19.26
+d3dx9_31.dll	3977496	2006.9.28	16:5.36
+infinst.exe	67352	2006.9.28	16:4.2
+d3dx9_31_x64.inf	667	2006.9.28	16:15.52
+oct2006_d3dx9_31_x64.inf	806	2006.9.28	16:15.52
+DirectX\directx_Jun2010_redist\OCT2006_d3dx9_31_x86.cab\	1127217	2015.9.1	20:28.12
+d3dx9_31_x86.cat	7927	2006.9.28	16:19.26
+d3dx9_31.dll	2414360	2006.9.28	16:5.20
+d3dx9_31_w9x.inf	433	2006.9.28	16:15.50
+d3dx9_31_x86.inf	779	2006.9.28	16:15.50
+oct2006_d3dx9_31_x86.inf	1971	2006.9.28	16:15.50
+DirectX\directx_Jun2010_redist\OCT2006_XACT_x64.cab\	182361	2015.9.1	20:28.10
+xact2_4_x64.cat	8225	2006.9.28	16:19.30
+x3daudio1_1.dll	17688	2006.9.28	16:3.30
+xactengine2_4.dll	364824	2006.9.28	16:4.6
+infinst.exe	67352	2006.9.28	16:4.2
+oct2006_xact_x64.inf	908	2006.9.28	16:15.52
+xact2_4_x64.inf	771	2006.9.28	16:15.52
+DirectX\directx_Jun2010_redist\OCT2006_XACT_x86.cab\	138017	2015.9.1	20:28.4
+xact2_4_x86.cat	8225	2006.9.28	16:19.32
+x3daudio1_1.dll	15128	2006.9.28	16:3.28
+xactengine2_4.dll	237848	2006.9.28	16:5.56
+oct2006_xact_x86.inf	1623	2006.9.28	16:15.52
+xact2_4_x86.inf	905	2006.9.28	16:15.52
+DirectX\dxwebsetup\	0	2025.2.6	15:46.16
+dsetup.dll	95576	2011.3.30	12:9.36
+dsetup32.dll	1566040	2011.3.30	12:9.38
+dxupdate.cif	66865	2011.3.30	5:40.2
+dxupdate.dll	177152	2011.3.30	5:40.0
+dxupdate.inf	12848	2010.11.8	21:55.0
+dxwsetup.cif	57739	2025.1.29	19:11.38
+dxwsetup.exe	527360	2011.3.30	5:40.14
+dxwsetup.inf	477	2011.3.30	12:13.0
+ImDisk_2.1.1\	0	2025.4.5	18:54.50
+install.bat	228	2023.12.20	17:15.16
+ImDisk_2.1.1\files.cab\	714198	2025.2.6	14:12.48
+config.exe	66048	2025.2.6	12:12.38
+ImDisk Virtual Disk Driver.lnk	213	2024.2.3	16:45.10
+MountImg.exe	55808	2025.2.6	12:12.40
+ImDisk-Dlg.exe	41984	2025.2.6	12:12.36
+ImDiskTk-svc.exe	10752	2025.2.6	12:12.36
+RamDiskUI.exe	68608	2025.2.6	12:12.42
+RamDyn.exe	19968	2025.2.6	12:12.44
+ImDisk_2.1.1\files.cab\DiscUtils\	0	2024.1.31	22:24.14
+DevioNet.dll	34304	2024.1.31	22:24.14
+DiscUtils.Core.dll	243200	2024.1.31	2:33.42
+DiscUtils.Dmg.dll	28672	2024.1.31	2:33.42
+DiscUtils.Streams.dll	135168	2024.1.31	2:33.42
+DiscUtils.Vdi.dll	28672	2024.1.31	2:33.42
+DiscUtils.Vhd.dll	59392	2024.1.31	2:33.42
+DiscUtils.Vhdx.dll	73728	2024.1.31	2:33.42
+DiscUtils.Vmdk.dll	74240	2024.1.31	2:33.42
+DiscUtils.Xva.dll	69120	2024.1.31	2:33.42
+DiscUtilsDevio.exe	18944	2024.1.31	22:24.16
+DiscUtilsDevio.exe.config	174	2024.1.31	22:24.16
+ImDiskNet.dll	50688	2024.1.31	22:24.14
+LTRData.Extensions.dll	61440	2024.1.24	19:11.58
+lzfse-net.dll	7680	2019.12.9	10:27.50
+lzfse.dll	36352	2019.12.9	10:26.34
+Microsoft.Bcl.HashCode.dll	23424	2020.11.16	22:15.16
+System.Buffers.dll	20856	2020.2.19	11:5.18
+System.Memory.dll	142240	2022.5.8	5:31.2
+System.Numerics.Vectors.dll	115856	2018.5.15	15:29.44
+System.Runtime.CompilerServices.Unsafe.dll	16768	2020.2.19	11:5.16
+System.Threading.Tasks.Extensions.dll	25984	2020.2.19	11:5.18
+System.ValueTuple.dll	25232	2018.5.15	15:29.52
+ImDisk_2.1.1\files.cab\lang\	0	2024.11.5	18:46.36
+brazilian-portuguese.txt	31232	2024.11.5	18:46.36
+english.txt	27526	2024.11.5	18:46.44
+finnish.txt	27820	2024.11.5	18:46.58
+french.txt	33134	2024.11.5	18:47.4
+german.txt	31698	2024.11.5	18:47.8
+hungarian.txt	29392	2024.11.5	18:47.14
+italian.txt	31640	2024.11.5	18:47.20
+korean.txt	17080	2024.11.5	18:47.26
+russian.txt	29886	2024.11.5	18:47.30
+schinese.txt	11656	2024.11.5	18:47.36
+spanish.txt	31538	2024.11.5	18:47.40
+swedish.txt	28074	2024.11.5	18:47.46
+tchinese.txt	13066	2024.11.5	18:47.50
+turkish.txt	28694	2024.11.5	18:46.22
+ImDisk_2.1.1\files.cab\driver\	0	2006.2.7	17:26.50
+gpl.txt	18332	2006.2.7	17:26.50
+imdisk.inf	7610	2021.11.11	11:32.26
+install.cmd	2679	2016.8.23	22:56.34
+msgboxw.exe	10856	2014.3.6	20:54.28
+readme.txt	3029	2021.11.7	14:43.2
+runwaitw.exe	16360	2014.3.6	22:51.16
+uninstall_imdisk.cmd	1547	2016.8.23	22:57.2
+ImDisk_2.1.1\files.cab\driver\awealloc\	0	2021.10.30	7:54.52
+ImDisk_2.1.1\files.cab\driver\awealloc\amd64\	0	2021.10.30	7:54.52
+awealloc.sys	36304	2021.10.30	7:54.52
+ImDisk_2.1.1\files.cab\driver\cli\	0	2021.10.30	7:54.58
+ImDisk_2.1.1\files.cab\driver\cli\amd64\	0	2021.10.30	7:54.58
+imdisk.exe	66048	2021.10.30	7:54.58
+ImDisk_2.1.1\files.cab\driver\cli\i386\	0	2021.10.30	17:4.18
+imdisk.exe	66048	2021.10.30	17:4.18
+ImDisk_2.1.1\files.cab\driver\cpl\	0	2021.10.30	7:55.10
+ImDisk_2.1.1\files.cab\driver\cpl\amd64\	0	2021.10.30	7:55.10
+imdisk.cpl	140296	2021.10.30	7:55.10
+ImDisk_2.1.1\files.cab\driver\cpl\i386\	0	2021.10.30	17:4.18
+imdisk.cpl	128016	2021.10.30	17:4.18
+ImDisk_2.1.1\files.cab\driver\deviodrv\	0	2021.10.30	7:55.36
+ImDisk_2.1.1\files.cab\driver\deviodrv\amd64\	0	2021.10.30	7:55.36
+deviodrv.sys	38376	2021.10.30	7:55.36
+ImDisk_2.1.1\files.cab\driver\svc\	0	2021.10.30	7:55.46
+ImDisk_2.1.1\files.cab\driver\svc\amd64\	0	2021.10.30	7:55.46
+imdsksvc.exe	34320	2021.10.30	7:55.46
+ImDisk_2.1.1\files.cab\driver\sys\	0	2021.10.30	7:56.0
+ImDisk_2.1.1\files.cab\driver\sys\amd64\	0	2021.10.30	7:56.0
+imdisk.sys	63976	2021.10.30	7:56.0
+ImDisk_3.0\	0	2025.4.5	18:55.8
+install.bat	652	2025.3.4	20:34.42
+ImDisk_3.0\files.cab\	726182	2025.3.4	20:23.14
+config.exe	66048	2025.2.6	12:12.38
+ImDisk Virtual Disk Driver.lnk	213	2024.2.3	16:45.10
+MountImg.exe	55808	2025.2.6	12:12.40
+ImDisk-Dlg.exe	41984	2025.2.6	12:12.36
+ImDiskTk-svc.exe	10752	2025.2.6	12:12.36
+RamDiskUI.exe	68608	2025.2.6	12:12.42
+RamDyn.exe	19968	2025.2.6	12:12.44
+ImDisk_3.0\files.cab\DiscUtils\	0	2024.1.31	22:24.14
+DevioNet.dll	34304	2024.1.31	22:24.14
+DiscUtils.Core.dll	243200	2024.1.31	2:33.42
+DiscUtils.Dmg.dll	28672	2024.1.31	2:33.42
+DiscUtils.Streams.dll	135168	2024.1.31	2:33.42
+DiscUtils.Vdi.dll	28672	2024.1.31	2:33.42
+DiscUtils.Vhd.dll	59392	2024.1.31	2:33.42
+DiscUtils.Vhdx.dll	73728	2024.1.31	2:33.42
+DiscUtils.Vmdk.dll	74240	2024.1.31	2:33.42
+DiscUtils.Xva.dll	69120	2024.1.31	2:33.42
+DiscUtilsDevio.exe	18944	2024.1.31	22:24.16
+DiscUtilsDevio.exe.config	174	2024.1.31	22:24.16
+ImDiskNet.dll	50688	2024.1.31	22:24.14
+LTRData.Extensions.dll	61440	2024.1.24	19:11.58
+lzfse-net.dll	7680	2019.12.9	10:27.50
+lzfse.dll	36352	2019.12.9	10:26.34
+Microsoft.Bcl.HashCode.dll	23424	2020.11.16	22:15.16
+System.Buffers.dll	20856	2020.2.19	11:5.18
+System.Memory.dll	142240	2022.5.8	5:31.2
+System.Numerics.Vectors.dll	115856	2018.5.15	15:29.44
+System.Runtime.CompilerServices.Unsafe.dll	16768	2020.2.19	11:5.16
+System.Threading.Tasks.Extensions.dll	25984	2020.2.19	11:5.18
+System.ValueTuple.dll	25232	2018.5.15	15:29.52
+ImDisk_3.0\files.cab\lang\	0	2024.11.5	18:46.36
+brazilian-portuguese.txt	31232	2024.11.5	18:46.36
+english.txt	27526	2024.11.5	18:46.44
+finnish.txt	27820	2024.11.5	18:46.58
+french.txt	33134	2024.11.5	18:47.4
+german.txt	31698	2024.11.5	18:47.8
+hungarian.txt	29392	2024.11.5	18:47.14
+italian.txt	31640	2024.11.5	18:47.20
+korean.txt	17080	2024.11.5	18:47.26
+russian.txt	29886	2024.11.5	18:47.30
+schinese.txt	11656	2024.11.5	18:47.36
+spanish.txt	31538	2024.11.5	18:47.40
+swedish.txt	28074	2024.11.5	18:47.46
+tchinese.txt	13066	2024.11.5	18:47.50
+turkish.txt	28694	2024.11.5	18:46.22
+ImDisk_3.0\files.cab\driver\	0	2006.2.7	17:26.50
+gpl.txt	18332	2006.2.7	17:26.50
+imdisk.inf	7610	2021.11.11	11:32.26
+install.cmd	2679	2016.8.23	22:56.34
+msgboxw.exe	10856	2014.3.6	20:54.28
+readme.txt	3029	2021.11.7	14:43.2
+runwaitw.exe	16360	2014.3.6	22:51.16
+uninstall_imdisk.cmd	1547	2016.8.23	22:57.2
+ImDisk_3.0\files.cab\driver\awealloc\	0	2025.3.4	18:14.36
+ImDisk_3.0\files.cab\driver\awealloc\amd64\	0	2025.3.4	18:14.36
+awealloc.sys	28352	2025.3.4	18:14.36
+ImDisk_3.0\files.cab\driver\cli\	0	2025.3.4	18:20.42
+ImDisk_3.0\files.cab\driver\cli\amd64\	0	2025.3.4	18:20.42
+imdisk.exe	54784	2025.3.4	18:20.42
+ImDisk_3.0\files.cab\driver\cli\i386\	0	2025.3.4	18:20.42
+imdisk.exe	55296	2025.3.4	18:20.42
+ImDisk_3.0\files.cab\driver\cpl\	0	2025.3.4	18:20.38
+ImDisk_3.0\files.cab\driver\cpl\amd64\	0	2025.3.4	18:20.38
+imdisk.cpl	130560	2025.3.4	18:20.38
+ImDisk_3.0\files.cab\driver\cpl\i386\	0	2025.3.4	18:20.40
+imdisk.cpl	122880	2025.3.4	18:20.40
+ImDisk_3.0\files.cab\driver\deviodrv\	0	2021.10.30	7:55.36
+ImDisk_3.0\files.cab\driver\deviodrv\amd64\	0	2021.10.30	7:55.36
+deviodrv.sys	38376	2021.10.30	7:55.36
+ImDisk_3.0\files.cab\driver\svc\	0	2025.3.4	18:20.44
+ImDisk_3.0\files.cab\driver\svc\amd64\	0	2025.3.4	18:20.44
+imdsksvc.exe	25600	2025.3.4	18:20.44
+ImDisk_3.0\files.cab\driver\sys\	0	2025.3.4	18:14.36
+ImDisk_3.0\files.cab\driver\sys\amd64\	0	2025.3.4	18:14.36
+imdisk.sys	57000	2025.3.4	18:14.36
+Shadow_Defender\	0	2025.1.30	21:25.24
+CmdTool.exe	760640	2020.8.6	14:24.48
+CmdTool.txt	1552	2014.8.14	16:51.4
+Commit.exe	905336	2020.8.6	14:24.52
+Daemon.exe	592768	2020.8.6	14:24.56
+Defender.exe	1387040	2020.8.6	14:24.56
+diskpt.sys	464008	2017.10.15	13:40.14
+diskpt.win10.sys	478544	2020.8.1	13:56.38
+eula.rtf	10131	2008.1.21	8:26.2
+Help.chm	335391	2018.1.14	15:32.52
+Install.exe	888792	2020.8.6	14:25.4
+res.ini	8935	2020.8.2	11:51.36
+Service.exe	134096	2020.8.6	14:25.4
+ShellExt.dll	408048	2020.8.6	14:25.4
+Uninstall.exe	641064	2020.8.6	14:25.6
+____Key____	29	2022.8.27	21:7.8
