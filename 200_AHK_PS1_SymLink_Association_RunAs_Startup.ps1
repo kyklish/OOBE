@@ -24,25 +24,20 @@ if (-Not (Test-Path env:SOFT_AHK)) {
 
 ############################ AHK STARTUP SCRIPT ################################
 
-# Example: [SOFT_AHK] == [F:\PORTABLE\_AutoHotkey_]
+# Example: [%SOFT_AHK%] == [F:\PORTABLE\_AutoHotkey_]
 $ahkStartupScript = "$env:SOFT_AHK\Scripts\_AutoHotkey_.ahk"
 
 ############### EXE DESTINATION (C:\Program Files\AutoHotkey) ##################
 
-# !!!NOT TESTED!!!
-# $appName = "AutoHotkeyA32.exe"
-# $appName = "AutoHotkeyU32.exe"
-# $appPath = "${env:ProgramFiles(x86)}\AutoHotkey"
+# Using [%SOFT_AHK%\AutoHotkey.exe] as source. Must be renamed [AutoHotkeyU64.exe].
 
-$appName = "AutoHotkeyU64.exe"
 $appPath = "$env:ProgramW6432\AutoHotkey"
-$appFullName = "$appPath\$appName"
 
 # In PowerShell, single-quoted strings are treated as literal strings, meaning
 #   that variables inside them are not expanded. If you want to expand a variable
 #   inside a string, you should use double quotes instead.
 # ["%1"] is script's full path and [%*] all other parameters, that passed to script.
-$ahkCommand = "`"$appFullName`" `"%1`" %*"
+$ahkCommand = "`"$appPath\AutoHotkey.exe`" `"%1`" %*"
 $ps1Command = "`"$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe`" `"%1`" %*"
 
 ############################### SYMBOLIC LINKS #################################
@@ -52,15 +47,15 @@ if (-Not (Test-Path -Path $appPath -PathType "Container")) {
     New-Item -ItemType "Directory" -Path $appPath
 }
 # -Force == overwrite
+New-Item -ItemType "SymbolicLink" -Path "$appPath\AutoHotkey.exe" -Target "$env:SOFT_AHK\AutoHotkey.exe" -Force
 New-Item -ItemType "SymbolicLink" -Path "$appPath\AutoHotkey.chm" -Target "$env:SOFT_AHK\AutoHotkey.chm" -Force
 New-Item -ItemType "SymbolicLink" -Path "$appPath\WindowSpy.ahk" -Target "$env:SOFT_AHK\Tools\WindowSpy.ahk" -Force
-New-Item -ItemType "SymbolicLink" -Path "$appFullName" -Target "$env:SOFT_AHK\$appName" -Force
 
 #### DIRTY FIX ####
 
-# VS Code (AHK++) uses [AutoHotkeyU64.exe]
-# VS COde (Debug) uses [AutoHotkey.exe], so add this dirty fix
-New-Item -ItemType "SymbolicLink" -Path "$appPath\Autohotkey.exe" -Target "$env:SOFT_AHK\$appName" -Force
+# VS Code (Debug) uses [AutoHotkey.exe]
+# VS Code (AHK++) uses [AutoHotkeyU64.exe], so add this dirty fix
+New-Item -ItemType "SymbolicLink" -Path "$appPath\AutoHotkeyU64.exe" -Target "$env:SOFT_AHK\AutoHotkey.exe" -Force
 Pause
 
 ############################ AHK FILE ASSOCIATIONS #############################
