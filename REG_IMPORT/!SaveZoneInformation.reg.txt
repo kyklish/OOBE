@@ -1,0 +1,5 @@
+Group Policy - ENABLE: Do not preserve zone information in file attachments. (Downloaded files from internet).
+
+[Edge] writes additional [SmartScreen] stream.
+Get-ChildItem -Path $env:USERPROFILE\Downloads\ -File -Recurse | Remove-Item -Stream *SmartScreen*, *Zone.Identifier*
+PowerShell -NoProfile -Ex Bypass -Command "Get-ChildItem -Path $env:USERPROFILE\Downloads\ -File -Recurse | Remove-Item -Stream *SmartScreen*, *Zone.Identifier*"
