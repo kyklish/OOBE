@@ -1,0 +1,21 @@
+DISABLE ALL PROTOCOLS EXCEPT IPv4
+V1:
+Get-NetAdapter
+Get-NetAdapterBinding -Name "YourAdapterName"
+Disable-NetAdapterBinding -Name "YourAdapterName" -ComponentID "ms_tcpip"
+ Enable-NetAdapterBinding -Name "YourAdapterName" -ComponentID "ms_tcpip"
+
+V2:
+Get-NetAdapter
+Get-NetAdapterBinding-Name "MyAdapter" -AllBindings
+Set-NetAdapterBinding-Name "MyAdapter" -ComponentID "ms_tcpip" -Enabled $True
+
+
+DISABLE NetBIOS OVER TCP/IP
+Look here first: [TODO - Command line disable NetBIOS - Stack Overflow.rar]
+
+V1:
+Get-WmiObject Win32_NetworkAdapterConfiguration | ForEach-Object { $_.SetTcpipNetbios(2) }
+
+V2:
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NetBT\Parameters\Interfaces ==> Change the [NetbiosOptions] value to [2] for the corresponding interface.
