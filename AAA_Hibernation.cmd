@@ -6,6 +6,6 @@
 ::     Hybrid Sleep
 ::     Fast Startup (NOT WORK: Up time in Task Manager resets to zero (must be preserved between starts))
 @ECHO OFF
-REM POWERCFG /HIBERNATE OFF
-POWERCFG /HIBERNATE /SIZE 40
+POWERCFG /HIBERNATE OFF
+:: POWERCFG /HIBERNATE /SIZE 40
 PAUSE
