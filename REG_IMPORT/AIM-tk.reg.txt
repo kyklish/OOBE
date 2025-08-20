@@ -1,0 +1,12 @@
+AIM Toolkit
+
+Size: 10GB
+Allocation: Dynamic
+Letter: R
+Label: RamDisk
+FS: NTFS
+TEMP Folder: Yes
+TEMP RELOCATE Env Vars: Yes
+TEMP RELOCATE Junction: No (Some soft can't access TEMP folder)
+
+Read ImDisk.reg.txt for more info.
