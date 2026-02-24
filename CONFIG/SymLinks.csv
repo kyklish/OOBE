@@ -53,9 +53,10 @@
 "F:\UNPROTECTED\GAMES\VirtualBox_VMs","%UserProfile%\VirtualBox VMs"
 #
 # PORTABLE SETTINGS
-"%SOFT%\Lossless_Scaling\____SETTINGS____","%LocalAppData%\Lossless Scaling"
 "%SOFT%\CompactGUI\____SETTINGS____","%LocalAppData%\IridiumIO\CompactGUI"
 "%SOFT%\FileZilla\____SETTINGS____","%AppData%\FileZilla"
+"%SOFT%\Lossless_Scaling\____SETTINGS____","%LocalAppData%\Lossless Scaling"
+"%SOFT%\SumatraPDF\____SETTINGS____","%LocalAppData%\SumatraPDF"
 #
 # Android Studio
 # "R:\TEMP\.gradle\caches","C:\Users\Fixer\.gradle\caches"
