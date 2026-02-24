@@ -2,11 +2,14 @@
 CD /D "%SystemRoot%\SystemApps"
 
 ECHO ==== Kill processes below permanently ====
-ECHO [Win+Space] hotkey will work [but not show pop-up window]
 ECHO SearchHost.exe
 ECHO ShellExperienceHost.exe
 ECHO StartMenuExperienceHost.exe [Start Menu: use Open-Shell]
 ECHO TextInputHost.exe [Clipboard History: use Clipdiary]
+ECHO 1. Notifications stops working
+ECHO 2. Right click on app in taskbar stops working
+ECHO 3. [Win+Space] hotkey will work but not show pop-up window
+ECHO 4. Windows Defender GUI stops working
 
 ECHO.
 ECHO ==== [SFC /SCANNOW] will repair all files ====
