@@ -1,0 +1,2 @@
+Edit [prolasso.ini] to quickly add disallowed processes:
+DisallowedProcesses=crossdeviceresume.exe,shellexperiencehost.exe,searchhost.exe,startmenuexperiencehost.exe,textinputhost.exe
