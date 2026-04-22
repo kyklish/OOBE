@@ -1,2 +1,7 @@
-Edit [prolasso.ini] to quickly add disallowed processes:
+File --> Manually Edit Configuration --> Quickly add disallowed processes:
+
+Or you can use full path with masks (THIS IS BETTER):
+DisallowedProcesses=C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_*\*.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_*\*.exe,C:\Windows\SystemApps\ShellExperienceHost_*\*.exe
+
+Or you can use pcocesses' names:
 DisallowedProcesses=crossdeviceresume.exe,shellexperiencehost.exe,searchhost.exe,startmenuexperiencehost.exe,textinputhost.exe
