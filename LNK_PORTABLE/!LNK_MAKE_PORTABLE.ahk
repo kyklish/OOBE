@@ -16,11 +16,11 @@ sReplacement := "%SOFT%"
 Loop, Files, *.lnk
 {
     FileGetShortcut, %A_LoopFileLongPath%, sTarget, sWorkingDir, sArgs, sDescription, sIconFile, iIconNumber
-    ; MsgBox %A_LoopFileLongPath%`n%sTarget%`n%sWorkingDir%
     sTarget := RegExReplace(sTarget, sSearch, sReplacement)
     sWorkingDir := RegExReplace(sWorkingDir, sSearch, sReplacement)
-    ; MsgBox %A_LoopFileLongPath%`n%sTarget%`n%sWorkingDir%
-    FileCreateShortcut, %sTarget%, %A_LoopFileLongPath%, %sWorkingDir%, %sArgs%, %sDescription%, %sIconFile%, , %iIconNumber%
+    ; When [Total Commander] creates LNK file it writes there file's path.
+    ; We change file's path, so don't use [sDescription] in new LNK file.
+    FileCreateShortcut, %sTarget%, %A_LoopFileLongPath%, %sWorkingDir%, %sArgs%, , %sIconFile%, , %iIconNumber%
 }
 
-MsgBox Done
+MsgBox % "Done"
