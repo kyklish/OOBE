@@ -1,21 +1,22 @@
 F:\PORTABLE\_OOBE_\
-!INSTALL\	0	2026.5.14	19:8.32
+!INSTALL\	0	2026.5.19	20:32.36
 !.NET [System] ASoft .NET Version Detector.lnk	1693	2025.8.19	11:20.14
 !.NET.lnk	1447	2025.2.19	16:57.38
 !VisualCppRedist_AIO_x86_x64 !SILENT!INSTALL!.lnk	2343	2025.8.18	10:36.44
 @DirectX Setup (IF [Appx Runtime] version NOT WORK) !SILENT!INSTALL!.lnk	2529	2025.2.19	19:2.10
-@PawnIO Driver for Fan Control !SILENT!INSTALL!.lnk	1391	2026.3.27	16:22.4
+@PawnIO Driver for Fan Control !SILENT!INSTALL!.lnk	1273	2026.5.19	2:37.46
+Cloudflare WARP.url	49	2026.5.18	17:53.46
 CompactGUI (Add any folder to enable AutoRun [Start from AHK not work]).lnk	1974	2025.2.6	15:47.46
-DefenderUI Free !VERYSILENT!INSTALL!.lnk	1515	2025.3.24	20:31.4
 Git !SILENT!INSTALL!.lnk	2010	2025.2.19	18:51.48
 InnoExtractor Ultra !SILENT!INSTALL!.lnk	1489	2025.4.18	14:24.32
 InSpectre.lnk	2048	2025.3.15	19:47.24
 Lossless Scaling - Registry Fix.lnk	1807	2026.5.14	18:45.14
-Open-Shell !SILENT!INSTALL!.lnk	1416	2025.12.17	21:35.28
+Open-Shell !SILENT!INSTALL!.lnk	1451	2026.5.19	2:48.48
 RTSS Rivatuner Statistics Server.lnk	1638	2025.3.21	12:4.14
 ScrollNavigator !SILENT!INSTALL!.cmd	51	2025.12.25	8:6.38
 SumatraPDF !SILENT!INSTALL!.lnk	1841	2025.2.19	18:47.24
 svp4-online.lnk	2174	2025.3.3	19:17.34
+Universal Watermark Disabler.lnk	2343	2026.5.19	17:31.14
 VirtualBox !SILENT!INSTALL!.lnk	1584	2025.8.19	12:9.2
 VirtualBox Extension Pack !SILENT!INSTALL!.lnk	1719	2025.8.19	12:9.6
 Windows Firewall Control !SILENT!INSTALL!.lnk	2038	2025.2.22	14:6.16
@@ -191,12 +192,6 @@ dxupdate.inf	12848	2010.11.8	21:55.0
 dxwsetup.cif	57739	2025.1.29	19:11.38
 dxwsetup.exe	527360	2011.3.30	5:40.14
 dxwsetup.inf	477	2011.3.30	12:13.0
-!INSTALL\ImDisk_2.1.1\	0	2025.4.5	18:54.50
-files.cab	714198	2025.2.6	14:12.48
-install.bat	228	2023.12.20	17:15.16
-!INSTALL\ImDisk_3.0.1\	0	2026.5.10	11:44.16
-files.cab	855803	2026.5.1	13:48.6
-install.bat	228	2023.12.20	17:15.16
 !INSTALL\ScrollNavigator\	0	2025.12.24	20:26.42
 (DFC)Cmd.dcf	10	2025.12.24	16:43.32
 (DFC)UpdateCheck.dcf	280	2025.12.24	16:43.54
@@ -205,7 +200,44 @@ Options.dcf	6173	2025.12.24	16:46.10
 ScrollNavigator 5.16.0.exe	2724566	2024.6.25	14:20.34
 Silent_Install.cmd	1061	2021.1.26	1:52.34
 VerySilent_Install.cmd	1065	2025.12.24	16:36.22
-!INSTALL\Shadow_Defender\	0	2025.1.30	21:25.24
+!INSTALL\Universal_Watermark_Disabler\	0	2026.5.19	17:31.18
+uwd.exe	624640	2015.7.20	23:44.2
+!INSTALL\VirtualBox\	0	2026.5.16	22:50.28
+Download.url	69	2025.4.7	20:7.54
+EXE_Install_All_Silent.cmd	218	2025.4.7	19:44.28
+EXE_Install_All_Silent_Extension_Pack.cmd	410	2025.4.7	19:57.16
+Oracle_VirtualBox_Extension_Pack-7.1.18.vbox-extpack	22971432	2026.5.16	22:49.2
+UserManual.pdf	11064819	2025.4.7	19:32.6
+VBoxGuestAdditions_7.1.18.iso	61454336	2026.5.16	22:50.10
+VirtualBox-7.1.18-173720-Win.exe	124511840	2026.5.16	22:48.30
+!INSTALL\_NOT_USED_RIGHT_NOW_\	0	2026.5.19	17:30.10
+!VisualCppRedist_AIO_x86_x64 !VERYSILENT!INSTALL!.lnk	2364	2025.2.19	19:6.26
+@Appx Codecs.lnk	1744	2025.1.31	14:59.20
+@Appx Runtime.lnk	1216	2025.1.31	15:0.32
+@DirectX Web Setup (VERY SLOW).lnk	2396	2025.2.19	19:2.26
+@RAM DISK - AIM Toolkit !SILENT!INSTALL! (Check TEMP Variables after installation).cmd	71	2025.12.19	4:19.54
+@RAM DISK - Disable Recycle Bin.png	36398	2025.8.15	11:37.26
+@RAM DISK - ImDisk !SILENT!INSTALL! (Check TEMP Variables after installation).cmd	75	2026.5.10	11:46.2
+DefenderUI Free !VERYSILENT!INSTALL! (OVERRIDES PS1 SCRIPT CHANGES).lnk	1515	2025.3.24	20:31.4
+Git !VERYSILENT!INSTALL!.lnk	2046	2025.2.19	18:52.26
+Hard Link Shell Extension !SILENT!INSTALL!.lnk	2130	2025.2.22	13:43.54
+kards_installer.exe	536920	2025.1.14	23:14.20
+RaiDrive_2023.9.256_x64.lnk	1596	2025.5.2	10:7.56
+Shadow Defender Install KEY.lnk	1640	2026.5.14	19:15.22
+Shadow Defender Install.lnk	1809	2026.5.14	19:16.36
+ZZZ (INSTALLED IN PORTABLE) MSI Afterburner !SILENT!INSTALL!.lnk	1335	2025.3.21	11:59.46
+ZZZ GamingRepairTool.exe	734760	2025.3.21	16:27.20
+ZZZ PowerToys - MS Store.url	74	2025.4.7	12:35.58
+ZZZ PowerToys.url	80	2025.4.7	12:18.26
+ZZZ WebView2.url	87	2025.4.7	13:29.40
+ZZZ WinToys - MS Store.url	72	2025.4.7	12:33.36
+!INSTALL\_NOT_USED_RIGHT_NOW_\ImDisk_2.1.1\	0	2025.4.5	18:54.50
+files.cab	714198	2025.2.6	14:12.48
+install.bat	228	2023.12.20	17:15.16
+!INSTALL\_NOT_USED_RIGHT_NOW_\ImDisk_3.0.1\	0	2026.5.10	11:44.16
+files.cab	855803	2026.5.1	13:48.6
+install.bat	228	2023.12.20	17:15.16
+!INSTALL\_NOT_USED_RIGHT_NOW_\Shadow_Defender\	0	2025.1.30	21:25.24
 CmdTool.exe	760640	2020.8.6	14:24.48
 CmdTool.txt	1552	2014.8.14	16:51.4
 Commit.exe	905336	2020.8.6	14:24.52
@@ -221,38 +253,3 @@ Service.exe	134096	2020.8.6	14:25.4
 ShellExt.dll	408048	2020.8.6	14:25.4
 Uninstall.exe	641064	2020.8.6	14:25.6
 ____Key____	29	2022.8.27	21:7.8
-!INSTALL\VirtualBox\	0	2025.8.19	12:10.2
-Download.url	69	2025.4.7	20:7.54
-EXE_Install_All_Silent.cmd	218	2025.4.7	19:44.28
-EXE_Install_All_Silent_Extension_Pack.cmd	410	2025.4.7	19:57.16
-Oracle_VirtualBox_Extension_Pack-7.1.6.vbox-extpack	22973241	2025.4.7	19:31.54
-UserManual.pdf	11064819	2025.4.7	19:32.6
-VBoxGuestAdditions_7.1.6.iso	60225536	2025.4.7	20:6.6
-VirtualBox-7.1.6-167084-Win.exe	123016232	2025.4.7	19:31.36
-!INSTALL\WFC\	0	2025.12.25	19:9.36
-PORTABLE APPS 16.12.2025.wpw	33148	2025.12.23	20:27.28
-REGULAR APPS 24.12.2025.wpw	2965	2025.12.25	19:31.58
-SYSTEM APPS 25.12.2025.wpw	3353	2025.12.25	19:8.56
-TEST GAMES BLOCK 16.12.2025.wpw	5473	2025.12.16	23:58.14
-User settings 23.12.2025.wfs	3731	2025.12.24	17:27.22
-Win 10 Tweaker – Антишпион.wpw	2910	2025.12.17	0:0.50
-!INSTALL\_NOT_USED_RIGHT_NOW_\	0	2026.5.14	19:16.22
-!VisualCppRedist_AIO_x86_x64 !VERYSILENT!INSTALL!.lnk	2364	2025.2.19	19:6.26
-@Appx Codecs.lnk	1744	2025.1.31	14:59.20
-@Appx Runtime.lnk	1216	2025.1.31	15:0.32
-@DirectX Web Setup (VERY SLOW).lnk	2396	2025.2.19	19:2.26
-@RAM DISK - AIM Toolkit !SILENT!INSTALL! (Check TEMP Variables after installation).cmd	71	2025.12.19	4:19.54
-@RAM DISK - Disable Recycle Bin.png	36398	2025.8.15	11:37.26
-@RAM DISK - ImDisk !SILENT!INSTALL! (Check TEMP Variables after installation).cmd	75	2026.5.10	11:46.2
-Git !VERYSILENT!INSTALL!.lnk	2046	2025.2.19	18:52.26
-Hard Link Shell Extension !SILENT!INSTALL!.lnk	2130	2025.2.22	13:43.54
-kards_installer.exe	536920	2025.1.14	23:14.20
-RaiDrive_2023.9.256_x64.lnk	1596	2025.5.2	10:7.56
-Shadow Defender Install KEY.lnk	1640	2026.5.14	19:15.22
-Shadow Defender Install.lnk	1809	2026.5.14	19:16.36
-ZZZ (INSTALLED IN PORTABLE) MSI Afterburner !SILENT!INSTALL!.lnk	1335	2025.3.21	11:59.46
-ZZZ GamingRepairTool.exe	734760	2025.3.21	16:27.20
-ZZZ PowerToys - MS Store.url	74	2025.4.7	12:35.58
-ZZZ PowerToys.url	80	2025.4.7	12:18.26
-ZZZ WebView2.url	87	2025.4.7	13:29.40
-ZZZ WinToys - MS Store.url	72	2025.4.7	12:33.36
