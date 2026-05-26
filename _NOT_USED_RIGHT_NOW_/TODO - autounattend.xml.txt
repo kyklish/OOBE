@@ -1,3 +1,5 @@
+https://schneegans.de/windows/unattend-generator/
+
 autounattend создает один профиль Professional администратора (по умолчанию)
 Параметры:
 <TimeZone>UTC +3:00</TimeZone> - Временная зона https://technet.microsoft.com/en-us/library/cc749073(v=ws.10).aspx
