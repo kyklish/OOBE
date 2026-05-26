@@ -1,0 +1,3 @@
+defragsvc (Optimize Drives) service is needed! It ts re-TRIMs SSD weekly.
+
+Win + I ==> System ==> Storage ==> Optimize Drives
