@@ -1,0 +1,5 @@
+Hide Edge [First Run Experience].
+This will skip the annoying dialogs when Edge is run for the first time.
+
+Disable Edge [Startup Boost] and [Background Mode].
+This will stop Edge from running in the background all the time.
