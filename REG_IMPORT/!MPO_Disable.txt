@@ -1,0 +1,24 @@
+Multi-Plane Overlay (MPO) in Windows 11
+
+Multi-Plane Overlay (MPO) is a feature in Windows 11 that allows the GPU to compose multiple image layers (or “planes”) independently before presenting them on the display. This can improve performance and reduce power consumption by offloading certain composition tasks from the desktop window manager to dedicated hardware.
+
+You can check if it's active via [dxdiag] under [Display] tab.
+Comment from internet: disabling this may break some of the Windows "FullScreen Optimization (FSO)" stuff, but frankly that's always been kind of a nightmare anyway.
+
+
+
+
+DISABLE
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm]
+"OverlayTestMode"=dword:00000005
+
+
+
+
+RESTORE
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm]
+"OverlayTestMode"=-
