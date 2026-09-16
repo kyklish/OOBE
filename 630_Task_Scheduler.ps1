@@ -45,7 +45,7 @@
 $name = "@TimeSync"
 Write-Output $name
 $action = New-ScheduledTaskAction -Execute "$env:SOFT\TimeSync\timesync.exe" -Argument "/auto"
-$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek "Sunday" -At "3am"
+$trigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek "Sunday" -At "0am"
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable:$true
 Register-ScheduledTask `
     -Action $action `
